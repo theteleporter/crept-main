@@ -1,0 +1,122 @@
+{
+    "title": "Crimes of the Future",
+    "genres": [
+        "Science Fiction",
+        "Drama",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "In a not-so-distant future, humankind is adapting to a synthetic environment, with new transformations and mutations altering their biological makeup. Performance artist Saul Tenser, celebrity for his avant-garde surgeries, publicly showcases the metamorphosis of his organs in his performances. Alongside his partner Caprice, Tenser has turned the removal of these tumors into a spectacle for his loyal followers.",
+    "release_year": "2022",
+    "seasons": 1,
+    "time": 107,
+    "rating": "18+",
+    "url": "/browse/film/crimes-of-the-future",
+    "bannerImage": "/assets/images/titles/crimes-of-the-future/crimesofthefuture1.jpg",
+    "language": "En",
+    "country": "CA",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Viggo Mortensen",
+            "character": "Saul Tenser"
+        },
+        {
+            "name": "Léa Seydoux",
+            "character": "Caprice"
+        },
+        {
+            "name": "Kristen Stewart",
+            "character": "Timlin"
+        },
+        {
+            "name": "Scott Speedman",
+            "character": "Lang Dotrice"
+        },
+        {
+            "name": "Welket Bungué",
+            "character": "Cope"
+        },
+        {
+            "name": "Don McKellar",
+            "character": "Wippet"
+        },
+        {
+            "name": "Lihi Kornowski",
+            "character": "Djuna"
+        },
+        {
+            "name": "Nadia Litz",
+            "character": "Router"
+        },
+        {
+            "name": "Yorgos Karamichos",
+            "character": "Brent Boss"
+        },
+        {
+            "name": "Yorgos Pirpassopoulos",
+            "character": "Doctor Nasatir"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Crimes of the Future Image",
+            "url": "../../assets/images/titles/crimes-of-the-future/crimesofthefuture1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "../../assets/images/titles/crimes-of-the-future/crimesofthefuture2.jpg",
+                    "trailerUrl": "https://www.youtube.com/watch?v=5SSjcHgcFYI" 
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/eXistenZ/existenz1.jpg",
+            "urlTo": "/browse/film/eXistenZ",
+            "imageTitle": "eXistenZ"
+        },
+        {
+            "imageUrl": "/assets/images/titles/videodrome/videodrome1.jpg",
+            "urlTo": "/browse/film/videodrome",
+            "imageTitle": "Videodrome"
+        },
+        {
+            "imageUrl": "/assets/images/titles/under-the-skin/undertheskin1.jpg",
+            "urlTo": "/browse/film/under-the-skin",
+            "imageTitle": "Under the Skin"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "Crimes of the Future",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "In a not-so-distant future, humankind is adapting to a synthetic environment, with new transformations and mutations altering their biological makeup. Performance artist Saul Tenser, celebrity for his avant-garde surgeries, publicly showcases the metamorphosis of his organs in his performances. Alongside his partner Caprice, Tenser has turned the removal of these tumors into a spectacle for his loyal followers.",
+                    "runningTime": "107 Min",
+                    "videoQuality": {
+                        "480p": "https://spacestorageunit.blob.core.windows.net/container-x/crimes-of-the-future/Crimes.of.the.Future.2022.480p.BluRay.x264.400MB-crept.studio.mkv",
+                        "720p": "https://spacestorageunit.blob.core.windows.net/container-x/crimes-of-the-future/Crimes.of.the.Future.2022.720p.UHD.BluRay.x264.6CH-crept.studio.mkv",
+                        "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/crimes-of-the-future/Crimes.of.the.Future.2022.1080p.UHD.BluRay.x264.DD+5.1-crept.studio.mkv",
+                        "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/crimes-of-the-future/Crimes.of.the.Future.2022.2160p.UHD.BluRay.x265.HDR.DV.DD+5.1-crept.studio.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/crimes-of-the-future/crimesofthefuture1.jpg",
+                        "poster": "../../assets/images/titles/crimes-of-the-future/crimesofthefuture2.jpg",
+                        "banner": "../../assets/images/titles/crimes-of-the-future/crimesofthefuture3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

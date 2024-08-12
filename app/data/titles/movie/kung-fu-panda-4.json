@@ -1,0 +1,94 @@
+{
+    "title": "Kung Fu Panda 4",
+    "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "Po faces his most formidable enemy yet: the Chameleon, a cunning sorceress who can summon villains from the past. Po must confront these old foes anew while searching for and training the next Dragon Warrior.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 93,
+    "rating": "13+",
+    "url": "/browse/film/kung-fu-panda-4",
+    "bannerImage": "/assets/images/titles/kung-fu-panda-4/kungfupanda4_1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        { "name": "Jack Black", "character": "Po" },
+        { "name": "Angelina Jolie", "character": "Tigress" },
+        { "name": "Dustin Hoffman", "character": "Master Shifu" },
+        { "name": "Jackie Chan", "character": "Monkey" },
+        { "name": "Seth Rogen", "character": "Mantis" },
+        { "name": "Lucy Liu", "character": "Viper" },
+        { "name": "David Cross", "character": "Crane" },
+        { "name": "James Hong", "character": "Mr. Ping" },
+        { "name": "Awkwafina", "character": "Zhen" },
+        { "name": "Michelle Yeoh", "character": "The Soothsayer" }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Kung Fu Panda 4 Image",
+            "url": "../../assets/images/titles/kung-fu-panda-4/kungfupanda4_1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "../../assets/images/titles/kung-fu-panda-4/kungfupanda4_2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/_inKs4eeHiI?si=Ir3hkPASYFe9GGkp"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/kung-fu-panda-3/kungfupanda3_1.jpg",
+            "urlTo": "/browse/film/kung-fu-panda-3",
+            "imageTitle": "Kung Fu Panda 3"
+        },
+        {
+            "imageUrl": "/assets/images/titles/kung-fu-panda-2/kungfupanda2_1.jpg",
+            "urlTo": "/browse/film/kung-fu-panda-2",
+            "imageTitle": "Kung Fu Panda 2"
+        },
+        {
+            "imageUrl": "/assets/images/titles/kung-fu-panda/kungfupanda1.jpg",
+            "urlTo": "/browse/film/kung-fu-panda",
+            "imageTitle": "Kung Fu Panda"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "Kung Fu Panda 4",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "Po faces his most formidable enemy yet: the Chameleon, a cunning sorceress who can summon villains from the past. Po must confront these old foes anew while searching for and training the next Dragon Warrior.",
+                    "runningTime": "93 Min",
+                    "videoQuality": {
+                        "480p": "https://dl3.tabar.sbs/Dubbed/Movies/Kung.Fu.Panda.4.2024/Kung.Fu.Panda.4.2024.480p.BluRay.Pahe.Dubbed.EBTV.mkv",
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Kung.Fu.Panda.4.2024/Kung.Fu.Panda.4.2024.720p.BluRay.Pahe.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Kung.Fu.Panda.4.2024/Kung.Fu.Panda.4.2024.1080p.BluRay.8CH.Pahe.Dubbed.EBTV.mkv",
+                        "2160p": "https://dl3.tabar.sbs/Dubbed/Movies/Kung.Fu.Panda.4.2024/Kung.Fu.Panda.4.2024.2160p.10bit.UHD.HDR.DV.BluRay.6CH.x265.Pahe.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/kung-fu-panda-4/kungfupanda4_1.jpg",
+                        "poster": "../../assets/images/titles/kung-fu-panda-4/kungfupanda4_2.jpg",
+                        "banner": "../../assets/images/titles/kung-fu-panda-4/kungfupanda4_3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}

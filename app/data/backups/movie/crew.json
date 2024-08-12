@@ -1,0 +1,85 @@
+{
+    "title": "Crew",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "Hailed as 'delectable' by The Times of India, this Rajesh Krishnan-directed comedy follows three bold flight attendants caught in a gold smuggling ring.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 130,  
+    "rating": "13+", 
+    "url": "/browse/film/crew",
+    "bannerImage": "/assets/images/titles/crew/crew1.jpg",
+    "language": "Hi", 
+    "country": "IN", 
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Kriti Sanon", "character": "Aditi" },
+      { "name": "Tabu", "character": "Biresh" },
+      { "name": "Kareena Kapoor Khan", "character": "Veera" },
+      { "name": "Diljit Dosanjh", "character": "Gaurav" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Crew Image",
+        "url": "../../assets/images/titles/crew/crew1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/crew/crew2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=l9zb5NHV98M"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/the_proposal/theproposal1.jpg",
+        "urlTo": "/browse/film/the-proposal",
+        "imageTitle": "The Proposal"
+      },
+      {
+        "imageUrl": "/assets/images/titles/bridesmaids/bridesmaids1.jpg",
+        "urlTo": "/browse/film/bridesmaids",
+        "imageTitle": "Bridesmaids"
+      },
+      {
+        "imageUrl": "/assets/images/titles/heist/heist1.jpg",
+        "urlTo": "/browse/film/heist",
+        "imageTitle": "Heist"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Crew",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "Hailed as 'delectable' by The Times of India, this Rajesh Krishnan-directed comedy follows three bold flight attendants caught in a gold smuggling ring.",
+            "runningTime": "130 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/crew/Crew.2024.480p.NF.WEB-DL.x264-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/crew/Crew.2024.720p.NF.WEB-DL.x264-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/crew/Crew.2024.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/crew/crew1.jpg",
+              "poster": "../../assets/images/titles/crew/crew2.jpg",
+              "banner": "../../assets/images/titles/crew/crew3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

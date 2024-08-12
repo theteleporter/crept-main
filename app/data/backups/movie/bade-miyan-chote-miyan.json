@@ -1,0 +1,106 @@
+{
+    "title": "Bade Miyan Chote Miyan",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "Two elite soldiers with troubled pasts are enlisted for a daring mission when a deadly masked villain threatens India's defenses.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 164,
+    "rating": "13+",
+    "url": "/browse/film/bade-miyan-chote-miyan",
+    "bannerImage": "/assets/images/titles/bade-miyan-chote-miyan/bademiyanchotemiyan1.jpg",
+    "language": "Hi",
+    "country": "IN",
+    "number_of_episodes": 1,
+    "cast": [
+      {
+        "name": "Akshay Kumar",
+        "character": "Bade Miyan"
+      },
+      {
+        "name": "Tiger Shroff",
+        "character": "Chote Miyan"
+      },
+      {
+        "name": "Prithviraj Sukumaran",
+        "character": "Kabir"
+      },
+      {
+        "name": "Manushi Chhillar",
+        "character": "Dr. Ayesha"
+      },
+      {
+        "name": "Alaya F",
+        "character": "Nandini"
+      },
+      {
+        "name": "Sonakshi Sinha",
+        "character": "Special Appearance"
+      }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Bade Miyan Chote Miyan Image",
+        "url": "../../assets/images/titles/bade-miyan-chote-miyan/bademiyanchotemiyan1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Trailer",
+            "imageUrl": "../../assets/images/titles/bade-miyan-chote-miyan/bademiyanchotemiyan2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=IGzLHNPO4QI"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/sooryavanshi/sooryavanshi1.jpg",
+        "urlTo": "/browse/film/sooryavanshi",
+        "imageTitle": "Sooryavanshi"
+      },
+      {
+        "imageUrl": "/assets/images/titles/war/war1.jpg",
+        "urlTo": "/browse/film/war",
+        "imageTitle": "War"
+      },
+      {
+        "imageUrl": "/assets/images/titles/pathaan/pathaan1.jpg",
+        "urlTo": "/browse/film/pathaan",
+        "imageTitle": "Pathaan"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Bade Miyan Chote Miyan",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "Two elite soldiers with troubled pasts are enlisted for a daring mission when a deadly masked villain threatens India's defenses.",
+            "runningTime": "164 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/bade-miyan-chote-miyan/Bade.Miyan.Chote.Miyan.2024.480p.NF.WEB-DL.x264-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/bade-miyan-chote-miyan/Bade.Miyan.Chote.Miyan.2024.720p.NF.WEB-DL.x264-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/bade-miyan-chote-miyan/Bade.Miyan.Chote.Miyan.2024.1080p.NF.WEB-DL.x264.AAC5.1-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/bade-miyan-chote-miyan/bademiyanchotemiyan1.jpg",
+              "poster": "../../assets/images/titles/bade-miyan-chote-miyan/bademiyanchotemiyan2.jpg",
+              "banner": "../../assets/images/titles/bade-miyan-chote-miyan/bademiyanchotemiyan3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

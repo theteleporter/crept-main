@@ -1,0 +1,148 @@
+{
+    "title": "",
+    "genres": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "description":  "",
+    "release_year": "",
+    "seasons": 0,
+    "time": 0,
+    "rating": "",
+    "url": "",
+    "bannerImage": "",
+    "language": "",
+    "country": "",
+    "number_of_episodes": 0,
+    "cast": [
+        {
+            "name": "",
+            "character": ""
+        },
+        {
+            "name": "",
+            "character": ""
+        },
+        {
+            "name": "",
+            "character": ""
+        },
+        {
+            "name": "",
+            "character": ""
+        },
+        {
+            "name": "",
+            "character": ""
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "",
+            "url": ""
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "",
+                    "imageUrl": "",
+                    "trailerUrl": ""
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "",
+            "urlTo": "",
+            "imageTitle": ""
+        },
+        {
+            "imageUrl": "",
+            "urlTo": "",
+            "imageTitle": ""
+        },
+        {
+            "imageUrl": "",
+            "urlTo": "",
+            "imageTitle": ""
+        },
+        {
+            "imageUrl": "",
+            "urlTo": "",
+            "imageTitle": ""
+        },
+        {
+            "imageUrl": "",
+            "urlTo": "",
+            "imageTitle": ""
+        },
+        {
+            "imageUrl": "",
+            "urlTo": "",
+            "imageTitle": ""
+        },
+        {
+            "imageUrl": "",
+            "urlTo": "",
+            "imageTitle": ""
+        },
+        {
+            "imageUrl": "",
+            "urlTo": "",
+            "imageTitle": ""
+        },
+        {
+            "imageUrl": "",
+            "urlTo": "",
+            "imageTitle": ""
+        },
+        {
+            "imageUrl": "",
+            "urlTo": "",
+            "imageTitle": ""
+        },
+        {
+            "imageUrl": "",
+            "urlTo": "",
+            "imageTitle": ""
+        },
+        {
+            "imageUrl": "",
+            "urlTo": "",
+            "imageTitle": ""
+        }
+    ],    
+    "seasonsEpisode": [
+        {
+            "title": "",
+            "episodes": [
+                {
+                    "title": "",
+                    "season": 0,
+                    "episodeNumber": 0,
+                    "description":  "",
+                    "runningTime": "",
+                    "videoQuality": {
+                        "480p": "",
+                        "720p": "",
+                        "1080p": "",
+                        "2160p": ""
+                    },
+                    "images": {
+                        "thumbnail": "",
+                        "poster": "",
+                        "banner": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

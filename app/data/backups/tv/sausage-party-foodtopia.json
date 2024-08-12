@@ -1,0 +1,208 @@
+{
+  "title": "Sausage Party: Foodtopia",
+  "genres": ["Animation", "Comedy", "Adventure", "Films", "Tv Show", "All"],
+  "description": "Sausage Party: Foodtopia is an upcoming American adult computer-animated streaming television series based on the 2016 film of the same name. The series serves as a sequel to the film, continuing the adventures of Frank the sausage and his food friends in the supermarket.",
+  "release_year": "2024",
+  "seasons": 1,
+  "time": 25,
+  "rating": "12+",
+  "url": "/browse/title/sausage-party-foodtopia",
+  "bannerImage": "/assets/images/titles/sausage-party-foodtopia/spft1.jpg",
+  "language": "En",
+  "country": "US",
+  "number_of_episodes": "8",
+  "cast": [
+    { "name": "Seth Rogen", "character": "Frank" },
+    { "name": "Kristen Wiig", "character": "Brenda" },
+    { "name": "Michael Cera", "character": "Barry" },
+    { "name": "David Krumholtz", "character": "Kareem Abdul Lavash" },
+    { "name": "Edward Norton", "character": "Sammy Bagel Jr." },
+    { "name": "Will Forte", "character": "Doug" }
+  ],
+  "imagesUrl": [
+    {
+      "title": "Sausage Party: Foodtopia Image",
+      "url": "../../assets/images/titles/sausage-party-foodtopia/spft1.jpg"
+    },
+    {
+      "title": "Sausage Party: Foodtopia Image",
+      "url": "../../assets/images/titles/sausage-party-foodtopia/spft2.jpg"
+    },
+    {
+      "title": "Sausage Party: Foodtopia Image",
+      "url": "../../assets/images/titles/sausage-party-foodtopia/spft3.jpg"
+    },
+    {
+      "title": "Sausage Party: Foodtopia Image",
+      "url": "../../assets/images/titles/sausage-party-foodtopia/spft4.jpg"
+    }
+  ],
+  "more-like": [
+    {
+      "imageUrl": "/assets/images/titles/sausage-party/sausage-party1.jpg",
+      "urlTo": "/browse/title/sausage-party",
+      "imageTitle": "Sausage Party"
+    },
+    {
+      "imageUrl": "/assets/images/titles/family-guy/family-guy1.jpg",
+      "urlTo": "/browse/title/family-guy",
+      "imageTitle": "Family Guy"
+    },
+    {
+      "imageUrl": "/assets/images/titles/rick-and-morty/rick-and-morty1.jpg",
+      "urlTo": "/browse/title/rick-and-morty",
+      "imageTitle": "Rick and Morty"
+    },
+    {
+      "imageUrl": "/assets/images/titles/south-park/south-park1.jpg",
+      "urlTo": "/browse/title/south-park",
+      "imageTitle": "South Park"
+    }
+  ],
+  "trailers": [
+    {
+      "season": [
+        {
+          "title": "Official Trailer",
+          "imageUrl": "../../assets/images/titles/sausage-party-foodtopia/spft2.jpg",
+          "trailerUrl": "YOUR_TRAILER_URL_HERE"
+        }
+      ]
+    }
+  ],
+  "seasonsEpisode": [
+    {
+      "title": "Season 1",
+      "episodes": [
+        {
+          "title": "First Course",
+          "season": 1,
+          "episodeNumber": 1,
+          "description": "The great Food Fight has ended. Food reigns victorious over humanity. They're free to create their own Foodtopia. But not everything is as it seems.",
+          "runningTime": "25 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/sausage-party-foodtopia/sn-1/720p/Sausage.Party.Foodtopia.S01E01.First.Course.720p.WEB-DL.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/sausage-party-foodtopia/sn-1/1080p/Sausage.Party.Foodtopia.S01E01.First.Course.1080p.WEB-DL.x265.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Second Course",
+          "season": 1,
+          "episodeNumber": 2,
+          "description": "Frank, after learning about the truth of the universe, is now a prophet. And in Foodtopia, his followers are growing. But not everyone believes he's the real deal.",
+          "runningTime": "25 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/sausage-party-foodtopia/sn-1/720p/Sausage.Party.Foodtopia.S01E02.Second.Course.720p.WEB-DL.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/sausage-party-foodtopia/sn-1/1080p/Sausage.Party.Foodtopia.S01E02.Second.Course.1080p.WEB-DL.x265.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Third Course",
+          "season": 1,
+          "episodeNumber": 3,
+          "description": "Brenda finds herself in a difficult situation with the Non-Perishables while struggling with her addiction to bath salts. Meanwhile, Barry and Sammy grapple with their new lives as dads.",
+          "runningTime": "23 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/sausage-party-foodtopia/sn-1/720p/Sausage.Party.Foodtopia.S01E03.Third.Course.720p.WEB-DL.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/sausage-party-foodtopia/sn-1/1080p/Sausage.Party.Foodtopia.S01E03.Third.Course.1080p.WEB-DL.x265.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Fourth Course",
+          "season": 1,
+          "episodeNumber": 4,
+          "description": "Barry and Sammy have to clear Frank's name and save Foodtopia. Julius must be stopped. But not all is as it seems to be.",
+          "runningTime": "26 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/sausage-party-foodtopia/sn-1/720p/Sausage.Party.Foodtopia.S01E04.Fourth.Course.720p.WEB-DL.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/sausage-party-foodtopia/sn-1/1080p/Sausage.Party.Foodtopia.S01E04.Fourth.Course.1080p.WEB-DL.x265.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Fifth Course",
+          "season": 1,
+          "episodeNumber": 5,
+          "description": "Barry, Sammy, and the gang hatch a daring plan to infiltrate the Citrus Tower and expose the truth. Their mission takes unexpected twists and turns as they face the wrath of Julius.",
+          "runningTime": "28 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/sausage-party-foodtopia/sn-1/720p/Sausage.Party.Foodtopia.S01E05.Fifth.Course.720p.WEB-DL.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/sausage-party-foodtopia/sn-1/1080p/Sausage.Party.Foodtopia.S01E05.Fifth.Course.1080p.WEB-DL.x265.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Sixth Course",
+          "season": 1,
+          "episodeNumber": 6,
+          "description": "Barry, Sammy, and the gang must face the consequences of their actions as they attempt to escape the Citrus Tower. The stakes are higher than ever as the fate of Foodtopia hangs in the balance.",
+          "runningTime": "24 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/sausage-party-foodtopia/sn-1/720p/Sausage.Party.Foodtopia.S01E06.Sixth.Course.720p.WEB-DL.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/sausage-party-foodtopia/sn-1/1080p/Sausage.Party.Foodtopia.S01E06.Sixth.Course.1080p.WEB-DL.x265.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Seventh Course",
+          "season": 1,
+          "episodeNumber": 7,
+          "description": "Brenda sets out to find the good in the dictator orange, Julius. Frank ties up some loose ends. And nothing is as it seems.",
+          "runningTime": "25 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/sausage-party-foodtopia/sn-1/720p/Sausage.Party.Foodtopia.S01E07.Seventh.Course.720p.WEB-DL.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/sausage-party-foodtopia/sn-1/1080p/Sausage.Party.Foodtopia.S01E07.Seventh.Course.1080p.WEB-DL.x265.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Eighth Course",
+          "season": 1,
+          "episodeNumber": 8,
+          "description": "The fate of Foodtopia is decided in a final showdown as the gang confronts the ultimate evil. Unexpected alliances are formed, and sacrifices are made in the name of freedom.",
+          "runningTime": "27 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/sausage-party-foodtopia/sn-1/720p/Sausage.Party.Foodtopia.S01E08.Eight.Course.720p.WEB-DL.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/sausage-party-foodtopia/sn-1/1080p/Sausage.Party.Foodtopia.S01E08.Eight.Course.1080p.WEB-DL.x265.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+    "title": "The Beekeeper",
+    "genres": [
+        "Action",
+        "Thriller",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "A man's quest for vengeance against a powerful and mysterious organization after his daughter is kidnapped.",
+    "release_year": "2024",  
+    "seasons": 1, 
+    "time": 100, 
+    "rating": "18+",
+    "url": "/browse/film/the-beekeeper",
+    "bannerImage": "/assets/images/titles/the-beekeeper/thebeekeeper1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1, 
+    "cast": [
+        {
+            "name": "Jason Statham",
+            "character": "The Beekeeper"
+        },
+        {
+            "name": "Jeremy Irons",
+            "character": "The Guardian"
+        },
+        {
+            "name": "Emmy Raver-Lampman",
+            "character": "Agent Cole"
+        },
+        {
+            "name": "Bobby Naderi",
+            "character": "Skinny Man"
+        },
+        {
+            "name": "Josh Hutcherson",
+            "character": "Young Man"
+        },
+        {
+            "name": "Cline Crawford",
+            "character": "Security Guy #1"
+        },
+        {
+            "name": "Tom Cruise",
+            "character": "Security Guy #2"
+        },
+        {
+            "name": "Brad Pitt",
+            "character": "Security Guy #3"
+        },
+        {
+            "name": "Chris Hemsworth",
+            "character": "Security Guy #4"
+        },
+        {
+            "name": "Robert Downey Jr.",
+            "character": "Security Guy #5"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "The Beekeeper Image",
+            "url": "../../assets/images/titles/the-beekeeper/thebeekeeper1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "../../assets/images/titles/the-beekeeper/thebeekeeper4.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/YOUR_TRAILER_ID"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/mechanic/mechanic1.jpg",
+            "urlTo": "/browse/film/mechanic",
+            "imageTitle": "Mechanic"
+        },
+        {
+            "imageUrl": "/assets/images/titles/expendables/expendables1.jpg",
+            "urlTo": "/browse/film/the-expendables",
+            "imageTitle": "The Expendables"
+        },
+        {
+            "imageUrl": "/assets/images/titles/transporter/transporter1.jpg",
+            "urlTo": "/browse/film/the-transporter",
+            "imageTitle": "The Transporter"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "The Beekeeper",
+                    "season": 1,
+                    "episodeNumber": 1, 
+                    "description": "A man's quest for vengeance against a powerful and mysterious organization after his daughter is kidnapped.",
+                    "runningTime": "100 Min", 
+                    "videoQuality": {
+                        "480p": "https://spacestorageunit.blob.core.windows.net/container-x/the-beekeeper/The.Beekeeper.2024.480p.BluRay.x264-crept.studio.mkv",
+                        "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-beekeeper/The.Beekeeper.2024.720p.BluRay.x264-crept.studio.mkv",
+                        "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-beekeeper/The.Beekeeper.2024.1080p.BluRay.x264.DD+7.1-crept.studio.mkv",
+                        "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-beekeeper/The.Beekeeper.2024.2160p.UHD.BluRay.x265.HDR.DV.DD+5.1.Atmos-crept.studio.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/the-beekeeper/thebeekeeper1.jpg",
+                        "poster": "../../assets/images/titles/the-beekeeper/thebeekeeper2.jpg",
+                        "banner": "../../assets/images/titles/the-beekeeper/thebeekeeper3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}

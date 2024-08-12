@@ -1,0 +1,88 @@
+{
+  "title": "Godzilla x Kong: The New Empire",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction",
+    "Monster",
+    "Movie",
+    "Films",
+    "All"
+  ],
+  "description": "Godzilla and the mighty Kong face a colossal threat hidden deep within the planet, challenging their very existence and the survival of the human race. The film delves further into the histories of these Titans and their origins, as well as the mysteries of Skull Island and beyond, while uncovering the mythic battle that helped forge these extraordinary beings and tied them to humankind forever.",
+  "release_year": "2024",
+  "seasons": 1,
+  "time": 115,
+  "rating": "13+",
+  "url": "/browse/film/godzilla-x-kong-the-new-empire",
+  "bannerImage": "/assets/images/titles/godzilla-x-kong-the-new-empire/godzillaxkongthenewempire1.jpg",
+  "language": "En",
+  "country": "US",
+  "number_of_episodes": 1,
+  "cast": [
+    { "name": "Rebecca Hall", "character": "Dr. Ilene Andrews" },
+    { "name": "Brian Tyree Henry", "character": "Bernie Hayes" },
+    { "name": "Dan Stevens", "character": "Walter Simmons" },
+    { "name": "Kaylee Hottle", "character": "Jia" },
+    { "name": "Fala Chen", "character": "Dr. Maya Simmons" },
+    { "name": "Alex Ferns", "character": "Adam Szalinski" }
+  ],
+  "imagesUrl": [
+    {
+      "title": "Godzilla x Kong: The New Empire Image",
+      "url": "../../assets/images/titles/godzilla-x-kong-the-new-empire/godzillaxkongthenewempire1.jpg"
+    }
+  ],
+  "trailers": [
+    {
+      "season": [
+        {
+          "title": "Official Trailer",
+          "imageUrl": "../../assets/images/titles/godzilla-x-kong-the-new-empire/godzillaxkongthenewempire2.jpg",
+          "trailerUrl": "https://www.youtube.com/watch?v=lV1OOlGwExM"
+        }
+      ]
+    }
+  ],
+  "more-like": [
+    {
+      "imageUrl": "/assets/images/titles/godzilla-vs-kong/godzillavskong1.jpg",
+      "urlTo": "/browse/film/godzilla-vs-kong",
+      "imageTitle": "Godzilla vs. Kong"
+    },
+    {
+      "imageUrl": "/assets/images/titles/godzilla-king-of-the-monsters/godzillakingofthemonsters1.jpg",
+      "urlTo": "/browse/film/godzilla-king-of-the-monsters",
+      "imageTitle": "Godzilla: King of the Monsters"
+    },
+    {
+      "imageUrl": "/assets/images/titles/kong-skull-island/kongskullisland1.jpg",
+      "urlTo": "/browse/film/kong-skull-island",
+      "imageTitle": "Kong: Skull Island"
+    }
+  ],
+  "seasonsEpisode": [
+    {
+      "title": "Part 1",
+      "episodes": [
+        {
+          "title": "Godzilla x Kong: The New Empire",
+          "season": 1,
+          "episodeNumber": 1,
+          "description": "Godzilla and the mighty Kong face a colossal threat hidden deep within the planet, challenging their very existence and the survival of the human race. The film delves further into the histories of these Titans and their origins, as well as the mysteries of Skull Island and beyond, while uncovering the mythic battle that helped forge these extraordinary beings and tied them to humankind forever.",
+          "runningTime": "115 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/godzilla-x-kong-the-new-empire/Godzilla.x.Kong.The.New.Empire.2024.480p.BluRay.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/godzilla-x-kong-the-new-empire/Godzilla.x.Kong.The.New.Empire.2024.1080p.BluRay.x264.DD+7.1-crept.studio.mkv",
+            "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/godzilla-x-kong-the-new-empire/Godzilla.x.Kong.The.New.Empire.2024.2160p.UHD.BluRay.x265.HDR10P.DV.DD+5.1.Atmos-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "../../assets/images/titles/godzilla-x-kong-the-new-empire/godzillaxkongthenewempire1.jpg",
+            "poster": "../../assets/images/titles/godzilla-x-kong-the-new-empire/godzillaxkongthenewempire2.jpg",
+            "banner": "../../assets/images/titles/godzilla-x-kong-the-new-empire/godzillaxkongthenewempire3.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

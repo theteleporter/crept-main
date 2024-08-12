@@ -1,0 +1,88 @@
+{
+    "title": "Arnold & Sly: Rivals, Friends, Icons",
+    "genres": [
+        "Documentary",
+        "Biography",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "TMZ exclusively sits down with Arnold Schwarzenegger and Sylvester Stallone as they discuss for the first time how their once-fierce rivalry led to two Hollywood icons forever being friends and brothers in arms.",
+    "release_year": "2024",
+    "seasons": 1, 
+    "time": 43, 
+    "rating": "14+",
+    "url": "/browse/film/arnold-sly-rivals-friends-icons",
+    "bannerImage": "/assets/images/titles/arnold-sly/arnoldsly1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1, 
+    "cast": [
+        {
+            "name": "Arnold Schwarzenegger",
+            "character": "Himself"
+        },
+        {
+            "name": "Sylvester Stallone",
+            "character": "Himself"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Arnold & Sly: Rivals, Friends, Icons",
+            "url": "/assets/images/titles/arnold-sly/arnoldsly1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/arnold-sly/arnoldsly2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/KKXOa3-Nunw?si=WwXhECPD-ml8QfQH" 
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/the-expendables/expendables1.jpg",
+            "urlTo": "/browse/film/the-expendables",
+            "imageTitle": "The Expendables"
+        },
+        {
+            "imageUrl": "/assets/images/titles/pumping-iron/pumpingiron1.jpg",
+            "urlTo": "/browse/film/pumping-iron",
+            "imageTitle": "Pumping Iron"
+        },
+        {
+            "imageUrl": "/assets/images/titles/rocky/rocky1.jpg",
+            "urlTo": "/browse/film/rocky",
+            "imageTitle": "Rocky"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Arnold & Sly: Rivals, Friends, Icons",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "Arnold Schwarzenegger and Sylvester Stallone sit down for the first time to discuss how their once-fierce rivalry led to two Hollywood icons forever being friends and brothers in arms.",
+                    "runningTime": "43 Min", 
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Arnold.and.Sly.Rivals.Friends.Icons.2024/Arnold.and.Sly.Rivals.Friends.Icons.2024.720p.WEB-DL.YIFY.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Arnold.and.Sly.Rivals.Friends.Icons.2024/Arnold.and.Sly.Rivals.Friends.Icons.2024.1080p.WEB-DL.5.1CH.YIFY.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/arnold-sly/arnoldsly1.jpg",
+                        "poster": "/assets/images/titles/arnold-sly/arnoldsly2.jpg",
+                        "banner": "/assets/images/titles/arnold-sly/arnoldsly3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

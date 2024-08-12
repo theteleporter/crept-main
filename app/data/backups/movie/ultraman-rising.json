@@ -1,0 +1,87 @@
+{
+    "title": "Ultraman: Rising",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Superhero",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "When Tokyo is threatened by rising monster attacks, baseball star Ken Sato reluctantly returns home to take on the mantle of Ultraman. But the titanic superhero meets his match when he reluctantly adopts ababy Kaiju who sees him as her papa.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 114,
+    "rating": "13+",
+    "url": "/browse/film/ultraman-rising",
+    "bannerImage": "/assets/images/titles/ultraman-rising/ultramanrising1.jpg",
+    "language": "En", 
+    "country": "US", 
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Christopher Sean", "character": "Ken Sato" },
+      { "name": "Ken Sato", "character": "Ultraman" }, 
+      { "name": "Julia Harriman", "character": "Ami Wakita" },
+      { "name": "Tamlyn Tomita", "character": "Emiko Sato" },
+      { "name": "Keone Young", "character": "Dr. Onda" },
+      { "name": "Gedde Watanabe", "character": "Ultradad" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Ultraman Rising Image",
+        "url": "../../assets/images/titles/ultraman-rising/ultramanrising1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/ultraman-rising/ultramanrising2.jpg", 
+            "trailerUrl": "https://www.youtube.com/watch?v=l9zb5NHV98M"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/shin-ultraman/shinultraman1.jpg",
+        "urlTo": "/browse/film/shin-ultraman",
+        "imageTitle": "Shin Ultraman"
+      },
+      {
+        "imageUrl": "/assets/images/titles/ultraman/ultraman1.jpg",
+        "urlTo": "/browse/film/ultraman",
+        "imageTitle": "Ultraman"
+      },
+      {
+        "imageUrl": "/assets/images/titles/pacific-rim/pacificrim1.jpg",
+        "urlTo": "/browse/film/pacific-rim",
+        "imageTitle": "Pacific Rim"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Ultraman Rising",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "When Tokyo is threatened by rising monster attacks baby Kaiju who sees him as her papa.",
+            "runningTime": "114 Min", 
+            "videoQuality": {
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/ultraman-rising/Ultraman.Rising.2024.720p.NF.WEB-DL.x264-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/ultraman-rising/Ultraman.Rising.2024.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/ultraman-rising/ultramanrising1.jpg",
+              "poster": "../../assets/images/titles/ultraman-rising/ultramanrising2.jpg",
+              "banner": "../../assets/images/titles/ultraman-rising/ultramanrising3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

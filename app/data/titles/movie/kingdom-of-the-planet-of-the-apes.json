@@ -1,0 +1,92 @@
+{
+    "title": "Kingdom of the Planet of the Apes",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure",
+      "Drama",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "Several years after the events of War for the Planet of the Apes, Caesar's colony of apes is threatened by a new faction of humans who have survived the Simian Flu.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 135, 
+    "rating": "13+", 
+    "url": "/browse/film/kingdom-of-the-planet-of-the-apes",
+    "bannerImage": "/assets/images/titles/kingdom-of-the-planet-of-the-apes/kingdomoftheplanetoftheapes1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Owen Teague", "character": "Cornelius" },
+      { "name": "Freya Allan", "character": "Brita" },
+      { "name": "Peter Macon", "character": "Pope" },
+      { "name": "Eka Darville", "character": "Red" },
+      { "name": "Kevin Durand", "character": "Silk" },
+      { "name": "William H. Macy", "character": "Gunn" },
+      { "name": "Neil Sandilands", "character": "Lieutenant Colonel Harvey" },
+      { "name": "Sara Wiseman", "character": "Molloy" },
+      { "name": "Dichen Lachman", "character": "Keeper" },
+      { "name": "Travis Jeffery", "character": "Maurice" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Kingdom of the Planet of the Apes Image",
+        "url": "../../assets/images/titles/kingdom-of-the-planet-of-the-apes/kingdomoftheplanetoftheapes1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/kingdom-of-the-planet-of-the-apes/kingdomoftheplanetoftheapes2.jpg",
+            "trailerUrl": "https://www.youtube.com/embed/XtFI7SNtVpY?si=mP67gEs_yVmWZjfd" 
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/war-for-the-planet-of-the-apes/warfortheplanetoftheapes1.jpg",
+        "urlTo": "/browse/film/war-for-the-planet-of-the-apes",
+        "imageTitle": "War for the Planet of the Apes"
+      },
+      {
+        "imageUrl": "/assets/images/titles/dawn-of-the-planet-of-the-apes/dawnoftheplanetoftheapes1.jpg",
+        "urlTo": "/browse/film/dawn-of-the-planet-of-the-apes",
+        "imageTitle": "Dawn of the Planet of the Apes"
+      },
+      {
+        "imageUrl": "/assets/images/titles/rise-of-the-planet-of-the-apes/riseoftheplanetoftheapes1.jpg",
+        "urlTo": "/browse/film/rise-of-the-planet-of-the-apes",
+        "imageTitle": "Rise of the Planet of the Apes"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Kingdom of the Planet of the Apes",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "Several years after the events of War for the Planet of the Apes, Caesar's colony of apes is threatened by a new faction of humans who have survived the Simian Flu.",
+            "runningTime": "135 Min",
+            "videoQuality": {
+              "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Kingdom.Of.The.Planet.Of.The.Apes.2024/Kingdom.Of.The.Planet.Of.The.Apes.2024.720p.WEB-DL.YIFY.Dubbed.EBTV.mkv",
+              "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Kingdom.Of.The.Planet.Of.The.Apes.2024/Kingdom.Of.The.Planet.Of.The.Apes.2024.1080p.WEB-DL.6CH.YIFY.Dubbed.EBTV.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/kingdom-of-the-planet-of-the-apes/kingdomoftheplanetoftheapes1.jpg",
+              "poster": "../../assets/images/titles/kingdom-of-the-planet-of-the-apes/kingdomoftheplanetoftheapes2.jpg",
+              "banner": "../../assets/images/titles/kingdom-of-the-planet-of-the-apes/kingdomoftheplanetoftheapes3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

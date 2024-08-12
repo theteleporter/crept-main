@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Midnight Mass",
+    "url": "/browse/title/midnight-mass",
+    "description": "An isolated island community experiences miraculous events - and frightening omens - after the arrival of a charismatic, mysterious young priest.",
+    "release_year": "2021",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/midnight-mass/midnightmass1.jpg",
+    "rating": "17+"
+  },
+  {
+    "title": "The Sandman",
+    "url": "/browse/title/the-sandman",
+    "description": "After years of imprisonment, Morpheus, the King of Dreams, embarks on a journey across worlds to find what was stolen from him and restore his power.",
+    "release_year": "2022",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/thesandman/thesandman1.jpg",
+    "rating": "16+"
+  },
+  {
+    "title": "Ghostbusters: Frozen Empire",
+    "url": "/browse/film/ghostbusters-frozen-empire",
+    "description": "The Spengler family and the original Ghostbusters team up to stop an ancient evil artifact from unleashing a second ice age on New York City.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/ghostbusters-frozen-empire/ghostbusters1.jpg",
+    "rating": "13+"
+  },
+  {
+    "title": "Tarot",
+    "url": "/browse/film/tarot",
+    "description": "When a group of friends recklessly violates the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death to escape the future foretold in their readings.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/tarot/tarot1.jpg",
+    "rating": "13+"
+  },
+  {
+    "title": "The Exorcism",
+    "url": "/browse/film/the-exorcism",
+    "description": "A troubled actor begins to unravel while shooting a horror film. His estranged daughter wonders if he's slipping back into his past addictions or if there's something more sinister at play.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/the-exorcism/theexorcism1.jpg",
+    "rating": "18+"
+  },
+  {
+    "title": "The First Omen",
+    "url": "/browse/film/the-first-omen",
+    "description": "A woman starts to question her own faith when she uncovers a terrifying conspiracy to bring about the birth of evil incarnate in Rome.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/the-first-omen/thefirstomen1.jpg",
+    "rating": "18+"
+  }
+]

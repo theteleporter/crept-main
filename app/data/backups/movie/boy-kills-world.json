@@ -1,0 +1,93 @@
+{
+    "title": "Boy Kills World",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Dystopian",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "A deaf-mute with a vibrant imagination, trained to be an assassin, seeks revenge against the dystopian overlords who killed his family.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 111,
+    "rating": "18+",
+    "url": "/browse/film/boy-kills-world",
+    "bannerImage": "/assets/images/titles/boy-kills-world/boykillsworld1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Bill Skarsgård", "character": "Boy" },
+      { "name": "Jessica Rothe", "character": "June 27" },
+      { "name": "Michelle Dockery", "character": "Melanie Van Der Koy" },
+      { "name": "Brett Gelman", "character": "Gideon Van Der Koy" },
+      { "name": "Isaiah Mustafa", "character": "Benny" },
+      { "name": "Yayan Ruhian", "character": "Mentor" },
+      { "name": "Andrew Koji", "character": "Baso" },
+      { "name": "Sharlto Copley", "character": "Cliff" },
+      { "name": "Famke Janssen", "character": "Hilda Van Der Koy" },
+      { "name": "Quinn Copeland", "character": "Sister (voice)" },
+      { "name": "H. Jon Benjamin", "character": "Boy (voice)" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Boy Kills World Image",
+        "url": "../../assets/images/titles/boy-kills-world/boykillsworld1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/boy-kills-world/boykillsworld2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=iDWQorTluFs"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/mad-max-fury-road/madmaxfuryroad1.jpg",
+        "urlTo": "/browse/film/mad-max-fury-road",
+        "imageTitle": "Mad Max: Fury Road"
+      },
+      {
+        "imageUrl": "/assets/images/titles/everything-everywhere-all-at-once/everythingeverywhereallatonce1.jpg",
+        "urlTo": "/browse/film/everything-everywhere-all-at-once",
+        "imageTitle": "Everything Everywhere All at Once"
+      },
+      {
+        "imageUrl": "/assets/images/titles/john-wick/johnwick1.jpg",
+        "urlTo": "/browse/film/john-wick",
+        "imageTitle": "John Wick"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Boy Kills World",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "A deaf-mute with a vibrant imagination, trained to be an assassin, seeks revenge against the dystopian overlords who killed his family.",
+            "runningTime": "111 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/boy-kills-world/Boy.Kills.World.2023.480p.WEB-HD.x264.450MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/boy-kills-world/Boy.Kills.World.2023.720p.WEB-HD.x264.950MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/boy-kills-world/Boy.Kills.World.2023.1080p.WEB-HD.x264.6CH-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/boy-kills-world/boykillsworld1.jpg",
+              "poster": "../../assets/images/titles/boy-kills-world/boykillsworld2.jpg",
+              "banner": "../../assets/images/titles/boy-kills-world/boykillsworld3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,123 @@
+{
+    "title": "The Marvels",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Superhero",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "Carol Danvers, Kamala Khan, and Monica Rambeau begin swapping places with each other every time they use their powers and must team-up to figure out why.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 124,
+    "rating": "13+",
+    "url": "/browse/film/the-marvels",
+    "bannerImage": "/assets/images/titles/the-marvels/themarvels1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Brie Larson",
+            "character": "Carol Danvers / Captain Marvel"
+        },
+        {
+            "name": "Iman Vellani",
+            "character": "Kamala Khan / Ms. Marvel"
+        },
+        {
+            "name": "Teyonah Parris",
+            "character": "Monica Rambeau"
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": "Nick Fury"
+        },
+        {
+            "name": "Zawe Ashton",
+            "character": "Dar-Benn"
+        },
+        {
+            "name": "Park Seo-joon",
+            "character": "Prince Yan"
+        },
+        {
+            "name": "Zenobia Shroff",
+            "character": "Muneeba Khan"
+        },
+        {
+            "name": "Mohan Kapur",
+            "character": "Yusuf Khan"
+        },
+        {
+            "name": "Saagar Shaikh",
+            "character": "Aamir Khan"
+        },
+        {
+            "name": "Goose",
+            "character": "Flerken"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "The Marvels Image",
+            "url": "../../assets/images/titles/the-marvels/themarvels1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "../../assets/images/titles/the-marvels/themarvels2.jpg",
+                    "trailerUrl": "https://www.youtube.com/watch?v=wgr1Kq98J60"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/captain-marvel/captainmarvel1.jpg",
+            "urlTo": "/browse/film/captain-marvel",
+            "imageTitle": "Captain Marvel"
+        },
+        {
+            "imageUrl": "/assets/images/titles/ms-marvel/msmarvel1.jpg",
+            "urlTo": "/browse/series/ms-marvel",
+            "imageTitle": "Ms. Marvel"
+        },
+        {
+            "imageUrl": "/assets/images/titles/wandavision/wandavision1.jpg",
+            "urlTo": "/browse/series/wandavision",
+            "imageTitle": "WandaVision"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "The Marvels",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "Carol Danvers, Kamala Khan, and Monica Rambeau begin swapping places with each other every time they use their powers and must team-up to figure out why.",
+                    "runningTime": "124 Min",
+                    "videoQuality": {
+                        "480p": "https://spacestorageunit.blob.core.windows.net/container-x/the-marvels/The.Marvels.2023.IMAX.480p.WEB-DL.x264-crept.studio.mkv",
+                        "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-marvels/The.Marvels.2023.IMAX.720p.WEB-DL.x264-crept.studio.mkv",
+                        "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-marvels/The.Marvels.2023.IMAX.1080p.WEB-DL.x264.6CH-crept.studio.mkv",
+                        "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-marvels/The.Marvels.2023.IMAX.2160p.WEB-DL.x265.HDR.DV.DD+5.1.Atmos-crept.studio.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/the-marvels/themarvels1.jpg",
+                        "poster": "../../assets/images/titles/the-marvels/themarvels2.jpg",
+                        "banner": "../../assets/images/titles/the-marvels/themarvels3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

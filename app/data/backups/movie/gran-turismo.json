@@ -1,0 +1,96 @@
+{
+    "title": "Gran Turismo",
+    "genres": [
+      "Action",
+      "Sport",
+      "Drama",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "Based on the true story of Jann Mardenborough, a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional race car driver.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 135,
+    "rating": "13+", 
+    "url": "/browse/film/gran-turismo",
+    "bannerImage": "/assets/images/titles/gran-turismo/granturismo1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Archie Madekwe", "character": "Jann Mardenborough" },
+      { "name": "David Harbour", "character": "Jack Salter" },
+      { "name": "Orlando Bloom", "character": "Danny Moore" },
+      { "name": "Darren Barnet", "character": "Matty Davis" },
+      { "name": "Djimon Hounsou", "character": "Steve Mardenborough" },
+      { "name": "Geri Halliwell Horner", "character": "Lesley Mardenborough" },
+      { "name": "Daniel Puig", "character": "Cai Mardenborough" },
+      { "name": "Maeve Courtier-Lilley", "character": "Audrey" },
+      { "name": "Emelia Hartford", "character": "Leah Vega" },
+      { "name": "Pepe Barroso", "character": "Antonio Cruz" },
+      { "name": "Sang Heon Lee", "character": "Aurora Team Driver" },
+      { "name": "Max Mundt", "character": "Nikolai" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Gran Turismo Image",
+        "url": "../../assets/images/titles/gran-turismo/granturismo1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/gran-turismo/granturismo2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=h-Hc6CJr9AA"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/rush/rush1.jpg",
+        "urlTo": "/browse/film/rush",
+        "imageTitle": "Rush"
+      },
+      {
+        "imageUrl": "/assets/images/titles/ford-v-ferrari/fordvferrari1.jpg",
+        "urlTo": "/browse/film/ford-v-ferrari",
+        "imageTitle": "Ford v Ferrari"
+      },
+      {
+        "imageUrl": "/assets/images/titles/days-of-thunder/daysofthunder1.jpg",
+        "urlTo": "/browse/film/days-of-thunder",
+        "imageTitle": "Days of Thunder"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Gran Turismo",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "Based on the true story of Jann Mardenborough, a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional race car driver.",
+            "runningTime": "135 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/gran-turismo/Gran.Turismo.2023.480p.WEB-DL.x264-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/gran-turismo/Gran.Turismo.2023.720p.WEB-DL.x264-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/gran-turismo/Gran.Turismo.2023.1080p.WEB-DL.x264.DD5.1-crept.studio.mkv",
+              "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/gran-turismo/Gran.Turismo.2023.2160p.WEB-DL.x265.HDR.DV.DD+5.1-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/gran-turismo/granturismo1.jpg",
+              "poster": "../../assets/images/titles/gran-turismo/granturismo2.jpg",
+              "banner": "../../assets/images/titles/gran-turismo/granturismo3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
+  

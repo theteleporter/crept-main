@@ -1,0 +1,105 @@
+{
+    "title": "Agent Recon",
+    "genres": [
+        "Action",
+        "Science Fiction",
+        "Thriller",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "A covert military task force tracks a mysterious energy disturbance at a secret base in New Mexico where experiments on alien technology areconducted.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 114, 
+    "rating": "16+",
+    "url": "/browse/film/agent-recon",
+    "bannerImage": "/assets/images/titles/agent-recon/agentrecon1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Brandon Tyler Russell",
+            "character": "Captain Marcus Black"
+        },
+        {
+            "name": "Josh Burdett",
+            "character": "Agent Jackson"
+        },
+        {
+            "name": "Rachel Alig",
+            "character": "Agent Reese"
+        },
+        {
+            "name": "Alex Anlos",
+            "character": "Lieutenant Taylor"
+        },
+        {
+            "name": "Matthew Tompkins",
+            "character": "Dr. Williams"
+        },
+        {
+            "name": "Chris Cleveland",
+            "character": "General Pierce"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Agent Recon",
+            "url": "/assets/images/titles/agent-recon/agentrecon1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/agent-recon/agentrecon2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/X3qvuTsxmiQ?si=QXP7XsWwghn6IGEN"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/predator/predator1.jpg",
+            "urlTo": "/browse/film/predator",
+            "imageTitle": "Predator"
+        },
+        {
+            "imageUrl": "/assets/images/titles/arrival/arrival1.jpg",
+            "urlTo": "/browse/film/arrival",
+            "imageTitle": "Arrival"
+        },
+        {
+            "imageUrl": "/assets/images/titles/district-9/district9-1.jpg",
+            "urlTo": "/browse/film/district-9",
+            "imageTitle": "District 9"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Agent Recon",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "A covert military task force tracks a mysterious energy disturbance at a secret base in New Mexico where experiments on conducted.",
+                    "runningTime": "114 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Agent.Recon.2024/Agent.Recon.2024.720p.WEB-DL.YTS.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Agent.Recon.2024/Agent.Recon.2024.1080p.WEB-DL.YTS.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/agent-recon/agentrecon1.jpg",
+                        "poster": "/assets/images/titles/agent-recon/agentrecon2.jpg",
+                        "banner": "/assets/images/titles/agent-recon/agentrecon3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

@@ -1,0 +1,542 @@
+{
+  "title": "Vikings: Valhalla",
+  "genres": [
+    "Drama",
+    "Action",
+    "Adventure",
+    "History",
+    "Films",
+    "Tv Show",
+    "All"
+  ],
+  "description": "Set over a thousand years ago in the early 11th century, Vikings: Valhalla chronicles the heroic adventures of some of the most famous Vikings who ever lived - Leif Eriksson, Freydis Eriksdotter, Harald Hardrada and the Norman King William the Conqueror. These men and women will blaze a path as they fight for survival and glory in the ever changing and evolving world.",
+  "release_year": "2022",
+  "seasons": 3,
+  "time": 55,
+  "rating": "18+",
+  "url": "/browse/title/vikings-valhalla",
+  "bannerImage": "/assets/images/titles/vikings-valhalla/vikingsvalhalla1.jpg",
+  "language": "En",
+  "country": "US",
+  "number_of_episodes": "16",
+  "cast": [
+    { "name": "Sam Corlett", "character": "Leif Eriksson" },
+    { "name": "Frida Gustavsson", "character": "Freydis Eriksdotter" },
+    { "name": "Leo Suter", "character": "Harald Sigurdsson" },
+    { "name": "Bradley Freegard", "character": "King Canute" },
+    { "name": "Jóhannes Haukur Jóhannesson", "character": "Olaf Haraldsson" },
+    { "name": "Caroline Henderson", "character": "Jarl Haakon" },
+    { "name": "Laura Berlin", "character": "Emma of Normandy" },
+    { "name": "David Oakes", "character": "Earl Godwin" }
+  ],
+  "imagesUrl": [
+    {
+      "title": "Vikings: Valhalla Image",
+      "url": "../../assets/images/titles/vikings-valhalla/vikingsvalhalla1.jpg"
+    },
+    {
+      "title": "Vikings: Valhalla Image",
+      "url": "../../assets/images/titles/vikings-valhalla/vikingsvalhalla2.jpg"
+    },
+    {
+      "title": "Vikings: Valhalla Image",
+      "url": "../../assets/images/titles/vikings-valhalla/vikingsvalhalla3.jpg"
+    },
+    {
+      "title": "Vikings: Valhalla Image",
+      "url": "../../assets/images/titles/vikings-valhalla/vikingsvalhalla4.jpg"
+    }
+  ],
+  "more-like": [
+    {
+      "imageUrl": "/assets/images/titles/vikings/vikings1.jpg",
+      "urlTo": "/browse/title/vikings",
+      "imageTitle": "Vikings"
+    },
+    {
+      "imageUrl": "/assets/images/titles/the-last-kingdom/the-last-kingdom1.jpg",
+      "urlTo": "/browse/title/the-last-kingdom",
+      "imageTitle": "The Last Kingdom"
+    },
+    {
+      "imageUrl": "/assets/images/titles/barbarians/barbarians1.jpg",
+      "urlTo": "/browse/title/barbarians",
+      "imageTitle": "Barbarians"
+    },
+    {
+      "imageUrl": "/assets/images/titles/marco-polo/marco-polo1.jpg",
+      "urlTo": "/browse/title/marco-polo",
+      "imageTitle": "Marco Polo"
+    }
+  ],
+  "trailers": [
+    {
+      "season": [
+        {
+          "title": "Season 1 Trailer",
+          "imageUrl": "../../assets/images/titles/vikings-valhalla/vikingsvalhalla3.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/sBj188DcElE"
+        },
+        {
+          "title": "Season 2 Trailer",
+          "imageUrl": "../../assets/images/titles/vikings-valhalla/vikingsvalhalla6.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/lY5i93_nX2Q"
+        },
+        {
+          "title": "Season 3 Trailer",
+          "imageUrl": "../../assets/images/titles/vikings-valhalla/vikingsvalhalla5.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/lY5i93_nX2Q"
+        }
+      ]
+    }
+  ],
+  "seasonsEpisode": [
+    {
+      "title": "Season 1",
+      "episodes": [
+        {
+          "title": "The Greenlanders",
+          "season": 1,
+          "episodeNumber": 1,
+          "description": "After a massacre in England, Viking forces gather in Kattegat for revenge. Leif and Freydis Eriksson seek their own form of retribution, while King Canute plots a bold plan.",
+          "runningTime": "56 mins",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Viking",
+          "season": 1,
+          "episodeNumber": 2,
+          "description": "To save Freydis's life, Leif joins Canute and Harald's siege of London. Emma of Normandy faces a threat to her power, while Freydis embarks on a spiritual journey.",
+          "runningTime": "46 mins",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Marshes",
+          "season": 1,
+          "episodeNumber": 3,
+          "description": "Freydis and her companions face a brutal attack during their pilgrimage. In London, the Vikings prepare for a major assault, while Emma uncovers a conspiracy against her.",
+          "runningTime": "46 mins",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Bridge",
+          "season": 1,
+          "episodeNumber": 4,
+          "description": "The Vikings launch a daring attack on London Bridge, while Freydis confronts her past. Harald makes a difficult decision, and Emma's power struggle intensifies.",
+          "runningTime": "45 mins",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Miracle",
+          "season": 1,
+          "episodeNumber": 5,
+          "description": "A miracle occurs at Kattegat, fueling the Vikings' faith. Leif and Harald face a moral dilemma, while Freydis seeks guidance from a seer.",
+          "runningTime": "60 mins",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Last Daughter of Uppsala",
+          "season": 1,
+          "episodeNumber": 6,
+          "description": "Freydis travels to Uppsala to seek the truth about her destiny. Harald grapples with his feelings for Freydis, while King Canute consolidates his power.",
+          "runningTime": "55 mins",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Choices",
+          "season": 1,
+          "episodeNumber": 7,
+          "description": "Leif, Freydis, and Harald face life-altering choices. King Canute's ambitions threaten to destabilize the region, and a final battle looms.",
+          "runningTime": "54 mins",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The End of the Beginning",
+          "season": 1,
+          "episodeNumber": 8,
+          "description": "The fate of Kattegat is decided in a bloody battle. Leif and Freydis face their destinies, while Harald makes a fateful voyage to Constantinople.",
+          "runningTime": "48 mins",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Season 2",
+      "episodes": [
+        {
+          "title": "The Northman",
+          "season": 2,
+          "episodeNumber": 1,
+          "description": "Leif, Freydis, and Harald are fugitives in Scandinavia. They journey through the wilderness, evading Olaf's forces. Freydis seeks refuge with her lover, Harald, while Leif embraces the berserker spirit.",
+          "runningTime": "52 mins",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Lord of Novgorod",
+          "season": 2,
+          "episodeNumber": 2,
+          "description": "Freydis and Harald find refuge in Novgorod, but their safety is threatened by political intrigue and a ruthless ruler. Leif and his crew navigate the icy waters of the Baltic Sea, facing danger and a test of their loyalty.",
+          "runningTime": "49 mins",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Price of Blood",
+          "season": 2,
+          "episodeNumber": 3,
+          "description": "Harald and Leif reunite in Novgorod and face a difficult decision. Freydis learns a shocking secret about her destiny. Emma of Normandy makes a bold move to secure her son's future.",
+          "runningTime": "52 mins",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Curse of Witland",
+          "season": 2,
+          "episodeNumber": 4,
+          "description": "Leif, Harald, and their crew embark on a perilous voyage to Constantinople, seeking an audience with the emperor. Freydis seeks answers about the threat against her unborn child.",
+          "runningTime": "51 mins",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Martial Justice",
+          "season": 2,
+          "episodeNumber": 5,
+          "description": "Harald and Leif navigate the political complexities of Constantinople. Freydis makes a powerful ally, while Emma of Normandy faces a growing threat to her reign.",
+          "runningTime": "52 mins",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Sacrament",
+          "season": 2,
+          "episodeNumber": 6,
+          "description": "Leif and Harald are betrayed and must fight for their lives. Freydis confronts her fears and embraces her destiny as a leader. Emma makes a difficult sacrifice for the sake of her kingdom.",
+          "runningTime": "49 mins",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Reckoning",
+          "season": 2,
+          "episodeNumber": 7,
+          "description": "Freydis leads the defense of Jomsborg against Olaf's ruthless army. Harald and Leif race to gather reinforcements. In England, Emma's cunning plan is put into action.",
+          "runningTime": "55 mins",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Last Act of Vengeance",
+          "season": 2,
+          "episodeNumber": 8,
+          "description": "In a climactic battle, the fate of Jomsborg is decided. Freydis makes a final stand against Olaf, while Leif and Harald return with an army. Emma's actions have far-reaching consequences for England's future.",
+          "runningTime": "48 mins",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Season 3",
+      "episodes": [
+        {
+          "title": "Gods of War",
+          "season": 3,
+          "episodeNumber": 1,
+          "description": "Seven years after the fall of Kattegat, Leif has made a home in the Golden Land with his family and Harald has become an ally to the Emperor in Constantinople. But when a new threat emerges, they must return to their roots to face their destinies.",
+          "runningTime": "51 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Only One",
+          "season": 3,
+          "episodeNumber": 2,
+          "description": "Freydis seeks a peaceful life for her people in Jomsborg, but faces challenges from within and without. Harald and Leif embark on a dangerous journey across the Black Sea.",
+          "runningTime": "54 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "To the Gates",
+          "season": 3,
+          "episodeNumber": 3,
+          "description": "Leif and Harald arrive at Constantinople and face a hostile reception. Freydis struggles to unite the people of Jomsborg against a new threat.",
+          "runningTime": "49 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Land of Gold",
+          "season": 3,
+          "episodeNumber": 4,
+          "description": "Leif's expedition reaches a crucial juncture, facing challenges and unforeseen dangers in the unforgiving wilderness. Freydis makes a shocking discovery that could change everything.",
+          "runningTime": "52 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Sorrow of War",
+          "season": 3,
+          "episodeNumber": 5,
+          "description": "Harald and Leif face a brutal battle against a formidable enemy. Freydis seeks guidance from the spirits as she prepares for a momentous confrontation.",
+          "runningTime": "53 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The First Prince of Norway",
+          "season": 3,
+          "episodeNumber": 6,
+          "description": "Harald returns to Kattegat and faces a power struggle for the throne of Norway. Freydis embraces her role as a leader and protector of her people.",
+          "runningTime": "55 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Pagan Night",
+          "season": 3,
+          "episodeNumber": 7,
+          "description": "A pagan ritual takes a dark turn, revealing hidden dangers and testing the bonds between Leif and Harald. Freydis faces a final showdown with a powerful enemy.",
+          "runningTime": "50 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Farewell to Kindred",
+          "season": 3,
+          "episodeNumber": 8,
+          "description": "In the season finale, the destinies of Leif, Freydis, and Harald converge. A new era begins as the Vikings face a changing world and forge their own paths.",
+          "runningTime": "59 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        }
+      ]
+    }
+  ]
+}

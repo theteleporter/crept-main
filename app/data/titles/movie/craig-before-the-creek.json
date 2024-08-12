@@ -1,0 +1,105 @@
+{
+    "title": "Craig Before the Creek",
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "Before he and his two best friends Kelsey and JP ruled the creek, Craig Williams was the new kid in town, desperate to make some friends. It's a brand-new summer in the neighborhood, and Craig's missing everything! So he sets out to make new friends, only to learn that's easier said than done.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 88,
+    "rating": "7+",
+    "url": "/browse/film/craig-before-the-creek",
+    "bannerImage": "/assets/images/titles/craig-before-the-creek/craig1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Philip Solomon",
+            "character": "Craig Williams"
+        },
+        {
+            "name": "Noël Wells",
+            "character": "Kelsey Pokoly"
+        },
+        {
+            "name": "H. Michael Croner",
+            "character": "J.P. Mercer"
+        },
+        {
+            "name": "Lucia Cunningham",
+            "character": "Jessica Williams"
+        },
+        {
+            "name": "Kimberly Hebert Gregory",
+            "character": "Nicole Williams"
+        },
+        {
+            "name": "Terry Crews",
+            "character": "Duane Williams"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Craig Before the Creek: The Movie",
+            "url": "/assets/images/titles/craig-before-the-creek/craig1jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/craig-before-the-creek/craig2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/L4u5gOdfZpM?si=qavDwDWKuTTY1_Ry"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/craig-of-the-creek/craigofthecreek1.png",
+            "urlTo": "/browse/show/craig-of-the-creek",
+            "imageTitle": "Craig of the Creek"
+        },
+        {
+            "imageUrl": "/assets/images/titles/steven-universe/stevenuniverse1.jpg",
+            "urlTo": "/browse/show/steven-universe",
+            "imageTitle": "Steven Universe"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-amazing-world-of-gumball/amazingworldofgumball1.jpg",
+            "urlTo": "/browse/show/the-amazing-world-of-gumball",
+            "imageTitle": "The Amazing World of Gumball"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Craig Before the Creek",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "Before he and his two best friends Kelsey and JP ruled the creek, Craig Williams was the new kid in town, desperate to make some friends. It's a brand-new summer in the neighborhood, and Craig's missing everything! So he sets out to make new friends, only to learn that's easier said than done.",
+                    "runningTime": "88 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Craig.Before.the.Creek.2023/Craig.Before.the.Creek.2023.720p.WEB-DL.YIFY.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Craig.Before.the.Creek.2023/Craig.Before.the.Creek.2023.1080p.WEB-DL.YIFY.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/craig-before-the-creek/craig1.jpg",
+                        "poster": "/assets/images/titles/craig-before-the-creek/craig2.jpg",
+                        "banner": "/assets/images/titles/craig-before-the-creek/craig3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}

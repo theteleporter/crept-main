@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Boy Kills World",
+    "url": "/browse/film/boy-kills-world",
+    "description": "A deaf-mute with a vibrant imagination, trained to be an assassin, seeks revenge against the dystopian overlords who killed his family.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/boy-kills-world/boykillsworld1.jpg",
+    "rating": "18+"
+  },
+  {
+    "title": "Civil War",
+    "url": "/browse/film/civil-war",
+    "description": "In a dystopian future America, a team of military-embedded journalists races against time to reach Washington, D.C., before rebel factions descend upon the White House.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/civil-war/civilwar1.jpg",
+    "rating": "18+"
+  }
+]

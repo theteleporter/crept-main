@@ -1,0 +1,92 @@
+{
+    "title": "Through My Window: Across the Sea",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Teen",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "Ares and Raquel maintain a long-distance relationship during his studies in Stockholm. When they meet again, they find that their period of separation has put their love to the test.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 121,
+    "rating": "16+",
+    "url": "/browse/film/through-my-window-across-the-sea",
+    "bannerImage": "/assets/images/titles/through-my-window-across-the-sea/across-the-sea1.jpg",
+    "language": "Es",
+    "country": "ES",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Clara Galle", "character": "Raquel Mendoza" },
+      { "name": "Julio Peña", "character": "Ares Hidalgo" },
+      { "name": "Hugo Arbués", "character": "Apolo Hidalgo" },
+      { "name": "Eric Masip", "character": "Artemis Hidalgo" },
+      { "name": "Natalia Azahara", "character": "Daniela" },
+      { "name": "Guillermo Lasheras", "character": "Yoshi" },
+      { "name": "Andrea Chaparro", "character": "Vera" },
+      { "name": "Ivan Lapadula", "character": "Gregory" },
+      { "name": "Carla Tous", "character": "Anna" },
+      { "name": "Bruce Herbelin-Earle", "character": "Greg" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Through My Window: Across the Sea Image",
+        "url": "../../assets/images/titles/through-my-window-across-the-sea/across-the-sea1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/through-my-window-across-the-sea/across-the-sea2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=3FIv5hPtU6A"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/through-my-window/throughmywindow1.jpg",
+        "urlTo": "/browse/film/through-my-window",
+        "imageTitle": "Through My Window"
+      },
+      {
+        "imageUrl": "/assets/images/titles/through-my-window-looking-at-you/throughmywindowlookingatyou1.jpg",
+        "urlTo": "/browse/film/through-my-window-looking-at-you",
+        "imageTitle": "Through My Window: Looking at You"
+      },
+      {
+        "imageUrl": "/assets/images/titles/the-kissing-booth/thekissingbooth1.jpg",
+        "urlTo": "/browse/film/the-kissing-booth",
+        "imageTitle": "The Kissing Booth"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Through My Window: Across the Sea",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "Ares and Raquel maintain a long-distance relationship during his studies in Stockholm. When they meet again, they find that their period of separation has put their love to the test.",
+            "runningTime": "121 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/through-my-window-across-the-sea/Through.My.Window.Across.the.Sea.2023.480p.NF.WEB-DL.x264.450MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/through-my-window-across-the-sea/Through.My.Window.Across.the.Sea.2023.720p.NF.WEB-DL.x264.950MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/through-my-window-across-the-sea/Through.My.Window.Across.the.Sea.2023.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/through-my-window-across-the-sea/across-the-sea1.jpg",
+              "poster": "../../assets/images/titles/through-my-window-across-the-sea/across-the-sea2.jpg",
+              "banner": "../../assets/images/titles/through-my-window-across-the-sea/across-the-sea3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,105 @@
+{
+    "title": "Darkness of Man",
+    "genres": [
+        "Action",
+        "Thriller",
+        "Crime",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "Russell Hatch, a former Interpol operative, vowed to protect the son of an informant killed years ago. When street gangs start a turf war, the boy gets caught in the crossfire, and Hatch must fight to keep him safe.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 109,
+    "rating": "18+", 
+    "url": "/browse/film/darkness-of-man",
+    "bannerImage": "/assets/images/titles/darkness-of-man/darknessofman1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Jean-Claude Van Damme",
+            "character": "Russell Hatch"
+        },
+        {
+            "name": "Kristanna Loken",
+            "character": "Vanessa"
+        },
+        {
+            "name": "Emerson Min",
+            "character": "Jayden"
+        },
+        {
+            "name": "Spencer Breslin",
+            "character": "Young Hatch"
+        },
+        {
+            "name": "Sticky Fingaz",
+            "character": "Knight"
+        },
+        {
+            "name": "Shannen Doherty",
+            "character": "Neighbor"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Darkness of Man",
+            "url": "/assets/images/titles/darkness-of-man/darknessofman1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/darkness-of-man/darknessofman2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/nCyVDVP7eoA?si=WbkIs6NB7diti1a4"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/john-wick/johnwick1.jpg",
+            "urlTo": "/browse/film/john-wick",
+            "imageTitle": "John Wick"
+        },
+        {
+            "imageUrl": "/assets/images/titles/taken/taken1.jpg",
+            "urlTo": "/browse/film/taken",
+            "imageTitle": "Taken"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-equalizer/theequalizer1.jpg",
+            "urlTo": "/browse/film/the-equalizer",
+            "imageTitle": "The Equalizer"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Darkness of Man",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "Russell Hatch, a former Interpol operative, vowed to protect the son of an informant killed years ago. When street gangs start a turf war, the boy gets caught in the crossfire, and Hatch must fight to keep him safe.",
+                    "runningTime": "109 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Darkness.Of.Man.2024/Darkness.Of.Man.2024.720p.WEB-DL.YIFY.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Darkness.Of.Man.2024/Darkness.Of.Man.2024.1080p.WEB-DL.6CH.YIFY.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/darkness-of-man/darknessofman1.jpg",
+                        "poster": "/assets/images/titles/darkness-of-man/darknessofman2.jpg",
+                        "banner": "/assets/images/titles/darkness-of-man/darknessofman3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

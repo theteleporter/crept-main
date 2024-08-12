@@ -1,0 +1,90 @@
+{
+    "title": "I Saw the TV Glow",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Mystery",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "A classmate introduces teenage Owen to a mysterious late-night TV show -- a vision of a supernatural world beneath their own. In the pale glow of the television, Owen's view of reality begins to crack.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 100,
+    "rating": "16+", 
+    "url": "/browse/film/i-saw-the-tv-glow",
+    "bannerImage": "/assets/images/titles/i-saw-the-tv-glow/isawthetvglow1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Justice Smith", "character": "Owen" },
+      { "name": "Brigette Lundy-Paine", "character": "TBA" },
+      { "name": "Helena Howard", "character": "TBA" },
+      { "name": "Lindsey Jordan", "character": "TBA" },
+      { "name": "Conner O'Malley", "character": "TBA" },
+      { "name": "Emma Portner", "character": "TBA" },
+      { "name": "Ian Foreman", "character": "Young Owen" },
+      { "name": "Fred Durst", "character": "TBA" },
+      { "name": "Danielle Deadwyler", "character": "Brenda" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "I Saw the TV Glow Image",
+        "url": "../../assets/images/titles/i-saw-the-tv-glow/isawthetvglow1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/i-saw-the-tv-glow/isawthetvglow2.jpg",
+            "trailerUrl": "https://www.youtube.com/embed/kymDzCgPwj0?si=JHiIxKfTXCb80KLh"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/we-re-all-going-to-the-world-s-fair/wereallgoingtotheworldsfair1.jpg",
+        "urlTo": "/browse/film/we-re-all-going-to-the-world-s-fair",
+        "imageTitle": "We're All Going to the World's Fair"
+      },
+      {
+        "imageUrl": "/assets/images/titles/skins/skins1.jpg",
+        "urlTo": "/browse/film/skins",
+        "imageTitle": "Skins"
+      },
+      {
+        "imageUrl": "/assets/images/titles/the-lma/thelma1.jpg",
+        "urlTo": "/browse/film/the-lma",
+        "imageTitle": "Thelma"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "I Saw the TV Glow",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "A classmate introduces teenage Owen to a mysterious late-night TV show -- a vision of a supernatural world beneath their own. In the pale glow of the television, Owen's view of reality begins to crack.",
+            "runningTime": "100 Min",
+            "videoQuality": {
+              "720p": "https://dl3.tabar.sbs/Dubbed/Movies/I.Saw.the.TV.Glow.2024/I.Saw.the.TV.Glow.2024.720p.WEB-DL.YIFY.Dubbed.EBTV.mkv",
+              "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/I.Saw.the.TV.Glow.2024/I.Saw.the.TV.Glow.2024.1080p.WEB-DL.6CH.YIFY.Dubbed.EBTV.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/i-saw-the-tv-glow/isawthetvglow1.jpg",
+              "poster": "../../assets/images/titles/i-saw-the-tv-glow/isawthetvglow2.jpg",
+              "banner": "../../assets/images/titles/i-saw-the-tv-glow/isawthetvglow3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,92 @@
+{
+    "title": "Damaged",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Mystery",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "A Chicago detective travels to Scotland to investigate a series of murders with striking similarities to an unsolved case he worked on years ago.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 93,
+    "rating": "18+", 
+    "url": "/browse/film/damaged",
+    "bannerImage": "/assets/images/titles/damaged/damaged1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Samuel L. Jackson", "character": "Detective Danforth" },
+      { "name": "Vincent Cassel", "character": "Liam" },
+      { "name": "Gianni Capaldi", "character": "Chief Inspector McLintock" },
+      { "name": "Kate Dickie", "character": "Laura" },
+      { "name": "John Hannah", "character": "Jack" },
+      { "name": "Morgan Watkins", "character": "Boyd" },
+      { "name": "Christina Ricci", "character": "Jacqueline" },
+      { "name": "Ralph Ineson", "character": "Martin Harris" },
+      { "name": "Patrick Bergin", "character": "Father Connelly" },
+      { "name": "Camille Rowe", "character": "Isabelle" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Damaged Image",
+        "url": "../../assets/images/titles/damaged/damaged1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/damaged/damaged2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=OHsLp_MdJo0"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/the-silence-of-the-lambs/thesilenceofthelambs1.jpg",
+        "urlTo": "/browse/film/the-silence-of-the-lambs",
+        "imageTitle": "The Silence of the Lambs"
+      },
+      {
+        "imageUrl": "/assets/images/titles/se7en/se7en1.jpg",
+        "urlTo": "/browse/film/se7en",
+        "imageTitle": "Se7en"
+      },
+      {
+        "imageUrl": "/assets/images/titles/prisoners/prisoners1.jpg",
+        "urlTo": "/browse/film/prisoners",
+        "imageTitle": "Prisoners"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Damaged",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "A Chicago detective travels to Scotland to investigate a series of murders with striking similarities to an unsolved case he worked on years ago.",
+            "runningTime": "93 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/damaged/Damaged.2024.480p.BluRay.x264.400MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/damaged/Damaged.2024.720p.BluRay.x264.850MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/damaged/Damaged.2024.1080p.BluRay.x264.DD+5.1-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/damaged/damaged1.jpg",
+              "poster": "../../assets/images/titles/damaged/damaged2.jpg",
+              "banner": "../../assets/images/titles/damaged/damaged3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

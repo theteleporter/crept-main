@@ -1,0 +1,104 @@
+{
+    "title": "Antigang: La Relève",
+    "genres": [
+        "Action",
+        "Thriller",
+        "Crime",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "Former member of the \"Antigang\" unit, Niels Cartier left law enforcement after a tragic operation that resulted in the death of his wife. Eight years later, when the gang responsible for her death resurfaces, he is determined to take revenge, joined by his 14-year-old daughter.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 90, 
+    "rating": "16+",
+    "url": "/browse/film/antigang-la-releve",
+    "bannerImage": "/assets/images/titles/antigang-la-releve/antiganglareleve1.jpg",
+    "language": "Fr", 
+    "country": "FR",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Alban Lenoir",
+            "character": "Niels Cartier"
+        },
+        {
+            "name": "Cassiopée Mayance",
+            "character": "Charlotte Cartier"
+        },
+        {
+            "name": "Sofia Essaïdi",
+            "character": "Sofia"
+        },
+        {
+            "name": "Jean-Toussaint Bernard",
+            "character": "Manu"
+        },
+        {
+            "name": "Sébastien Lalanne",
+            "character": "Franck"
+        },
+        {
+            "name": "Thibault Evrard",
+            "character": "Skinner"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Antigang: La Relève",
+            "url": "/assets/images/titles/antigang-la-releve/antiganglareleve1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Bande-annonce officielle", 
+                    "imageUrl": "/assets/images/titles/antigang-la-releve/antiganglareleve2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/qUF3l_t4kc4?si=at3U5xunq3bXItMc"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/bachelorette/bachelorette1.jpg",
+            "urlTo": "/browse/film/bachelorette",
+            "imageTitle": "Bachelorette"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-nice-guys/theniceguys1.jpg",
+            "urlTo": "/browse/film/the-nice-guys",
+            "imageTitle": "The Nice Guys"
+        },
+        {
+            "imageUrl": "/assets/images/titles/21-jump-street/21jumpstreet1.jpg",
+            "urlTo": "/browse/film/21-jump-street",
+            "imageTitle": "21 Jump Street"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Antigang: La Relève",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "Former member of the \"Antigang\" unit, Niels Cartier left law enforcement after a tragic operation that resulted in the death of his wife. Eight years later, when the gang responsible for her death resurfaces, he is determined to take revenge, joined by his 14-year-old daughter.",
+                    "runningTime": "90 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Antigang.La.Releve.2023/Antigang.La.Releve.2023.720p.WEB-DL.YIFY.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Antigang.La.Releve.2023/Antigang.La.Releve.2023.1080p.WEB-DL.YIFY.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/antigang-la-releve/antiganglareleve1.jpg",
+                        "poster": "/assets/images/titles/antigang-la-releve/antiganglareleve2.jpg",
+                        "banner": "/assets/images/titles/antigang-la-releve/antiganglareleve3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "title": "The Exorcism",
+    "genres": [
+      "Horror",
+      "Supernatural",
+      "Thriller",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "A troubled actor begins to unravel while shooting a horror film. His estranged daughter wonders if he's slipping back into his past addictions or if there's something more sinister at play.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 93,
+    "rating": "18+",
+    "url": "/browse/film/the-exorcism",
+    "bannerImage": "/assets/images/titles/the-exorcism/theexorcism1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+  {
+    "name": "Russell Crowe",
+    "character": "Anthony Miller"
+  },
+  {
+    "name": "Ryan Simpkins",
+    "character": "Lee Miller"
+  },
+  {
+    "name": "Sam Worthington",
+    "character": "Joe"
+  },
+  {
+    "name": "Chloe Bailey",
+    "character": "Blake Holloway"
+  },
+  {
+    "name": "Adam Goldberg",
+    "character": "Peter"
+  },
+  {
+    "name": "David Hyde Pierce",
+    "character": "Father Conor"
+  },
+  {
+    "name": "Tracey Bonner",
+    "character": "Regina"
+  },
+  {
+    "name": "Samantha Mathis",
+    "character": "Jennifer Simon"
+  },
+  {
+    "name": "Adrian Pasdar",
+    "character": "Tom"
+  },
+  {
+    "name": "Marcenae Lynette",
+    "character": "Monica"
+  }
+],
+    "imagesUrl": [
+      {
+        "title": "The Exorcism Image",
+        "url": "../../assets/images/titles/the-exorcism/theexorcism1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/the-exorcism/theexorcism2.jpg",
+            "trailerUrl": "https://www.youtube.com/embed/NWHI9UR4aaM?si=dqE8MyrnYZfDeDb3"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/the-exorcist/theexorcist1.jpg",
+        "urlTo": "/browse/film/the-exorcist",
+        "imageTitle": "The Exorcist"
+      },
+      {
+        "imageUrl": "/assets/images/titles/the-conjuring/theconjuring1.jpg",
+        "urlTo": "/browse/film/the-conjuring",
+        "imageTitle": "The Conjuring"
+      },
+      {
+        "imageUrl": "/assets/images/titles/hereditary/hereditary1.jpg",
+        "urlTo": "/browse/film/hereditary",
+        "imageTitle": "Hereditary"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "The Exorcism",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "A troubled actor begins to unravel while shooting a horror film. His estranged daughter wonders if he's slipping back into his past addictions or if there's something more sinister at play.",
+            "runningTime": "93 Min",
+            "videoQuality": {
+              "720p": "https://dl3.tabar.sbs/Dubbed/Movies/The.Exorcism.2024/The.Exorcism.2024.720p.WEB-DL.Pahe.Dubbed.EBTV.mkv",
+              "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/The.Exorcism.2024/The.Exorcism.2024.1080p.WEB-DL.6CH.Pahe.Dubbed.EBTV.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/the-exorcism/theexorcism1.jpg",
+              "poster": "../../assets/images/titles/the-exorcism/theexorcism2.jpg",
+              "banner": "../../assets/images/titles/the-exorcism/theexorcism3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

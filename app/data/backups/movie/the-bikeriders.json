@@ -1,0 +1,94 @@
+{
+    "title": "The Bikeriders",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "Kathy, a strong-willed member of a Midwestern motorcycle club, recounts the club's evolution over the course of a decade, from a gathering place for local outsiders into a more sinister gang, and the lives of her husband Benny and their friend Johnny.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 127,
+    "rating": "18+",
+    "url": "/browse/film/the-bikeriders",
+    "bannerImage": "/assets/images/titles/the-bikeriders/thebikeriders1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Jodie Comer", "character": "Kathy" },
+      { "name": "Austin Butler", "character": "Benny" },
+      { "name": "Tom Hardy", "character": "Johnny" },
+      { "name": "Michael Shannon", "character": "Zipco" },
+      { "name": "Boyd Holbrook", "character": "Catfish" },
+      { "name": "Norman Reedus", "character": "Funny Sonny" },
+      { "name": "Mike Faist", "character": "Danny" },
+      { "name": "Damon Herriman", "character": "Pecker" },
+      { "name": "Beau Knapp", "character": "Monk" },
+      { "name": "Karl Glusman", "character": "Goody" },
+      { "name": "Happy Anderson", "character": "Big Rig" },
+      { "name": "Toby Wallace", "character": "The Kid" },
+      { "name": "Emory Cohen", "character": "Toby" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "The Bikeriders Image",
+        "url": "../../assets/images/titles/the-bikeriders/thebikeriders1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/the-bikeriders/thebikeriders2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=l9zb5NHV98M"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/easy-rider/easyrider1.jpg",
+        "urlTo": "/browse/film/easy-rider",
+        "imageTitle": "Easy Rider"
+      },
+      {
+        "imageUrl": "/assets/images/titles/the-wild-one/thewildone1.jpg",
+        "urlTo": "/browse/film/the-wild-one",
+        "imageTitle": "The Wild One"
+      },
+      {
+        "imageUrl": "/assets/images/titles/hell-or-high-water/hellorhighwater1.jpg",
+        "urlTo": "/browse/film/hell-or-high-water",
+        "imageTitle": "Hell or High Water"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "The Bikeriders",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "Kathy, a strong-willed member of a Midwestern motorcycle club, recounts the club's evolution over the course of a decade, from a gathering place for local outsiders into a more sinister gang, and the lives of her husband Benny and their friend Johnny.",
+            "runningTime": "127 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/the-bikeriders/The.Bikeriders.2023.480p.WEB-DL.x264-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-bikeriders/The.Bikeriders.2023.720p.WEB-DL.x264-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-bikeriders/The.Bikeriders.2023.1080p.WEB-DL.x264.6CH-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/the-bikeriders/thebikeriders1.jpg",
+              "poster": "../../assets/images/titles/the-bikeriders/thebikeriders2.jpg",
+              "banner": "../../assets/images/titles/the-bikeriders/thebikeriders3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

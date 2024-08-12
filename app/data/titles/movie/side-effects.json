@@ -1,0 +1,94 @@
+{
+    "title": "Side Effects",
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "A young woman's world unravels when a drug prescribed by her psychiatrist has unexpected side effects.",
+    "release_year": "2013",
+    "seasons": 1,
+    "time": 106,
+    "rating": "18+",
+    "url": "/browse/film/side-effects",
+    "bannerImage": "/assets/images/titles/side-effects/sideeffects1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Rooney Mara", "character": "Emily Taylor" },
+      { "name": "Channing Tatum", "character": "Martin Taylor" },
+      { "name": "Jude Law", "character": "Dr. Jonathan Banks" },
+      { "name": "Catherine Zeta-Jones", "character": "Dr. Victoria Siebert" },
+      { "name": "Vinessa Shaw", "character": "Deirdre Banks" },
+      { "name": "Ann Dowd", "character": "Mrs. Taylor" },
+      { "name": "Polly Draper", "character": "Emily's Boss" },
+      { "name": "David Costabile", "character": "Carl Millbank" },
+      { "name": "Mamie Gummer", "character": "Kayla Millbank" },
+      { "name": "Scott Shepherd", "character": "NYPD Detective" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Side Effects Image",
+        "url": "../../assets/images/titles/side-effects/sideeffects1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/side-effects/sideeffects2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=EFEou3MBLi4"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/the-girl-with-the-dragon-tattoo/thegirlwiththedragontattoo1.jpg",
+        "urlTo": "/browse/film/the-girl-with-the-dragon-tattoo",
+        "imageTitle": "The Girl with the Dragon Tattoo"
+      },
+      {
+        "imageUrl": "/assets/images/titles/gone-girl/gonegirl1.jpg",
+        "urlTo": "/browse/film/gone-girl",
+        "imageTitle": "Gone Girl"
+      },
+      {
+        "imageUrl": "/assets/images/titles/the-machinist/themachinist1.jpg",
+        "urlTo": "/browse/film/the-machinist",
+        "imageTitle": "The Machinist"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Side Effects",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "A young woman's world unravels when a drug prescribed by her psychiatrist has unexpected side effects.",
+            "runningTime": "106 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/side-effects/Side.Effects.2013.480p.BluRay.x264.400MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/side-effects/Side.Effects.2013.720p.BluRay.x264.850MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/side-effects/Side.Effects.2013.1080p.BluRay.x264.DD+5.1-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/side-effects/sideeffects1.jpg",
+              "poster": "../../assets/images/titles/side-effects/sideeffects2.jpg",
+              "banner": "../../assets/images/titles/side-effects/sideeffects3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
+  

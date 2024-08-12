@@ -1,0 +1,115 @@
+{
+    "title": "Alienoid: Return To The Future",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Fantasy",
+      "Adventure",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "In Goryeo, swordsmen attempt to obtain a legendary divine blade while aliens appear through a time portal from the present. Meanwhile, in the present, the Guard chasing after the aliens and the Thunder, who escaped from the alien's human body, face a crisis of destruction from the awakened alien's spaceship.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 152,
+    "rating": "13+",
+    "url": "/browse/film/alienoid-part-2",
+    "bannerImage": "/assets/images/titles/alienoid-part-2/alienoidpart21.jpg",
+    "language": "Ko", 
+    "country": "KR",
+    "number_of_episodes": 1,
+    "cast": [
+      {
+        "name": "Ryu Jun-yeol",
+        "character": "Muruk"
+      },
+      {
+        "name": "Kim Woo-bin",
+        "character": "Guard"
+      },
+      {
+        "name": "Kim Tae-ri",
+        "character": "Ean"
+      },
+      {
+        "name": "So Ji-sub",
+        "character": "Moon Do-seok"
+      },
+      {
+        "name": "Yum Jung-ah",
+        "character": "Heug-seol"
+      },
+      {
+        "name": "Jo Woo-jin",
+        "character": "Cheong-woon"
+      },
+      {
+        "name": "Lee Ha-nee",
+        "character": "Min Gae-in"
+      },
+      {
+        "name": "Jin Seon-kyu",
+        "character": "Professor"
+      }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Alienoid: Part 2 Image",
+        "url": "../../assets/images/titles/alienoid-part-2/alienoidpart21.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Part 2 Trailer",
+            "imageUrl": "../../assets/images/titles/alienoid-part-2/alienoidpart22.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=uTe8m9g_Hcs"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/the-adam-project/theadamproject1.jpg",
+        "urlTo": "/browse/film/the-adam-project",
+        "imageTitle": "The Adam Project"
+      },
+      {
+        "imageUrl": "/assets/images/titles/jung_e/junge1.jpg",
+        "urlTo": "/browse/film/jung_e",
+        "imageTitle": "Jung_E"
+      },
+      {
+        "imageUrl": "/assets/images/titles/space-sweepers/spacesweepers1.jpg",
+        "urlTo": "/browse/film/space-sweepers",
+        "imageTitle": "Space Sweepers"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 2",
+        "episodes": [
+          {
+            "title": "Alienoid: Return To The Future",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "In Goryeo, swordsmen attempt to obtain a legendary divine blade while aliens appear through a time portal from the present. Meanwhile, in the present, the Guard chasing after the aliens and the Thunder, who escaped from the alien's human body, face a crisis of destruction from the awakened alien's spaceship.",
+            "runningTime": "152 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/alienoid-return-to-the-future/Alienoid.The.Return.to.the.Future.2024.480p.BluRay.x264-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/alienoid-return-to-the-future/Alienoid.The.Return.to.the.Future.2024.720p.BluRay.x264-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/alienoid-return-to-the-future/Alienoid.The.Return.to.the.Future.2024.1080p.BluRay.x264.DD+7.1-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/alienoid-part-2/alienoidpart21.jpg",
+              "poster": "../../assets/images/titles/alienoid-part-2/alienoidpart22.jpg",
+              "banner": "../../assets/images/titles/alienoid-part-2/alienoidpart24.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

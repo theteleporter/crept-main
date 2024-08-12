@@ -1,0 +1,75 @@
+{
+    "title": "UEFA Champions League Final (2024)",
+    "genres": [
+      "Sports",
+      "Football",
+      "Soccer",
+      "Live Event",
+      "Broadcast",
+      "All"
+    ],
+    "description": "Broadcast from the 69th season of Europe's premier club football tournament organized by UEFA, the Champions League.",
+    "release_year": "2024",
+    "seasons": 1, 
+    "time": 203,
+    "age": "All",
+    "url": "/browse/sport/uefa-champions-league-final-2024",
+    "bannerImage": "/assets/images/titles/uefa-champions-league-final-2024/uclfinal2024_1.jpg",
+    "language": "En",
+    "country": "Multiple", 
+    "number_of_episodes": 1,
+    "cast": [ 
+      { "name": "Stefano Pioli", "character": "Manager (A.C. Milan)" },
+      { "name": "Galatasaray S.K.", "character": "Team" },
+      { "name": "A.C. Milan", "character": "Team" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "UEFA Champions League Final (2024) Image",
+        "url": "../../assets/images/titles/uefa-champions-league-final-2024/uclfinal2024_1.jpg"
+      }
+    ],
+    "trailers": [],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/uefa-euro-2024/uefaeuro2024_1.jpg",
+        "urlTo": "/browse/sport/uefa-euro-2024",
+        "imageTitle": "UEFA Euro 2024"
+      },
+      {
+        "imageUrl": "/assets/images/titles/fifa-world-cup-2022/fifaworldcup2022_1.jpg",
+        "urlTo": "/browse/sport/fifa-world-cup-2022",
+        "imageTitle": "FIFA World Cup 2022"
+      },
+      {
+        "imageUrl": "/assets/images/titles/premier-league/premierleague1.jpg",
+        "urlTo": "/browse/sport/premier-league",
+        "imageTitle": "Premier League"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "UEFA Champions League Final (2024)",
+        "episodes": [
+          {
+            "title": "UEFA Champions League Final (2024)",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "Broadcast from the 69th season of Europe's premier club football tournament organized by UEFA, the Champions League.",
+            "runningTime": "203 Min", 
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/uefa-champions-league-final/UCL.Final.2024.Borussia.Dortmund.vs.Real.Madrid.PROPER.480p.WEB-DL.x264.AAC2.0-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/uefa-champions-league-final/UCL.Final.2024.Borussia.Dortmund.vs.Real.Madrid.PROPER.720p.WEB-DL.x264.AAC2.0-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/uefa-champions-league-final/UCL.Final.2024.Borussia.Dortmund.vs.Real.Madrid.PROPER.1080p.WEB-DL.x264.AAC2.0-crept.studio.mkv"
+            }, 
+            "images": {
+              "thumbnail": "../../assets/images/titles/uefa-champions-league-final-2024/uclfinal2024_1.jpg",
+              "poster": "../../assets/images/titles/uefa-champions-league-final-2024/uclfinal2024_2.jpg",
+              "banner": "../../assets/images/titles/uefa-champions-league-final-2024/uclfinal2024_3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

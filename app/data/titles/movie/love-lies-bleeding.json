@@ -1,0 +1,93 @@
+{
+    "title": "Love Lies Bleeding",
+    "genres": [
+      "Romance",
+      "Thriller",
+      "Crime",
+      "Drama",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "From Director Rose Glass comes an electric new love story. Reclusive gym manager Lou falls hard for Jackie, an ambitious bodybuilder headed through town to Vegas in pursuit of her dream. But their love ignites violence, pulling them deep into thedangerous world of competitive bodybuilding. This darkly funny, stylishly thrilling film follows two women who will stop at nothing to protect each other - and themselves.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 114,
+    "rating": "18+",
+    "url": "/browse/film/love-lies-bleeding",
+    "bannerImage": "/assets/images/titles/love-lies-bleeding/loveliesbleeding1.jpg",
+    "language": "En",
+    "country": "US, UK",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Kristen Stewart", "character": "Jackie" },
+      { "name": "Katy O'Brian", "character": "Lou" },
+      { "name": "Dave Franco", "character": "Tim" },
+      { "name": "Ed Harris", "character": "Peter" },
+      { "name": "Jena Malone", "character": "Barbie" },
+      { "name": "Anna Baryshnikov", "character": "Zoe" },
+      { "name": "Harrison Boxley", "character": "Ralph" },
+      { "name": "Jared Kemp", "character": "Barry" },
+      { "name": "Natalie Camunas", "character": "Melissa" },
+      { "name": "Brett Gelman", "character": "Phil" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Love Lies Bleeding Image",
+        "url": "../../assets/images/titles/love-lies-bleeding/loveliesbleeding1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/love-lies-bleeding/loveliesbleeding2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=l9zb5NHV98M"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/black-swan/blackswan1.jpg",
+        "urlTo": "/browse/film/black-swan",
+        "imageTitle": "Black Swan"
+      },
+      {
+        "imageUrl": "/assets/images/titles/whiplash/whiplash1.jpg",
+        "urlTo": "/browse/film/whiplash",
+        "imageTitle": "Whiplash"
+      },
+      {
+        "imageUrl": "/assets/images/titles/blue-is-the-warmest-color/blueisthewarmestcolor1.jpg",
+        "urlTo": "/browse/film/blue-is-the-warmest-color",
+        "imageTitle": "Blue Is the Warmest Color"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Love Lies Bleeding",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "From Director Rose Glass comes an electric new love story. Reclusive gym manager Lou falls hard for Jackie, dangerous world of competitive bodybuilding. This darkly funny, stylishly thrilling film follows two women who will stop at nothing to protect each other - and themselves.",
+            "runningTime": "114 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/love-lies-bleeding/Love.Lies.Bleeding.2024.480p.BluRay.x264.450MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/love-lies-bleeding/Love.Lies.Bleeding.2024.720p.BluRay.x264.950MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/love-lies-bleeding/Love.Lies.Bleeding.2024.1080p.BluRay.x264.DD+7.1-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/love-lies-bleeding/loveliesbleeding1.jpg",
+              "poster": "../../assets/images/titles/love-lies-bleeding/loveliesbleeding2.jpg",
+              "banner": "../../assets/images/titles/love-lies-bleeding/loveliesbleeding3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

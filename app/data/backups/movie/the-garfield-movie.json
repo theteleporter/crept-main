@@ -1,0 +1,93 @@
+{
+    "title": "The Garfield Movie",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "After an unexpected reunion with his long-lost father, Vic, a streetwise cat, Garfield is forced to leave his comfortable life behind and embark on a crazy heist with Vic and Odie.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 101,
+    "rating": "7+",
+    "url": "/browse/film/the-garfield-movie",
+    "bannerImage": "/assets/images/titles/the-garfield-movie/garfieldmovie1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Chris Pratt", "character": "Garfield (voice)" },
+      { "name": "Samuel L. Jackson", "character": "Vic (voice)" },
+      { "name": "Hannah Waddingham", "character": "Arlene (voice)" },
+      { "name": "Ving Rhames", "character": "Nermal (voice)" },
+      { "name": "Nicholas Hoult", "character": "Jon Arbuckle" },
+      { "name": "Cecily Strong", "character": "Liz Wilson" },
+      { "name": "Harvey Guillén", "character": "Squeak (voice)" },
+      { "name": "Brett Goldstein", "character": "Odie (voice)" },
+      { "name": "Bowen Yang", "character": "Doctor (voice)" },
+      { "name": "Snoop Dogg", "character": "Himself (voice)" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "The Garfield Movie Image",
+        "url": "../../assets/images/titles/the-garfield-movie/garfieldmovie1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/the-garfield-movie/garfieldmovie2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=IeFWNtMo1Fs"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/garfield-the-movie/garfieldthemovie1.jpg",
+        "urlTo": "/browse/film/garfield-the-movie",
+        "imageTitle": "Garfield: The Movie"
+      },
+      {
+        "imageUrl": "/assets/images/titles/the-cat-returns/thecatreturns1.jpg",
+        "urlTo": "/browse/film/the-cat-returns",
+        "imageTitle": "The Cat Returns"
+      },
+      {
+        "imageUrl": "/assets/images/titles/puss-in-boots/pussinboots1.jpg",
+        "urlTo": "/browse/film/puss-in-boots",
+        "imageTitle": "Puss in Boots"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "The Garfield Movie",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "After an unexpected reunion with his long-lost father, Vic, a streetwise cat, Garfield is forced to leave his comfortable life behind and embark on a crazy heist with Vic and Odie.",
+            "runningTime": "101 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/the-garfield-movie/The.Garfield.Movie.2024.480p.WEB-DL.x264.450MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-garfield-movie/The.Garfield.Movie.2024.720p.WEB-DL.x264.950MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-garfield-movie/The.Garfield.Movie.2024.1080p.WEB-DL.x264.6CH-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/the-garfield-movie/garfieldmovie1.jpg",
+              "poster": "../../assets/images/titles/the-garfield-movie/garfieldmovie2.jpg",
+              "banner": "../../assets/images/titles/the-garfield-movie/garfieldmovie3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

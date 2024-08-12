@@ -1,0 +1,122 @@
+{
+    "title": "Bad Boys: Ride or Die",
+    "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "When their late police captain gets linked to drug cartels, wisecracking Miami cops Mike Lowrey and Marcus Burnett embark on a dangerous mission to clear his name.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 115,
+    "rating": "16+",
+    "url": "/browse/film/bad-boys-ride-or-die",
+    "bannerImage": "/assets/images/titles/bad-boys-ride-or-die/badboysrideordie1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Will Smith",
+            "character": "Mike Lowrey"
+        },
+        {
+            "name": "Martin Lawrence",
+            "character": "Marcus Burnett"
+        },
+        {
+            "name": "Vanessa Hudgens",
+            "character": "Kelly"
+        },
+        {
+            "name": "Alexander Ludwig",
+            "character": "Dorn"
+        },
+        {
+            "name": "Paola Núñez",
+            "character": "Rita Secada"
+        },
+        {
+            "name": "Jacob Scipio",
+            "character": "Armando Armas"
+        },
+        {
+            "name": "Joe Pantoliano",
+            "character": "Captain Howard"
+        },
+        {
+            "name": "Tasha Smith",
+            "character": "Theresa Burnett"
+        },
+        {
+            "name": "John Salley",
+            "character": "Fletcher"
+        },
+        {
+            "name": "DJ Khaled",
+            "character": "Manny the Butcher"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Bad Boys: Ride or Die",
+            "url": "/assets/images/titles/bad-boys-ride-or-die/badboysrideordie1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/bad-boys-ride-or-die/badboysrideordie2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/hRFY_Fesa9Q?si=OmmlISoh_EV6eYg5"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/bad-boys/badboys1.jpg",
+            "urlTo": "/browse/film/bad-boys",
+            "imageTitle": "Bad Boys"
+        },
+        {
+            "imageUrl": "/assets/images/titles/bad-boys-ii/badboys2-1.jpg",
+            "urlTo": "/browse/film/bad-boys-ii",
+            "imageTitle": "Bad Boys II"
+        },
+        {
+            "imageUrl": "/assets/images/titles/bad-boys-for-life/badboysforlife1.jpg",
+            "urlTo": "/browse/film/bad-boys-for-life",
+            "imageTitle": "Bad Boys for Life"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Bad Boys: Ride or Die",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "When their late police captain gets linked to drug cartels, wisecracking Miami cops Mike Lowrey and Marcus Burnett embark on a dangerous mission to clear his name.",
+                    "runningTime": "115 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Bad.Boys.Ride.or.Die.2024/Bad.Boys.Ride.or.Die.2024.720p.WEB-DL.Pahe.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Bad.Boys.Ride.or.Die.2024/Bad.Boys.Ride.or.Die.2024.1080p.WEB-DL.6CH.Pahe.Dubbed.EBTV.mkv",
+                        "2160p": "https://dl3.tabar.sbs/Dubbed/Movies/Bad.Boys.Ride.or.Die.2024/Bad.Boys.Ride.or.Die.2024.2160p.10bit.HDR.DV.WEB-DL.6CH.x265.PSA.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/bad-boys-ride-or-die/badboysrideordie1.jpg",
+                        "poster": "/assets/images/titles/bad-boys-ride-or-die/badboysrideordie2.jpg",
+                        "banner": "/assets/images/titles/bad-boys-ride-or-die/badboysrideordie3.jpg" 
+                    }
+                }
+            ]
+        }
+    ]
+}
+

@@ -1,0 +1,105 @@
+{
+    "title": "Bad Hombres",
+    "genres": [
+        "Thriller",
+        "Action",
+        "Crime",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "Two undocumented immigrants get entangled in a dangerous drug deal gone wrong and become targets of a ruthless cartel boss.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 100,
+    "rating": "18+",
+    "url": "/browse/film/bad-hombres",
+    "bannerImage": "/assets/images/titles/bad-hombres/badhombres1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Luke Hemsworth",
+            "character": "Rudy"
+        },
+        {
+            "name": "Hemky Madera",
+            "character": "Cesar"
+        },
+        {
+            "name": "Paul Johansson",
+            "character": "Donnie"
+        },
+        {
+            "name": "Diego Tinoco",
+            "character": "Tiny"
+        },
+        {
+            "name": "Nick Cassavetes",
+            "character": "Santos"
+        },
+        {
+            "name": "Tyrese Gibson",
+            "character": "The Man With No Name"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Bad Hombres",
+            "url": "/assets/images/titles/bad-hombres/badhombres1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/bad-hombres/badhombres2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/qOi8kTtSzpU?si=v8s3TfUWaTwLa0K2"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/sicario/sicario1.jpg",
+            "urlTo": "/browse/film/sicario",
+            "imageTitle": "Sicario"
+        },
+        {
+            "imageUrl": "/assets/images/titles/no-country-for-old-men/nocountry1.jpg",
+            "urlTo": "/browse/film/no-country-for-old-men",
+            "imageTitle": "No Country for Old Men"
+        },
+        {
+            "imageUrl": "/assets/images/titles/hell-or-high-water/hellandhighwater1.jpg",
+            "urlTo": "/browse/film/hell-or-high-water",
+            "imageTitle": "Hell or High Water"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Bad Hombres",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "Desperate to provide for his family, undocumented immigrant Cesar is hired alongside day-laborer Alfonso to work for Donnie, a brute who is also and Alfonso are targeted by a ruthless cartel boss who is on a mission to recover his stolen merchandise.",
+                    "runningTime": "100 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Bad.Hombres.2023/Bad.Hombres.2023.720p.WEB-DL.YIFY.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Bad.Hombres.2023/Bad.Hombres.2023.1080p.WEB-DL.6CH.YIFY.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/bad-hombres/badhombres1.jpg",
+                        "poster": "/assets/images/titles/bad-hombres/badhombres2.jpg",
+                        "banner": "/assets/images/titles/bad-hombres/badhombres3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

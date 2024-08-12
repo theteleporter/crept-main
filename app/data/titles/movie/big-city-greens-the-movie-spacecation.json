@@ -1,0 +1,113 @@
+{
+    "title": "Big City Greens: The Movie - Spacecation",
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "After ruining his family's vacation before it can even begin, Cricket attempts to right his wrongs by volunteering his family for an experimental farming mission in space.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 82,
+    "rating": "7+",
+    "url": "/browse/film/big-city-greens-the-movie-spacecation",
+    "bannerImage": "/assets/images/titles/big-city-greens-the-movie-spacecation/bigcitygreens1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Chris Houghton",
+            "character": "Cricket Green"
+        },
+        {
+            "name": "Marieve Herington",
+            "character": "Tilly Green"
+        },
+        {
+            "name": "Bob Joles",
+            "character": "Bill Green"
+        },
+        {
+            "name": "Artemis Pebdani",
+            "character": "Gramma Alice"
+        },
+        {
+            "name": "Wendi McLendon-Covey",
+            "character": "Nancy Green"
+        },
+        {
+            "name": "Anna Akana",
+            "character": "Gloria Sato"
+        },
+        {
+            "name": "Cheri Oteri",
+            "character": "Chip Whistler"
+        },
+        {
+            "name": "Renée Elise Goldsberry",
+            "character": "Dr. Gloria Jules"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Big City Greens: The Movie - Spacecation",
+            "url": "/assets/images/titles/big-city-greens-the-movie-spacecation/bigcitygreens1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/big-city-greens-the-movie-spacecation/bigcitygreens2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/zikAYUFJyPQ?si=qVJFRzRvf805J4qs"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/phineas-and-ferb-the-movie-candace-against-the-universe/phineasandferb1.jpg",
+            "urlTo": "/browse/film/phineas-and-ferb-the-movie-candace-against-the-universe",
+            "imageTitle": "Phineas and Ferb the Movie: Candace Against the Universe"
+        },
+        {
+            "imageUrl": "/assets/images/titles/gravity-falls/gravityfalls1.jpg",
+            "urlTo": "/browse/tv/gravity-falls",
+            "imageTitle": "Gravity Falls"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-owl-house/theowlhouse1.jpg",
+            "urlTo": "/browse/tv/the-owl-house",
+            "imageTitle": "The Owl House"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Big City Greens: The Movie - Spacecation",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "After ruining his family's vacation before it can even begin, Cricket attempts to right his wrongs by volunteering his family for an experimental farming mission in space.",
+                    "runningTime": "82 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Big.City.Greens.the.Movie.Spacecation.2024/Big.City.Greens.the.Movie.Spacecation.2024.720p.WEB-DL.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Big.City.Greens.the.Movie.Spacecation.2024/Big.City.Greens.the.Movie.Spacecation.2024.1080p.WEB-DL.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/big-city-greens-the-movie-spacecation/bigcitygreens1.jpg",
+                        "poster": "/assets/images/titles/big-city-greens-the-movie-spacecation/bigcitygreens2.jpg",
+                        "banner": "/assets/images/titles/big-city-greens-the-movie-spacecation/bigcitygreens3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}

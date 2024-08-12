@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Adults in the Room",
+    "url": "/browse/film/adults-in-the-room",
+    "description": "A depiction of the intense and complex political negotiations during the 2015 Greek financial crisis, based on Yanis Varoufakis' memoir.",
+    "release_year": "2019",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/adults-in-the-room/adultsintheroom1.jpg",
+    "rating": "17+"
+  },
+  {
+    "title": "Arnold & Sly: Rivals, Friends, Icons",
+    "url": "/browse/film/arnold-sly-rivals-friends-icons",
+    "description": "TMZ exclusively sits down with Arnold Schwarzenegger and Sylvester Stallone as they discuss for the first time how their once-fierce rivalry led to two Hollywood icons forever being friends and brothers in arms.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/arnold-sly/arnoldsly1.jpg",
+    "rating": "14+"
+  },
+  {
+    "title": "Cabrini",
+    "url": "/browse/film/cabrini",
+    "description": "Arriving in New York City in 1889, Italian immigrant Francesca Cabrini is greeted by disease, crime, and impoverished children. She soon sets off on a daring mission to convince the mayor to secure housing and healthcare for society's most vulnerable. With broken English and poor health, Cabrini uses her entrepreneurial mind to build an empire of hope unlike anything the world has ever seen.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/cabrini/cabrini1.jpg",
+    "rating": "13+"
+  },
+  {
+    "title": "Free State of Jones",
+    "url": "/browse/film/free-state-of-jones",
+    "description": "During the Civil War, Newt Knight, a defiant Southern farmer, leads a rebellion against the Confederacy. Banding together with other small farmers and local slaves, Knight launches an uprising that leads Jones County, Mississippi to secede from the Confederacy, creating a Free State of Jones.",
+    "release_year": "2016",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/free-state-of-jones/freestateofjones1.jpg",
+    "rating": "15+"
+  }
+]

@@ -1,0 +1,87 @@
+{
+    "title": "Dunki",
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "A group of friends from a village in Punjab share a common dream: to go to England. Their problem is that they have neither the visa nor the ticket. A soldier promises to take them to the land of their dreams. Dunki is a comedy revolving around this.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 165,
+    "rating": "13+",
+    "url": "/browse/film/dunki",
+    "bannerImage": "/assets/images/titles/dunki/dunki1.jpg",
+    "language": "Hi", 
+    "country": "IN", 
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Shah Rukh Khan",
+            "character": "Main Character" 
+        },
+        {
+            "name": "Taapsee Pannu",
+            "character": "Main Character" 
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Dunki",
+            "url": "/assets/images/titles/dunki/dunki1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Teaser", 
+                    "imageUrl": "/assets/images/titles/dunki/dunki2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/Zd69FfhBmSc?si=-UYYgwNc2DPplfcT" 
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/jab-we-met/jabwemet1.jpg",
+            "urlTo": "/browse/film/jab-we-met",
+            "imageTitle": "Jab We Met"
+        },
+        {
+            "imageUrl": "/assets/images/titles/queen/queen1.jpg",
+            "urlTo": "/browse/film/queen",
+            "imageTitle": "Queen"
+        },
+        {
+            "imageUrl": "/assets/images/titles/dil-wale-dulhania-le-jayenge/ddlj1.jpg",
+            "urlTo": "/browse/film/dil-wale-dulhania-le-jayenge",
+            "imageTitle": "Dilwale Dulhania Le Jayenge"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Dunki",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "A group of friends from a village in Punjab share a common dream: to go to England. Their problem is that they have neither the visa nor the ticket. A soldier promises to comedy revolving around this.",
+                    "runningTime": "165 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/End.Of.The.Rope.2023/End.Of.The.Rope.2023.720p.WEB-DL.YTS.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/End.Of.The.Rope.2023/End.Of.The.Rope.2023.1080p.WEB-DL.YTS.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/dunki/dunki1.jpg",
+                        "poster": "/assets/images/titles/dunki/dunki2.jpg",
+                        "banner": "/assets/images/titles/dunki/dunki3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}

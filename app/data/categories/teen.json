@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Mean Girls",
+    "url": "/browse/film/mean-girls",
+    "description": "New student Cady Heron gets welcomed into the top of the social food chain by an elite group of popular girls called the Plastics, ruled by the conniving queen bee Regina George. However, when Cady makes the major misstep of falling for Regina's ex-boyfriend, she soon finds herself caught in their crosshairs.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/mean-girls/meangirls1.jpg",
+    "rating": "13+"
+  },
+  {
+    "title": "Through My Window: Across the Sea",
+    "url": "/browse/film/through-my-window-across-the-sea",
+    "description": "Ares and Raquel maintain a long-distance relationship during his studies in Stockholm. When they meet again, they find that their period of separation has put their love to the test.",
+    "release_year": "2023",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/through-my-window-across-the-sea/across-the-sea1.jpg",
+    "rating": "16+"
+  },
+  {
+    "title": "Through My Window: Looking at You",
+    "url": "/browse/film/through-my-window-looking-at-you",
+    "description": "After a tumultuous summer, Raquel and Ares struggle to redefine their relationship and end up going their separate ways. However, fate brings them back together in the winter, rekindling their undeniable love and desire for each other. Can they overcome family pressures and find a way to make their relationship work?",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/through-my-window-looking-at-you/throughmywindowlookingatyou1.jpg",
+    "rating": "16+"
+  }
+]

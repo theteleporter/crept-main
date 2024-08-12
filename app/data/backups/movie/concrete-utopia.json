@@ -1,0 +1,87 @@
+{
+    "title": "Concrete Utopia",
+    "genres": [
+        "Drama",
+        "Thriller",
+        "Disaster",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "Survivors of a devastating earthquake in Seoul gather in the only remaining apartment building, where they face difficult choices and struggle for survival.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 130,
+    "rating": "15+", 
+    "url": "/browse/film/concrete-utopia",
+    "bannerImage": "/assets/images/titles/concrete-utopia/concreteutopia1.jpg",
+    "language": "Ko",
+    "country": "KR",
+    "number_of_episodes": 1,
+    "cast": [
+        { "name": "Lee Byung-hun", "character": "Young-tak" },
+        { "name": "Park Seo-joon", "character": "Min-sung" },
+        { "name": "Park Bo-young", "character": "Myung-hwa" },
+        { "name": "Kim Sun-young", "character": "Geum-ae" },
+        { "name": "Park Ji-hu", "character": "Hye-won" },
+        { "name": "Kim Do-yoon", "character": "Do-kyun" }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Concrete Utopia Image",
+            "url": "../../assets/images/titles/concrete-utopia/concreteutopia1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Teaser Trailer",
+                    "imageUrl": "../../assets/images/titles/concrete-utopia/concreteutopia2.jpg",
+                    "trailerUrl": "https://www.youtube.com/watch?v=2JpmUPmCRGU" 
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/the-flu/theflu1.jpg",
+            "urlTo": "/browse/film/the-flu",
+            "imageTitle": "The Flu"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-impossible/theimpossible1.jpg",
+            "urlTo": "/browse/film/the-impossible",
+            "imageTitle": "The Impossible"
+        },
+        {
+            "imageUrl": "/assets/images/titles/train-to-busan/traintobusan1.jpg",
+            "urlTo": "/browse/film/train-to-busan",
+            "imageTitle": "Train to Busan"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "Concrete Utopia",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "Survivors of a devastating earthquake in Seoul gather in the only remaining apartment building, where they face difficult choices and struggle for survival.",
+                    "runningTime": "130 Min",
+                    "videoQuality": {
+                        "480p": "https://spacestorageunit.blob.core.windows.net/container-x/concrete-utopia/Concrete.Utopia.2023.480p.BluRay.x264-crept.studio.mkv",
+                        "720p": "https://spacestorageunit.blob.core.windows.net/container-x/concrete-utopia/Concrete.Utopia.2023.720p.BluRay.x264-crept.studio.mkv",
+                        "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/concrete-utopia/Concrete.Utopia.2023.1080p.BluRay.x264.DD+5.1-crept.studio.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/concrete-utopia/concreteutopia1.jpg",
+                        "poster": "../../assets/images/titles/concrete-utopia/concreteutopia2.jpg",
+                        "banner": "../../assets/images/titles/concrete-utopia/concreteutopia3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}

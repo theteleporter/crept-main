@@ -1,0 +1,185 @@
+{
+    "title": "Ghostbusters: Frozen Empire",
+    "genres": [
+        "Supernatural",
+        "Comedy",
+        "Action",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "The Spengler family and the original Ghostbusters team up to stop an ancient evil artifact from unleashing a second ice age on New York City.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 124,
+    "rating": "13+",
+    "url": "/browse/film/ghostbusters-frozen-empire",
+    "bannerImage": "/assets/images/titles/ghostbusters-frozen-empire/ghostbusters1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Paul Rudd",
+            "character": "Gary Grooberson"
+        },
+        {
+            "name": "Carrie Coon",
+            "character": "Callie Spengler"
+        },
+        {
+            "name": "Finn Wolfhard",
+            "character": "Trevor Spengler"
+        },
+        {
+            "name": "Mckenna Grace",
+            "character": "Phoebe Spengler"
+        },
+        {
+            "name": "Kumail Nanjiani",
+            "character": "Nadeem Razmaadi"
+        },
+        {
+            "name": "Patton Oswalt",
+            "character": "Dr. Hubert Wartzki"
+        },
+        {
+            "name": "Celeste O'Connor",
+            "character": "Lucky Domingo"
+        },
+        {
+            "name": "Logan Kim",
+            "character": "Podcast"
+        },
+        {
+            "name": "Bill Murray",
+            "character": "Dr. Peter Venkman"
+        },
+        {
+            "name": "Dan Aykroyd",
+            "character": "Dr. Raymond Stantz"
+        },
+        {
+            "name": "Ernie Hudson",
+            "character": "Dr. Winston Zeddemore"
+        },
+        {
+            "name": "Annie Potts",
+            "character": "Janine Melnitz"
+        },
+        {
+            "name": "William Atherton",
+            "character": "Walter Peck"
+        },
+        {
+            "name": "James Acaster",
+            "character": "Dr. Lars Pinfield"
+        },
+        {
+            "name": "Emily Alyn Lind",
+            "character": "Melody"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Ghostbusters: Frozen Empire Image",
+            "url": "../../assets/images/titles/ghostbusters-frozen-empire/ghostbusters2.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "../../assets/images/titles/ghostbusters-frozen-empire/ghostbusters2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/X7Di42uUaF0?si=TKGY1R408M_C8D3f"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/ghostbusters-afterlife/ghostbustersafterlife1.jpg",
+            "urlTo": "/browse/film/ghostbusters-afterlife",
+            "imageTitle": "Ghostbusters: Afterlife"
+        },
+        {
+            "imageUrl": "/assets/images/titles/men-in-black/meninblack1.jpg",
+            "urlTo": "/browse/film/men-in-black",
+            "imageTitle": "Men in Black"
+        },
+        {
+            "imageUrl": "/assets/images/titles/jumanji/jumanji1.jpg",
+            "urlTo": "/browse/film/jumanji",
+            "imageTitle": "Jumanji: Welcome to the Jungle"
+        },
+        {
+            "imageUrl": "/assets/images/titles/back-to-the-future/backtothefuture1.jpg",
+            "urlTo": "/browse/film/back-to-the-future",
+            "imageTitle": "Back to the Future"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-greatest-showman/thegreatestshowman1.jpg",
+            "urlTo": "/browse/film/the-greatest-showman",
+            "imageTitle": "The Greatest Showman"
+        },
+        {
+            "imageUrl": "/assets/images/titles/jurassic-world/jurassicworld1.jpg",
+            "urlTo": "/browse/film/jurassic-world",
+            "imageTitle": "Jurassic World"
+        },
+        {
+            "imageUrl": "/assets/images/titles/avengers-endgame/avengersendgame1.jpg",
+            "urlTo": "/browse/film/avengers-endgame",
+            "imageTitle": "Avengers: Endgame"
+        },
+        {
+            "imageUrl": "/assets/images/titles/spider-man-no-way-home/spidermannowayhome1.jpg",
+            "urlTo": "/browse/film/spider-man-no-way-home",
+            "imageTitle": "Spider-Man: No Way Home"
+        },
+        {
+            "imageUrl": "/assets/images/titles/black-panther-wakanda-forever/blackpantherwakandaforever1.jpg",
+            "urlTo": "/browse/film/black-panther-wakanda-forever",
+            "imageTitle": "Black Panther: Wakanda Forever"
+        },
+        {
+            "imageUrl": "/assets/images/titles/doctor-strange-in-the-multiverse-of-madness/doctorstrangemultiverse1.jpg",
+            "urlTo": "/browse/film/doctor-strange-in-the-multiverse-of-madness",
+            "imageTitle": "Doctor Strange in the Multiverse of Madness"
+        },
+        {
+            "imageUrl": "/assets/images/titles/thor-love-and-thunder/thorloveandthunder1.jpg",
+            "urlTo": "/browse/film/thor-love-and-thunder",
+            "imageTitle": "Thor: Love and Thunder"
+        },
+        {
+            "imageUrl": "/assets/images/titles/dune/dune1.jpg",
+            "urlTo": "/browse/film/dune",
+            "imageTitle": "Dune"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "Ghostbusters: Frozen Empire",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "The Spengler family and the original Ghostbusters team up to stop an ancient evil artifact from unleashing a second ice age on New York City.",
+                    "runningTime": "124 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Ghostbusters.Frozen.Empire.2024/Ghostbusters.Frozen.Empire.2024.720p.WEB-DL.Pahe.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Ghostbusters.Frozen.Empire.2024/Ghostbusters.Frozen.Empire.2024.1080p.WEB-DL.6CH.Pahe.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/ghostbusters-frozen-empire/thumbnail1.jpg",
+                        "poster": "../../assets/images/titles/ghostbusters-frozen-empire/poster1.jpg",
+                        "banner": "../../assets/images/titles/ghostbusters-frozen-empire/ghostbusters3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}

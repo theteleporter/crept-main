@@ -1,0 +1,118 @@
+{
+    "title": "Despicable Me 4",
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "Gru, Lucy, Margo, Edith, and Agnes welcome a new member to the family, Gru Jr., who is intent on tormenting his dad. Gru faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, and the family is forced to go on the run.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 87,
+    "rating": "7+",
+    "url": "/browse/film/despicable-me-4",
+    "bannerImage": "/assets/images/titles/despicable-me-4/despicableme4-1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Steve Carell",
+            "character": "Gru / Dru"
+        },
+        {
+            "name": "Kristen Wiig",
+            "character": "Lucy Wilde"
+        },
+        {
+            "name": "Miranda Cosgrove",
+            "character": "Margo"
+        },
+        {
+            "name": "Steve Coogan",
+            "character": "Silas Ramsbottom"
+        },
+        {
+            "name": "Pierre Coffin",
+            "character": "Minions"
+        },
+        {
+            "name": "Will Ferrell",
+            "character": "Maxime Le Mal"
+        },
+        {
+            "name": "Sofia Vergara",
+            "character": "Valentina Santos"
+        },
+        {
+            "name": "Alan Arkin",
+            "character": "Wild Knuckles"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Despicable Me 4",
+            "url": "/assets/images/titles/despicable-me-4/despicableme4-1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/despicable-me-4/despicableme4-2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/qQlr9-rF32A?si=ETxORlGHkkZ8HRxR"
+                },
+                {
+                    "title": "Trailer 2",
+                    "imageUrl": "/assets/images/titles/despicable-me-4/despicableme4-5.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/LtNYaH61dXY?si=Jip4jdSu-Vc-eWvr"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/despicable-me/despicableme1.jpg",
+            "urlTo": "/browse/film/despicable-me",
+            "imageTitle": "Despicable Me"
+        },
+        {
+            "imageUrl": "/assets/images/titles/despicable-me-2/despicableme2-1.jpg",
+            "urlTo": "/browse/film/despicable-me-2",
+            "imageTitle": "Despicable Me 2"
+        },
+        {
+            "imageUrl": "/assets/images/titles/minions-the-rise-of-gru/minionstheriseofgru1.jpg",
+            "urlTo": "/browse/film/minions-the-rise-of-gru",
+            "imageTitle": "Minions: The Rise of Gru"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Despicable Me 4",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "Gru, Lucy, Margo, Edith, and Agnes welcome a new member to the family, Gru Jr., who is intent on tormenting his dad. Gru faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, and the family is forced to go on the run.",
+                    "runningTime": "87 Min",
+                    "videoQuality": {
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Despicable.Me.4.2024/Despicable.Me.4.2024.1080p.HDTS.TELESYNC.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/despicable-me-4/despicableme4-1.jpg",
+                        "poster": "/assets/images/titles/despicable-me-4/despicableme4-2.jpg",
+                        "banner": "/assets/images/titles/despicable-me-4/despicableme4-3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

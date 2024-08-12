@@ -1,0 +1,88 @@
+{
+    "title": "Immaculate",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "An American nun embarks on a new journey when she joins a remote convent in the Italian countryside. However, her warm welcome quickly turns into a living nightmare when she discovers her new home harbors a sinister secret and unspeakable horrors.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 89, 
+    "rating": "18+", 
+    "url": "/browse/film/immaculate",
+    "bannerImage": "/assets/images/titles/immaculate/immaculate1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Sydney Sweeney", "character": "Cecilia" },
+      { "name": "Álvaro Morte", "character": "Father Rossi" },
+      { "name": "Benedetta Porcaroli", "character": "Francesca" },
+      { "name": "Simona Tabasco", "character": "Sister Chiara" },
+      { "name": "Dora Romano", "character": "Mother Superior" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Immaculate Image",
+        "url": "../../assets/images/titles/immaculate/immaculate1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/immaculate/immaculate2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=ewxS9Z-XXYo" 
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/saint-maud/saintmaud1.jpg",
+        "urlTo": "/browse/film/saint-maud",
+        "imageTitle": "Saint Maud"
+      },
+      {
+        "imageUrl": "/assets/images/titles/the-witch/thewitch1.jpg",
+        "urlTo": "/browse/film/the-witch",
+        "imageTitle": "The Witch"
+      },
+      {
+        "imageUrl": "/assets/images/titles/the-nun/thenun1.jpg",
+        "urlTo": "/browse/film/the-nun",
+        "imageTitle": "The Nun"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Immaculate",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "An American nun embarks on a new journey when she joins a remote convent in the Italian countryside. However, her warm welcome quickly turns into a living nightmare when she discovers her new home harbors a sinister secret and unspeakable horrors.",
+            "runningTime": "89 Min", 
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/immaculate/Immaculate.2024.480p.BluRay.x264.400MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/immaculate/Immaculate.2024.720p.BluRay.x264.850MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/immaculate/Immaculate.2024.1080p.BluRay.x264.DD+5.1-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/immaculate/immaculate1.jpg",
+              "poster": "../../assets/images/titles/immaculate/immaculate2.jpg",
+              "banner": "../../assets/images/titles/immaculate/immaculate3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
+  

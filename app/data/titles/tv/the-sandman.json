@@ -1,0 +1,280 @@
+{
+  "title": "The Sandman",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Supernatural",
+    "Science Fiction",
+    "Tv Show",
+    "Films",
+    "All"
+  ],
+  "description": "After years of imprisonment, Morpheus, the King of Dreams, embarks on a journey across worlds to find what was stolen from him and restore his power.",
+  "release_year": "2022",
+  "seasons": 1,
+  "time": 55,
+  "rating": "16+",
+  "url": "/browse/title/the-sandman",
+  "bannerImage": "/assets/images/titles/thesandman/thesandman1.jpg",
+  "language": "En",
+  "country": "US",
+  "number_of_episodes": "11",
+  "cast": [
+    { "name": "Tom Sturridge", "character": "Dream / Morpheus" },
+    { "name": "Boyd Holbrook", "character": "The Corinthian" },
+    { "name": "Vivienne Acheampong", "character": "Lucienne" },
+    { "name": "Patton Oswalt", "character": "Matthew the Raven (voice)" },
+    { "name": "Kirby Howell-Baptiste", "character": "Death" },
+    { "name": "Mason Alexander Park", "character": "Desire" },
+    { "name": "Donna Preston", "character": "Despair" },
+    { "name": "Jenna Coleman", "character": "Johanna Constantine" },
+    { "name": "Gwendoline Christie", "character": "Lucifer Morningstar" }
+  ],
+  "imagesUrl": [
+    {
+      "title": "The Sandman Image",
+      "url": "../../assets/images/titles/thesandman/sandman1.jpg"
+    },
+    {
+      "title": "The Sandman Image",
+      "url": "../../assets/images/titles/thesandman/sandman2.jpg"
+    },
+    {
+      "title": "The Sandman Image",
+      "url": "../../assets/images/titles/thesandman/sandman3.jpg"
+    },
+    {
+      "title": "The Sandman Image",
+      "url": "../../assets/images/titles/thesandman/sandman4.jpg"
+    }
+  ],
+  "more-like": [
+    {
+      "imageUrl": "/assets/images/titles/american-gods/americangods1.jpg",
+      "urlTo": "/browse/title/american-gods",
+      "imageTitle": "American Gods"
+    },
+    {
+      "imageUrl": "/assets/images/titles/good-omens/goodomens1.jpg",
+      "urlTo": "/browse/title/good-omens",
+      "imageTitle": "Good Omens"
+    },
+    {
+      "imageUrl": "/assets/images/titles/lucifer/lucifer1.jpg",
+      "urlTo": "/browse/title/lucifer",
+      "imageTitle": "Lucifer"
+    },
+    {
+      "imageUrl": "/assets/images/titles/supernatural/supernatural1.jpg",
+      "urlTo": "/browse/title/supernatural",
+      "imageTitle": "Supernatural"
+    }
+  ],
+  "trailers": [
+    {
+      "season": [
+        {
+          "title": "Season 1 Trailer",
+          "imageUrl": "../../assets/images/titles/thesandman/thesandman2.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/83ClbRPRFh8"
+        }
+      ]
+    }
+  ],
+  "seasonsEpisode": [
+    {
+      "title": "Season 1",
+      "episodes": [
+        {
+          "title": "Sleep of the Just",
+          "season": 1,
+          "episodeNumber": 1,
+          "description": "While performing a ritual, occultist Roderick Burgess aims to capture Death but instead imprisons her younger brother Dream. After a century of imprisonment, Dream escapes and sets out to reclaim his lost objects of power.",
+          "runningTime": "68 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/720p/The.Sandman.S01E01.Sleep.of.the.Just.720p.NF.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/1080p/The.Sandman.S01E01.Sleep.of.the.Just.1080p.BluRay.x264.DD5.1-crept.studio.mkv",
+            "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/2160p/The.Sandman.S01E01.Sleep.of.the.Just.2160p.UHD.BluRay.x265.HDR.DV.DD+7.1-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Imperfect Hosts",
+          "season": 1,
+          "episodeNumber": 2,
+          "description": "Dream, weakened from his imprisonment, travels to Hell to retrieve his helm. He confronts Lucifer Morningstar and engages in a contest of riddles to win back his possession.",
+          "runningTime": "55 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/720p/The.Sandman.S01E02.Imperfect.Hosts.720p.NF.WEB-DL.x264.300MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/1080p/The.Sandman.S01E02.Imperfect.Hosts.1080p.BluRay.x264.DD5.1-crept.studio.mkv",
+            "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/2160p/The.Sandman.S01E02.Imperfect.Hosts.2160p.UHD.BluRay.x265.HDR.DV.DD+7.1-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Dream a Little Dream of Me",
+          "season": 1,
+          "episodeNumber": 3,
+          "description": "Dream's search for his pouch of sand leads him to John Constantine, an occult detective who reluctantly helps him track down the artifact's whereabouts.",
+          "runningTime": "54 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/720p/The.Sandman.S01E03.Dream.a.Little.Dream.of.Me.720p.NF.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/1080p/The.Sandman.S01E03.Dream.a.Little.Dream.of.Me.1080p.BluRay.x264.DD5.1-crept.studio.mkv",
+            "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/2160p/The.Sandman.S01E03.Dream.a.Little.Dream.of.Me.2160p.UHD.BluRay.x265.HDR.DV.DD+7.1-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "A Hope in Hell",
+          "season": 1,
+          "episodeNumber": 4,
+          "description": "After a terrifying encounter in a diner, Dream enlists the help of Matthew the Raven, who agrees to become his emissary. Dream tracks down the ruby, his last missing object of power, only to find it has been corrupted.",
+          "runningTime": "55 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/720p/The.Sandman.S01E04.A.Hope.in.Hell.720p.NF.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/1080p/The.Sandman.S01E04.A.Hope.in.Hell.1080p.BluRay.x264.DD5.1-crept.studio.mkv",
+            "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/2160p/The.Sandman.S01E04.A.Hope.in.Hell.2160p.UHD.BluRay.x265.HDR.DV.DD+7.1-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "24/7",
+          "season": 1,
+          "episodeNumber": 5,
+          "description": "John Dee, using the corrupted ruby, alters reality to create a world without dreams. Trapped in a diner, the patrons are forced to confront their darkest truths and desires as their world descends into chaos.",
+          "runningTime": "54 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/720p/The.Sandman.S01E05.24.&.7.720p.NF.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/1080p/The.Sandman.S01E05.24.7.1080p.BluRay.x264.DD5.1-crept.studio.mkv",
+            "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/2160p/The.Sandman.S01E05.24.7.2160p.UHD.BluRay.x265.HDR.DV.DD+7.1-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Sound of Her Wings",
+          "season": 1,
+          "episodeNumber": 6,
+          "description": "Dream, emotionally drained after reclaiming his objects of power and stopping John Dee, spends a day with his older sister, Death. As they perform her duties, Dream learns about the cycle of life and death and the importance of letting go.",
+          "runningTime": "53 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/720p/The.Sandman.S01E06.The.Sound.of.Her.Wings.720p.NF.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/1080p/The.Sandman.S01E06.The.Sound.of.Her.Wings.1080p.BluRay.x264.DD5.1-crept.studio.mkv",
+            "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/2160p/The.Sandman.S01E06.The.Sound.of.Her.Wings.2160p.UHD.BluRay.x265.HDR.DV.DD+7.1-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Doll's House",
+          "season": 1,
+          "episodeNumber": 7,
+          "description": "A young woman named Rose Walker discovers she's a dream vortex, a being capable of altering reality through her dreams. Dream and his allies must find and stop her before she inadvertently destroys the Dreaming.",
+          "runningTime": "55 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/720p/The.Sandman.S01E07.The.Dolls.House.720p.NF.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/1080p/The.Sandman.S01E07.The.Dolls.House.1080p.BluRay.x264.DD5.1-crept.studio.mkv",
+            "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/2160p/The.Sandman.S01E07.The.Doll's.House.2160p.UHD.BluRay.x265.HDR.DV.DD+7.1-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Playing House",
+          "season": 1,
+          "episodeNumber": 8,
+          "description": "Rose connects with her long-lost brother Jed, who's been living a nightmare in an abusive foster home. While attending a convention of serial killers, Rose's powers grow stronger, drawing Dream closer to her.",
+          "runningTime": "50 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/720p/The.Sandman.S01E08.Playing.House.720p.NF.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/1080p/The.Sandman.S01E08.Playing.House.1080p.BluRay.x264.DD5.1-crept.studio.mkv",
+            "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/2160p/The.Sandman.S01E08.Playing.House.2160p.UHD.BluRay.x265.HDR.DV.DD+7.1-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Collectors",
+          "season": 1,
+          "episodeNumber": 9,
+          "description": "At the serial killer convention, Rose unknowingly gathers the vortex's energy. Dream's sibling, Desire, conspires against him, manipulating events to lead to Rose's destruction.",
+          "runningTime": "56 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/720p/The.Sandman.S01E09.Collectors.720p.NF.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/1080p/The.Sandman.S01E09.Collectors.1080p.BluRay.x264.DD5.1-crept.studio.mkv",
+            "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/2160p/The.Sandman.S01E09.Collectors.2160p.UHD.BluRay.x265.HDR.DV.DD+7.1-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Lost Hearts",
+          "season": 1,
+          "episodeNumber": 10,
+          "description": "The vortex reaches its peak as Rose's dreams threaten to collapse the walls between worlds. Dream confronts Desire, and Rose must make a difficult choice to save the Dreaming and her loved ones.",
+          "runningTime": "55 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/720p/The.Sandman.S01E10.Lost.Hearts.720p.NF.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/1080p/The.Sandman.S01E10.Lost.Hearts.1080p.BluRay.x264.DD5.1-crept.studio.mkv",
+            "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/2160p/The.Sandman.S01E10.Lost.Hearts.2160p.UHD.BluRay.x265.HDR.DV.DD+7.1-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Dream of a Thousand Cats/Calliope",
+          "season": 1,
+          "episodeNumber": 11,
+          "description": "This special episode features two standalone stories. The first, \"Dream of a Thousand Cats,\" is an animated tale of a Siamese cat's quest to change the world. The second, \"Calliope,\" explores the dark story of a writer held captive by another author.",
+          "runningTime": "64 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/720p/The.Sandman.S01E11.Dream.of.a.Thousand.Cats.and.Calliope.720p.NF.WEB-DL.x264.500MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/1080p/The.Sandman.S01E11.Dream.of.a.Thousand.Cats-Calliope.1080p.BluRay.x264.DD5.1-crept.studio.mkv",
+            "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-sandman/sn-1/2160p/The.Sandman.S01E11.Dream.of.a.Thousand.Cats.Calliope.2160p.UHD.BluRay.x265.HDR.DV.DD+7.1-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        }
+      ]
+    }
+  ]
+}

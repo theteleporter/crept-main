@@ -1,0 +1,18 @@
+# Googlebot
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/*
+
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /admin/*
+
+# Host
+Host: https://www.crept.studio
+
+# Sitemaps
+Sitemap: https://www.crept.studio/sitemap.xml

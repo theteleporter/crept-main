@@ -1,0 +1,96 @@
+{
+    "title": "The Corpse Washer",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "In the wake of her mother's sudden passing, a small-town corpse washer sets out to find the terrifying truth behind a series of mysterious deaths.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 99,
+    "rating": "18+", 
+    "url": "/browse/film/the-corpse-washer",
+    "bannerImage": "/assets/images/titles/the-corpse-washer/thecorpsewasher1.jpg",
+    "language": "Id", 
+    "country": "ID",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Aghniny Haque", "character": "Lela" },
+      { "name": "Djenar Maesa Ayu", "character": "Bu Siti" },
+      { "name": "Ibrahim Risyad", "character": "Arif" },
+      { "name": "Amara Sophie", "character": "Rika" },
+      { "name": "Riafinola Ifani Sari", "character": "Bu Ida" },
+      { "name": "Ruth Marini", "character": "Bu Terry" },
+      { "name": "Vonny Anggraini", "character": "Bu Ana" },
+      { "name": "Mian Tiara", "character": "Bu Tuti" },
+      { "name": "Deni Saputra", "character": "Pak RT" },
+      { "name": "Muhammad Nur Qomaruddin", "character": "Drajat (Police Officer)" },
+      { "name": "Nelly Sukma", "character": "Bunur" },
+      { "name": "Messi Gusti", "character": "Rika Kecil" },
+      { "name": "Aji Santosa", "character": "Bimo" },
+      { "name": "Hifdzi Khoir", "character": "Marbot Masjid" } 
+    ],
+    "imagesUrl": [
+      {
+        "title": "The Corpse Washer Image",
+        "url": "../../assets/images/titles/the-corpse-washer/thecorpsewasher1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/the-corpse-washer/thecorpsewasher2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=l9zb5NHV98M"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/pengabdi-setan/pengabdisetan1.jpg",
+        "urlTo": "/browse/film/pengabdi-setan",
+        "imageTitle": "Pengabdi Setan"
+      },
+      {
+        "imageUrl": "/assets/images/titles/ratu-ilmu-hitam/ratu1.jpg",
+        "urlTo": "/browse/film/ratu-ilmu-hitam",
+        "imageTitle": "Ratu Ilmu Hitam"
+      },
+      {
+        "imageUrl": "/assets/images/titles/may-the-devil-take-you/maythedeviltakeyou1.jpg",
+        "urlTo": "/browse/film/may-the-devil-take-you",
+        "imageTitle": "May the Devil Take You"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "The Corpse Washer",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "In the wake of her mother's sudden passing, a small-town corpse washer sets out to find the terrifying truth behind a series of mysterious deaths.",
+            "runningTime": "99 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/the-corpse-washer/Pemandi.Jenazah.2024.480p.NF.WEB-DL.x264.400MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-corpse-washer/Pemandi.Jenazah.2024.720p.NF.WEB-DL.x264.850MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-corpse-washer/Pemandi.Jenazah.2024.1080p.NF.WEB-DL.x264.AAC5.1-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/the-corpse-washer/thecorpsewasher1.jpg",
+              "poster": "../../assets/images/titles/the-corpse-washer/thecorpsewasher2.jpg",
+              "banner": "../../assets/images/titles/the-corpse-washer/thecorpsewasher3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

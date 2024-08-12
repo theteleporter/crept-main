@@ -1,0 +1,553 @@
+{
+  "title": "See",
+  "genres": ["Drama", "Science Fiction", "Binge", "Action", "Tv Show", "Films", "All"],
+  "description": "In a dystopian future, humans have lost the ability to see, and society has adapted to a new way of life. When twins are born with sight, everything changes.",
+  "release_year": "2019",
+  "seasons": 3,
+  "time": 60,
+  "rating": "16+",
+  "url": "/browse/title/see",
+  "bannerImage": "/assets/images/titles/see/see1.jpg",
+  "language": "En",
+  "country": "US",
+  "number_of_episodes": "24",
+  "cast": [
+    {
+      "name": "Jason Momoa",
+      "character": "Baba Voss"
+    },
+    {
+      "name": "Sylvia Hoeks",
+      "character": "Queen Kane"
+    },
+    {
+      "name": "Hera Hilmar",
+      "character": "Maghra Kane"
+    },
+    {
+      "name": "Archie Madekwe",
+      "character": "Kofun"
+    },
+    {
+      "name": "Nesta Cooper",
+      "character": "Haniwa"
+    },
+    {
+      "name": "Alfre Woodard",
+      "character": "Paris"
+    },
+    {
+      "name": "Christian Camargo",
+      "character": "Tamacti Jun"
+    },
+    {
+      "name": "Yadira Guevara-Prip",
+      "character": "Bow Lion"
+    },
+    {
+      "name": "Eden Epstein",
+      "character": "Wren"
+    },
+    {
+      "name": "Tom Mison",
+      "character": "Lord Harlan"
+    },
+    {
+      "name": "Dave Bautista",
+      "character": "Edo Voss"
+    },
+    {
+      "name": "Olivia Cheng",
+      "character": "Charlotte"
+    }
+  ],
+  "imagesUrl": [
+    {
+      "title": "See Image",
+      "url": "../../assets/images/titles/see/see1.jpg"
+    },
+    {
+      "title": "See Image",
+      "url": "../../assets/images/titles/see/see2.jpg"
+    }
+  ],
+  "more-like": [
+    {
+      "imageUrl": "/assets/images/titles/gameofthrones/got1.jpg",
+      "urlTo": "/browse/title/game-of-thrones",
+      "imageTitle": "Game of Thrones"
+    },
+    {
+      "imageUrl": "/assets/images/titles/thewalkingdead/thewalkingdead1.jpg",
+      "urlTo": "/browse/title/the-walking-dead",
+      "imageTitle": "The Walking Dead"
+    },
+    {
+      "imageUrl": "/assets/images/titles/the100/the1002.jpg",
+      "urlTo": "/browse/title/the-100",
+      "imageTitle": "The 100"
+    },
+    {
+      "imageUrl": "/assets/images/titles/intothebadlands/intothebadlands1.jpg",
+      "urlTo": "/browse/title/into-the-badlands",
+      "imageTitle": "Into the Badlands"
+    },
+    {
+      "imageUrl": "/assets/images/titles/vikings/vikings1.jpg",
+      "urlTo": "/browse/title/vikings",
+      "imageTitle": "Vikings"
+    },
+    {
+      "imageUrl": "/assets/images/titles/thelastkingdom/thelastkingdom1.jpg",
+      "urlTo": "/browse/title/the-last-kingdom",
+      "imageTitle": "The Last Kingdom"
+    },
+    {
+      "imageUrl": "/assets/images/titles/foundation/foundation1.jpg",
+      "urlTo": "/browse/title/foundation",
+      "imageTitle": "Foundation"
+    },
+    {
+      "imageUrl": "/assets/images/titles/raisedbywolves/rbw1.jpg",
+      "urlTo": "/browse/title/raised-by-wolves",
+      "imageTitle": "Raised by Wolves"
+    }
+  ],
+  "trailers": [
+    {
+      "season": [
+        {
+          "title": "Season 1 Trailer",
+          "imageUrl": "../../assets/images/titles/see/see11.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/K2ZZp9xcCss?si=UDB5kv7EePUAHTLD"
+        },
+        {
+          "title": "Season 2 Trailer",
+          "imageUrl": "../../assets/images/titles/see/see5.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/TWVYWj7-G2Q?si=AReXOHMCPIfGWnEs"
+        },
+        {
+          "title": "Season 3 Trailer",
+          "imageUrl": "../../assets/images/titles/see/see7.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/LdhzRw-E-G0?si=hHc0wJhQ3rmMrOLk"
+        }
+      ]
+    }
+  ],
+  "seasonsEpisode": [
+    {
+      "title": "Season 1",
+      "episodes": [
+        {
+          "title": "Godflame",
+          "season": 1,
+          "episodeNumber": 1,
+          "description": "In a future where humans have lost the ability to see, Baba Voss leads his tribe and protects two children born with sight.",
+          "runningTime": "58 minutes",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/480p/See.S01E01.480p.English.Esubs-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/720p/See.S01E01.720p.x264.English.Esubs-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/1080p/See.S01E01.Godflame.1080p.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "/assets/images/titles/see/see1.jpg",
+            "poster": "/assets/images/titles/see/see2.jpg"
+          }
+        },
+        {
+          "title": "Message in a Bottle",
+          "season": 1,
+          "episodeNumber": 2,
+          "description": "Baba Voss and Paris discover a message that leads them to believe Jerlamarel may still be alive. Maghra struggles with her feelings for both Baba Voss and Tamacti Jun.",
+          "runningTime": "54 minutes",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/480p/See.S01E02.480p.English.Esubs-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/720p/See.S01E02.720p.x264.English.Esubs-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/1080p/See.S01E02.Message.in.a.Bottle.1080p.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "/assets/images/titles/see/thumbnails/see_s1e2_thumbnail.jpg",
+            "poster": "/assets/images/titles/see/posters/see_s1e2_poster.jpg",
+            "banner": "/assets/images/titles/see/banners/see_s1e2_banner.jpg"
+          }
+        },
+        {
+          "title": "Fresh Blood",
+          "season": 1,
+          "episodeNumber": 3,
+          "description": "Kofun and Haniwa learn more about their past and the Witchfinders. Baba Voss faces a difficult decision when he encounters an old friend.",
+          "runningTime": "58 minutes",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/480p/See.S01E03.480p.English.Esubs-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/720p/See.S01E03.720p.x264.English.Esubs-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/1080p/See.S01E03.Fresh.Blood.1080p.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "/assets/images/titles/see/thumbnails/see_s1e3_thumbnail.jpg",
+            "poster": "/assets/images/titles/see/posters/see_s1e3_poster.jpg",
+            "banner": "/assets/images/titles/see/banners/see_s1e3_banner.jpg"
+          }
+        },
+        {
+          "title": "The River",
+          "season": 1,
+          "episodeNumber": 4,
+          "description": "Baba Voss, Kofun, and Haniwa embark on a dangerous journey to find a new home for their tribe. Queen Kane makes a shocking discovery.",
+          "runningTime": "55 minutes",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/480p/See.S01E04.480p.English.Esubs-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/720p/See.S01E04.720p.x264.English.Esubs-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/1080p/See.S01E04.The.River.1080p.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "/assets/images/titles/see/thumbnails/see_s1e4_thumbnail.jpg",
+            "poster": "/assets/images/titles/see/posters/see_s1e4_poster.jpg",
+            "banner": "/assets/images/titles/see/banners/see_s1e4_banner.jpg"
+          }
+        },
+        {
+          "title": "Plastic",
+          "season": 1,
+          "episodeNumber": 5,
+          "description": "Baba Voss and his companions face a treacherous river crossing. Queen Kane's obsession with the children born with sight grows stronger.",
+          "runningTime": "52 minutes",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/480p/See.S01E05.480p.English.Esubs-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/720p/See.S01E05.720p.x264.English.Esubs-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/1080p/See.S01E05.Plastic.1080p.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "/assets/images/titles/see/thumbnails/see_s1e5_thumbnail.jpg",
+            "poster": "/assets/images/titles/see/posters/see_s1e5_poster.jpg",
+            "banner": "/assets/images/titles/see/banners/see_s1e5_banner.jpg"
+          }
+        },
+        {
+          "title": "Silk",
+          "season": 1,
+          "episodeNumber": 6,
+          "description": "Baba Voss and his group reach a new settlement, but they soon realize it may not be the safe haven they hoped for. Queen Kane's forces close in on the children.",
+          "runningTime": "55 minutes",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/480p/See.S01E06.480p.English.Esubs-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/720p/See.S01E06.720p.x264.English.Esubs-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/1080p/See.S01E06.Silk.1080p.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "/assets/images/titles/see/thumbnails/see_s1e6_thumbnail.jpg",
+            "poster": "/assets/images/titles/see/posters/see_s1e6_poster.jpg",
+            "banner": "/assets/images/titles/see/banners/see_s1e6_banner.jpg"
+          }
+        },
+        {
+          "title": "The Lavender Road",
+          "season": 1,
+          "episodeNumber": 7,
+          "description": "Baba Voss makes a desperate attempt to rescue Haniwa from the Witchfinders. Kofun faces a difficult choice between his loyalty to his family and his desire for power.",
+          "runningTime": "56 minutes",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/480p/See.S01E07.480p.English.Esubs-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/720p/See.S01E07.720p.x264.English.Esubs-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/1080p/See.S01E07.The.Lavender.Road.1080p.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "/assets/images/titles/see/thumbnails/see_s1e7_thumbnail.jpg",
+            "poster": "/assets/images/titles/see/posters/see_s1e7_poster.jpg",
+            "banner": "/assets/images/titles/see/banners/see_s1e7_banner.jpg"
+          }
+        },
+        {
+          "title": "House of Enlightenment",
+          "season": 1,
+          "episodeNumber": 8,
+          "description": "Baba Voss and his allies infiltrate the House of Enlightenment, hoping to rescue Haniwa and reunite their family. Queen Kane faces a rebellion within her own ranks.",
+          "runningTime": "60 minutes",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/480p/See.S01E08.480p.English.Esubs-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/720p/See.S01E08.720p.x264.English.Esubs-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-1/1080p/See.S01E08.House.of.Enlightenment.1080p.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "/assets/images/titles/see/thumbnails/see_s1e8_thumbnail.jpg",
+            "poster": "/assets/images/titles/see/posters/see_s1e8_poster.jpg",
+            "banner": "/assets/images/titles/see/banners/see_s1e8_banner.jpg"
+          }
+        }
+      ]
+    },
+        {
+          "title": "Season 2",
+          "episodes": [
+            {
+              "title": "Brothers and Sisters",
+              "season": 2,
+              "episodeNumber": 1,
+              "description": "Baba Voss is reunited with his estranged brother, Edo Voss, while Haniwa is held captive by the Trivantians. Maghra solidifies her position as queen.",
+              "runningTime": "57 minutes",
+              "videoQuality": {
+                "480p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/480p/See.S02E01.Brothers.and.Sisters.480p.WEB-DL.x264.200MB-crept.studio.mkv",
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/720p/See.S02E01.Brothers.and.Sisters.720p.WEB-DL.x264.450MB-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/1080p/See.S02E01.Brothers.and.Sisters.1080p.WEB-DL.x264.6CH-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "/assets/images/titles/see/thumbnails/see_s2e1_thumbnail.jpg",
+                "poster": "/assets/images/titles/see/posters/see_s2e1_poster.jpg",
+                "banner": "/assets/images/titles/see/banners/see_s2e1_banner.jpg"
+              }
+            },
+            {
+              "title": "Forever",
+              "season": 2,
+              "episodeNumber": 2,
+              "description": "Baba Voss searches for Haniwa and forms an uneasy alliance with an old enemy. Maghra faces challenges as she tries to rule the Payan Kingdom.",
+              "runningTime": "54 minutes",
+              "videoQuality": {
+                "480p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/480p/See.S02E02.Forever.480p.WEB-DL.x264.200MB-crept.studio.mkv",
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/720p/See.S02E02.Forever.720p.WEB-DL.x264.450MB-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/1080p/See.S02E02.Forever.1080p.WEB-DL.x264.6CH-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "/assets/images/titles/see/thumbnails/see_s2e2_thumbnail.jpg",
+                "poster": "/assets/images/titles/see/posters/see_s2e2_poster.jpg",
+                "banner": "/assets/images/titles/see/banners/see_s2e2_banner.jpg"
+              }
+            },
+            {
+              "title": "The Compass",
+              "season": 2,
+              "episodeNumber": 3,
+              "description": "Kofun seeks guidance from a mysterious woman named Wren. Baba Voss and Edo clash over their differing ideologies. Queen Kane plots her revenge.",
+              "runningTime": "55 minutes",
+              "videoQuality": {
+                "480p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/480p/See.S02E03.The.Compass.480p.WEB-DL.x264.200MB-crept.studio.mkv",
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/720p/See.S02E03.The.Compass.720p.WEB-DL.x264.450MB-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/1080p/See.S02E02.Forever.1080p.WEB-DL.x264.6CH-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "/assets/images/titles/see/thumbnails/see_s2e3_thumbnail.jpg",
+                "poster": "/assets/images/titles/see/posters/see_s2e3_poster.jpg",
+                "banner": "/assets/images/titles/see/banners/see_s2e3_banner.jpg"
+              }
+            },
+            {
+              "title": "The Witchfinder",
+              "season": 2,
+              "episodeNumber": 4,
+              "description": "Baba Voss and Haniwa reunite, but their joy is short-lived as they face new dangers. Kofun and Wren navigate their growing relationship.",
+              "runningTime": "52 minutes",
+              "videoQuality": {
+                "480p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/480p/See.S02E04.The.Witchfinder.480p.WEB-DL.x264.175MB-crept.studio.mkv",
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/720p/See.S02E04.The.Witchfinder.720p.WEB-DL.x264.350MB-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/1080p/See.S02E04.The.Witchfinder.1080p.WEB-DL.x264.6CH-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "/assets/images/titles/see/thumbnails/see_s2e4_thumbnail.jpg",
+                "poster": "/assets/images/titles/see/posters/see_s2e4_poster.jpg",
+                "banner": "/assets/images/titles/see/banners/see_s2e4_banner.jpg"
+              }
+            },
+            {
+              "title": "The Dinner Party",
+              "season": 2,
+              "episodeNumber": 5,
+              "description": "Baba Voss and his family seek refuge at a hidden fortress. Maghra confronts Queen Kane. Kofun makes a difficult sacrifice.",
+              "runningTime": "56 minutes",
+              "videoQuality": {
+                "480p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/480p/See.S02E05.The.Dinner.Party.480p.WEB-DL.x264.200MB-crept.studio.mkv",
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/720p/See.S02E05.The.Dinner.Party.720p.WEB-DL.x264.400MB-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/1080p/See.S02E05.The.Dinner.Party.1080p.WEB-DL.x264.6CH-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "/assets/images/titles/see/thumbnails/see_s2e5_thumbnail.jpg",
+                "poster": "/assets/images/titles/see/posters/see_s2e5_poster.jpg",
+                "banner": "/assets/images/titles/see/banners/see_s2e5_banner.jpg"
+              }
+            },
+            {
+              "title": "The Truth About Unicorns",
+              "season": 2,
+              "episodeNumber": 6,
+              "description": "Baba Voss and Edo Voss clash in a brutal showdown. Maghra's reign faces a growing threat. Kofun struggles to adjust to his new reality.",
+              "runningTime": "58 minutes",
+              "videoQuality": {
+                "480p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/480p/See.S02E06.The.Truth.About.Unicorns.480p.WEB-DL.x264.200MB-crept.studio.mkv",
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/720p/See.S02E06.The.Truth.About.Unicorns.720p.WEB-DL.x264.450MB-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/1080p/See.S02E06.The.Truth.About.Unicorns.1080p.WEB-DL.x264.6CH-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "/assets/images/titles/see/thumbnails/see_s2e6_thumbnail.jpg",
+                "poster": "/assets/images/titles/see/posters/see_s2e6_poster.jpg",
+                "banner": "/assets/images/titles/see/banners/see_s2e6_banner.jpg"
+              }
+            },
+            {
+              "title": "The Queen's Speech",
+              "season": 2,
+              "episodeNumber": 7,
+              "description": "Queen Kane uses her power to manipulate the people of Pennsa. Baba Voss and his allies prepare for a final confrontation with the Trivantians.",
+              "runningTime": "54 minutes",
+              "videoQuality": {
+                "480p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/480p/See.S02E07.The.Queens.Speech.480p.WEB-DL.x264.200MB-crept.studio.mkv",
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/720p/See.S02E07.The.Queens.Speech.720p.WEB-DL.x264.400MB-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/1080p/See.S02E07.The.Queens.Speech.1080p.WEB-DL.x264.6CH-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "/assets/images/titles/see/thumbnails/see_s2e7_thumbnail.jpg",
+                "poster": "/assets/images/titles/see/posters/see_s2e7_poster.jpg",
+                "banner": "/assets/images/titles/see/banners/see_s2e7_banner.jpg"
+              }
+            },
+            {
+              "title": "Rock-a-Bye",
+              "season": 2,
+              "episodeNumber": 8,
+              "description": "The fate of the Payan Kingdom hangs in the balance as Baba Voss and his allies battle the Trivantian army in a final epic showdown.",
+              "runningTime": "60 minutes",
+              "videoQuality": {
+                "480p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/480p/See.s02e08.Rock-a-Bye.480p.WEB-DL.x264.200MB-crept.studio.mkv",
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/720p/See.s02e08.Rock-a-Bye.720p.WEB-DL.x264.450MB-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-2/1080p/See.S02E08.Rock-a-Bye.1080p.WEB-DL.x264.6CH-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "/assets/images/titles/see/thumbnails/see_s2e8_thumbnail.jpg",
+                "poster": "/assets/images/titles/see/posters/see_s2e8_poster.jpg",
+                "banner": "/assets/images/titles/see/banners/see_s2e8_banner.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Season 3",
+          "episodes": [
+            {
+              "title": "Heavy Hangs the Head",
+              "season": 3,
+              "episodeNumber": 1,
+              "description": "A year after Baba Voss' departure, Haniwa adjusts to life in the House of Enlightenment. Kofun and Maghra grapple with the consequences of their choices.",
+              "runningTime": "55 minutes",
+              "videoQuality": {
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-3/720p/See.S03E01.720p.WEB-DL.x264.450MB-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-3/1080p/See.S03E01.1080p.English.Msubs-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "/assets/images/titles/see/thumbnails/see_s3e1_thumbnail.jpg",
+                "poster": "/assets/images/titles/see/posters/see_s3e1_poster.jpg",
+                "banner": "/assets/images/titles/see/banners/see_s3e1_banner.jpg"
+              }
+            },
+            {
+              "title": "Watch Out for Wolves",
+              "season": 3,
+              "episodeNumber": 2,
+              "description": "Kofun discovers a new threat to Pennsa. Haniwa and Wren embark on a secret mission. Baba Voss returns with a warning.",
+              "runningTime": "52 minutes",
+              "videoQuality": {
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-3/720p/See.S03E02.720p.10bit.English.Msubs-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-3/1080p/See.S03E02.1080p.English.Msubs-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "/assets/images/titles/see/thumbnails/see_s3e2_thumbnail.jpg",
+                "poster": "/assets/images/titles/see/posters/see_s3e2_poster.jpg",
+                "banner": "/assets/images/titles/see/banners/see_s3e2_banner.jpg"
+              }
+            },
+            {
+              "title": "This Land Is Your Land",
+              "season": 3,
+              "episodeNumber": 3,
+              "description": "Baba Voss reunites with his family and warns them of the impending war. Kofun makes a difficult decision about his future.",
+              "runningTime": "56 minutes",
+              "videoQuality": {
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-3/720p/See.S03E03.720p.10bit.English.Msubs-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-3/1080p/See.S03E03.1080p.x264.English.Msubs-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "/assets/images/titles/see/thumbnails/see_s3e3_thumbnail.jpg",
+                "poster": "/assets/images/titles/see/posters/see_s3e3_poster.jpg",
+                "banner": "/assets/images/titles/see/banners/see_s3e3_banner.jpg"
+              }
+            },
+            {
+              "title": "The Storm",
+              "season": 3,
+              "episodeNumber": 4,
+              "description": "The Payan army faces the might of the Trivantians in a brutal battle. Baba Voss races against time to protect his family.",
+              "runningTime": "58 minutes",
+              "videoQuality": {
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-3/720p/See.S03E04.720p.10bit.English.Esubs-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-3/1080p/See.S03E04.1080p.English.Msubs-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "/assets/images/titles/see/thumbnails/see_s3e4_thumbnail.jpg",
+                "poster": "/assets/images/titles/see/posters/see_s3e4_poster.jpg",
+                "banner": "/assets/images/titles/see/banners/see_s3e4_banner.jpg"
+              }
+            },
+            {
+              "title": "The House of Pain",
+              "season": 3,
+              "episodeNumber": 5,
+              "description": "Haniwa finds herself trapped in a dangerous situation. Kofun and Maghra clash over their leadership roles. Baba Voss confronts his past.",
+              "runningTime": "53 minutes",
+              "videoQuality": {
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-3/720p/See.S03E05.720p.10bit.English.Msubs-crept-studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-3/1080p/See.S03E05.1080p.x264.English.Msubs-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "/assets/images/titles/see/thumbnails/see_s3e5_thumbnail.jpg",
+                "poster": "/assets/images/titles/see/posters/see_s3e5_poster.jpg",
+                "banner": "/assets/images/titles/see/banners/see_s3e5_banner.jpg"
+              }
+            },
+            {
+              "title": "The Bright Flame",
+              "season": 3,
+              "episodeNumber": 6,
+              "description": "Baba Voss and his allies make a final stand against the Trivantian army. Haniwa's destiny is revealed.",
+              "runningTime": "55 minutes",
+              "videoQuality": {
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-3/720p/See.S03E06.720p.10bit.English.Msubs-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-3/1080p/See.S03E06.1080p.x264.English.Msubs-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "/assets/images/titles/see/thumbnails/see_s3e6_thumbnail.jpg",
+                "poster": "/assets/images/titles/see/posters/see_s3e6_poster.jpg",
+                "banner": "/assets/images/titles/see/banners/see_s3e6_banner.jpg"
+              }
+            },
+            {
+              "title": "I Have a Dream",
+              "season": 3,
+              "episodeNumber": 7,
+              "description": "In the aftermath of the war, the survivors must rebuild their lives and find a new purpose. Baba Voss embarks on a personal journey.",
+              "runningTime": "53 minutes",
+              "videoQuality": {
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-3/720p/See.S03E07.720p.10bit.English.Msubs-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-3/1080p/See.S03E07.1080p.English.Msubs-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "/assets/images/titles/see/thumbnails/see_s3e7_thumbnail.jpg",
+                "poster": "/assets/images/titles/see//posters/see_s3e7_poster.jpg",
+                "banner": "/assets/images/titles/see/banners/see_s3e7_banner.jpg"
+              }
+            },
+            {
+              "title": "Scribe",
+              "season": 3,
+              "episodeNumber": 8,
+              "description": "The final episode brings a dramatic conclusion to the series, as Baba Voss makes a difficult sacrifice for the sake of his family and the future of humanity.",
+              "runningTime": "62 minutes",
+              "videoQuality": {
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-3/720p/See.S03E08.720p.10bit.English.Esubs-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/see/sn-3/1080p/See.S03E08.1080p.x264.English.Esubs-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "/assets/images/titles/see/thumbnails/see_s3e8_thumbnail.jpg",
+                "poster": "/assets/images/titles/see/posters/see_s3e8_poster.jpg",
+                "banner": "/assets/images/titles/see/banners/see_s3e8_banner.jpg"
+              }
+            }
+          ]
+        }
+  ]
+}

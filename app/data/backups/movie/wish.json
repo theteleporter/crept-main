@@ -1,0 +1,123 @@
+{
+    "title": "Wish",
+    "genres": [
+        "Fantasy",
+        "Adventure",
+        "Family",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "A young girl named Asha makes a wish so powerful that it is answered by a cosmic force, a little ball of boundless energy called Star. Together, they face the most formidable of foes to save her community and prove that when the will of a courageous human connects with the magic of the stars, wondrous things can happen.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 98,
+    "rating": "7+",
+    "url": "/browse/film/wish",
+    "bannerImage": "/assets/images/titles/wish/wish1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Ariana DeBose",
+            "character": "Asha"
+        },
+        {
+            "name": "Alan Tudyk",
+            "character": "Valentino"
+        },
+        {
+            "name": "Chris Pine",
+            "character": "King Magnifico"
+        },
+        {
+            "name": "Angelique Cabral",
+            "character": "Queen Amaya"
+        },
+        {
+            "name": "Victor Garber",
+            "character": "Old King"
+        },
+        {
+            "name": "Jennifer Kumiyama",
+            "character": "Nana"
+        },
+        {
+            "name": "John Kassir",
+            "character": "Merchant"
+        },
+        {
+            "name": "Josh Gad",
+            "character": "Olaf"
+        },
+        {
+            "name": "Anna Kendrick",
+            "character": "Elsa"
+        },
+        {
+            "name": "Kristen Bell",
+            "character": "Anna"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Wish Image",
+            "url": "../../assets/images/titles/wish/wish1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "../../assets/images/titles/wish/wish2.jpg",
+                    "trailerUrl": "https://www.youtube.com/watch?v=l9zb5NHV98M" 
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/tangled/tangled1.jpg",
+            "urlTo": "/browse/film/tangled",
+            "imageTitle": "Tangled"
+        },
+        {
+            "imageUrl": "/assets/images/titles/frozen/frozen1.jpg",
+            "urlTo": "/browse/film/frozen",
+            "imageTitle": "Frozen"
+        },
+        {
+            "imageUrl": "/assets/images/titles/moana/moana1.jpg",
+            "urlTo": "/browse/film/moana",
+            "imageTitle": "Moana"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "Wish",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "A young girl named Asha makes a wish so powerful that it is answered by a cosmic force, a little ball of boundless energy called Star. Together, they face the most formidable of foes to save her community and prove that when the will of a courageous human connects with the magic of the stars, wondrous things can happen.",
+                    "runningTime": "98 Min",
+                    "videoQuality": {
+                        "480p": "https://spacestorageunit.blob.core.windows.net/container-x/wish/Wish.2023.480p.BluRay.x264.450MB-crept.studio.mkv",
+                        "720p": "https://spacestorageunit.blob.core.windows.net/container-x/wish/Wish.2023.720p.BluRay.x264.950MB-crept.studio.mkv",
+                        "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/wish/Wish.2023.1080p.BluRay.x264.DD+7.1-crept.studio.mkv",
+                        "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/wish/Wish.2023.2160p.UHD.BluRay.x265.HDR.DV.DD+7.1-crept.studio.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/wish/wish1.jpg",
+                        "poster": "../../assets/images/titles/wish/wish2.jpg",
+                        "banner": "../../assets/images/titles/wish/wish3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

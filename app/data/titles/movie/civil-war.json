@@ -1,0 +1,87 @@
+{
+    "title": "Civil War",
+    "genres": [
+        "Dystopian",
+        "Thriller",
+        "Action",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "In a dystopian future America, a team of military-embedded journalists races against time to reach Washington, D.C., before rebel factions descend upon the White House.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 140, 
+    "rating": "18+",
+    "url": "/browse/film/civil-war",
+    "bannerImage": "/assets/images/titles/civil-war/civilwar1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        { "name": "Kirsten Dunst", "character": "Lee" },
+        { "name": "Wagner Moura", "character": "Joel" },
+        { "name": "Stephen McKinley Henderson", "character": "Samuel 'Sammy' Linsk" },
+        { "name": "Cailee Spaeny", "character": "Becca" },
+        { "name": "Sonoya Mizuno", "character": "Sadie" },
+        { "name": "Nick Offerman", "character": "The President" }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Civil War Image",
+            "url": "../../assets/images/titles/civil-war/civilwar1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "../../assets/images/titles/civil-war/civilwar2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/U7_0-Su-pus?si=DzqR6xvwnVElc9tg"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/the-hunger-games/thehungergames1.jpg",
+            "urlTo": "/browse/film/the-hunger-games",
+            "imageTitle": "The Hunger Games"
+        },
+        {
+            "imageUrl": "/assets/images/titles/blade-runner-2049/bladerunner2049.jpg",
+            "urlTo": "/browse/film/blade-runner-2049",
+            "imageTitle": "Blade Runner 2049"
+        },
+        {
+            "imageUrl": "/assets/images/titles/v-for-vendetta/vforvendetta1.jpg",
+            "urlTo": "/browse/film/v-for-vendetta",
+            "imageTitle": "V for Vendetta"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "Civil War",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "In a dystopian future America, a team of military-embedded journalists races against time to reach Washington, D.C., before rebel factions descend upon the White House.",
+                    "runningTime": "140 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Civil.War.2024/Civil.War.2024.720p.WEB-DL.Pahe.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Civil.War.2024/Civil.War.2024.1080p.WEB-DL.6CH.Pahe.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/civil-war/civilwar1.jpg",
+                        "poster": "../../assets/images/titles/civil-war/civilwar2.jpg",
+                        "banner": "../../assets/images/titles/civil-war/civilwar3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

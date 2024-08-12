@@ -1,0 +1,97 @@
+{
+    "title": "Cash Out",
+    "genres": [
+        "Action",
+        "Thriller",
+        "Crime",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "Professional thief Mason attempts his biggest heist with his brother, robbing a bank. When it goes wrong, they're trapped inside surrounded by law enforcement. Tension rises as Mason negotiates with his ex-lover, the lead negotiator.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 90, 
+    "rating": "18+",
+    "url": "/browse/film/cash-out",
+    "bannerImage": "/assets/images/titles/cash-out/cashout1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "John Travolta",
+            "character": "Felix"
+        },
+        {
+            "name": "Kristin Davis",
+            "character": "Amy"
+        },
+        {
+            "name": "Lukas Haas",
+            "character": "Mason"
+        },
+        {
+            "name": "Quavo",
+            "character": "Travis"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Cash Out",
+            "url": "/assets/images/titles/cash-out/cashout1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/cash-out/cashout2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/lEtb3yEy2K0?si=gE9nkPS1cNvl8Zg6" 
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/inside-man/insideman1.jpg",
+            "urlTo": "/browse/film/inside-man",
+            "imageTitle": "Inside Man"
+        },
+        {
+            "imageUrl": "/assets/images/titles/heat/heat1.jpg",
+            "urlTo": "/browse/film/heat",
+            "imageTitle": "Heat"
+        },
+        {
+            "imageUrl": "/assets/images/titles/den-of-thieves/denofthieves1.jpg",
+            "urlTo": "/browse/film/den-of-thieves",
+            "imageTitle": "Den of Thieves"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Cash Out",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "Professional thief Mason attempts his biggest heist with his brother, robbing a bank. When it goes wrong, they're trapped inside surrounded by law enforcement. Tension rises as Mason negotiates with his ex-lover, the lead negotiator.",
+                    "runningTime": "90 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Cash.Out.2024/Cash.Out.2024.720p.WEB-DL.YIFY.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Cash.Out.2024/Cash.Out.2024.1080p.WEB-DL.6CH.YIFY.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/cash-out/cashout1.jpg",
+                        "poster": "/assets/images/titles/cash-out/cashout2.jpg",
+                        "banner": "/assets/images/titles/cash-out/cashout3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

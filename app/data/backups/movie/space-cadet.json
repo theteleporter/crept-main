@@ -1,0 +1,92 @@
+{
+  "title": "Space Cadet",
+  "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Movie",
+    "Films",
+    "All"
+  ],
+  "description": "A Florida party girl with a dream of going to space gets accepted into NASA's astronaut training program with a doctored application. Now, she must prove she has the right stuff to make it through the rigorous training and into the cosmos before her secret is revealed.",
+  "release_year": "2024",
+  "seasons": 1,
+  "time": 101,
+  "rating": "13+",
+  "url": "/browse/film/space-cadet",
+  "bannerImage": "/assets/images/titles/space-cadet/spacecadet1.jpg",
+  "language": "En",
+  "country": "US",
+  "number_of_episodes": 1,
+  "cast": [
+    { "name": "Emma Roberts", "character": "Rex" },
+    { "name": "Tom Hopper", "character": "Logan" },
+    { "name": "Poppy Liu", "character": "Nadine" },
+    { "name": "Gabrielle Union", "character": "Pam" },
+    { "name": "Sebastián Yatra", "character": "Toddrick Spencer" },
+    { "name": "Desi Lydic", "character": "Jennings" },
+    { "name": "Sam Robards", "character": "Rex's Father" },
+    { "name": "Colin Woodell", "character": "Tom" },
+    { "name": "Justina Adorno", "character": "Thelma" },
+    { "name": "Brandon Sklenar", "character": "Brent Bosworth" },
+    { "name": "Jay Chandrasekhar", "character": "Neil" }
+  ],
+  "imagesUrl": [
+    {
+      "title": "Space Cadet Image",
+      "url": "../../assets/images/titles/space-cadet/spacecadet1.jpg"
+    }
+  ],
+  "trailers": [
+    {
+      "season": [
+        {
+          "title": "Official Trailer",
+          "imageUrl": "../../assets/images/titles/space-cadet/spacecadet2.jpg",
+          "trailerUrl": "https://www.youtube.com/watch?v=6wL3evhiN5k"
+        }
+      ]
+    }
+  ],
+  "more-like": [
+    {
+      "imageUrl": "/assets/images/titles/legally-blonde/legallyblonde1.jpg",
+      "urlTo": "/browse/film/legally-blonde",
+      "imageTitle": "Legally Blonde"
+    },
+    {
+      "imageUrl": "/assets/images/titles/hidden-figures/hiddenfigures1.jpg",
+      "urlTo": "/browse/film/hidden-figures",
+      "imageTitle": "Hidden Figures"
+    },
+    {
+      "imageUrl": "/assets/images/titles/armageddon/armageddon1.jpg",
+      "urlTo": "/browse/film/armageddon",
+      "imageTitle": "Armageddon"
+    }
+  ],
+  "seasonsEpisode": [
+    {
+      "title": "Part 1",
+      "episodes": [
+        {
+          "title": "Space Cadet",
+          "season": 1,
+          "episodeNumber": 1,
+          "description": "A Florida party girl with a dream of going to space gets accepted into NASA's astronaut training program with a doctored application. Now, she must prove she has the right stuff to make it through the rigorous training and into the cosmos before her secret is revealed.",
+          "runningTime": "101 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/space-cadet/Space.Cadet.2024.480p.WEB-DL.x264.450MB-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/space-cadet/Space.Cadet.2024.720p.WEB-DL.x264.950MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/space-cadet/Space.Cadet.2024.1080p.WEB-DL.x264.AAC5.1-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "../../assets/images/titles/space-cadet/spacecadet1.jpg",
+            "poster": "../../assets/images/titles/space-cadet/spacecadet2.jpg",
+            "banner": "../../assets/images/titles/space-cadet/spacecadet3.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,89 @@
+{
+  "title": "The Strangers: Chapter 1",
+  "genres": [
+    "Horror",
+    "Thriller",
+    "Mystery",
+    "Movie",
+    "Films",
+    "All"
+  ],
+  "description": "A young couple's road trip takes a terrifying turn when they are stalked and tormented by three masked psychopaths at a secluded Airbnb.",
+  "release_year": "2024",
+  "seasons": 1,
+  "time": 91,
+  "rating": "18+",
+  "url": "/browse/film/the-strangers-chapter-1",
+  "bannerImage": "/assets/images/titles/the-strangers-chapter-1/thestrangerschapter1_1.jpg",
+  "language": "En",
+  "country": "US",
+  "number_of_episodes": 1,
+  "cast": [
+    { "name": "Madelaine Petsch", "character": "Maya" },
+    { "name": "Froy Gutierrez", "character": "Ryan" },
+    { "name": "Gabriel Basso", "character": "Luke" },
+    { "name": "Ema Horvath", "character": "Ruthie" },
+    { "name": "Rachel Shenton", "character": "Debbie" },
+    { "name": "Damian Maffei", "character": "Man in the Mask" },
+    { "name": "Lea Enslin", "character": "Dollface" },
+    { "name": "Rebecca Linehan", "character": "Pin-Up Girl" }
+  ],
+  "imagesUrl": [
+    {
+      "title": "The Strangers: Chapter 1 Image",
+      "url": "../../assets/images/titles/the-strangers-chapter-1/thestrangerschapter1_1.jpg"
+    }
+  ],
+  "trailers": [
+    {
+      "season": [
+        {
+          "title": "Chapter 1 Trailer",
+          "imageUrl": "../../assets/images/titles/the-strangers-chapter-1/thestrangerschapter1_2.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/3pZUQmZdOi4?si=-PRgWxKpvglhhpm-"
+        }
+      ]
+    }
+  ],
+  "more-like": [
+    {
+      "imageUrl": "/assets/images/titles/the-strangers/thestrangers1.jpg",
+      "urlTo": "/browse/film/the-strangers",
+      "imageTitle": "The Strangers"
+    },
+    {
+      "imageUrl": "/assets/images/titles/you-re-next/yourenext1.jpg",
+      "urlTo": "/browse/film/you-re-next",
+      "imageTitle": "You're Next"
+    },
+    {
+      "imageUrl": "/assets/images/titles/hush/hush1.jpg",
+      "urlTo": "/browse/film/hush",
+      "imageTitle": "Hush"
+    }
+  ],
+  "seasonsEpisode": [
+    {
+      "title": "Part 1",
+      "episodes": [
+        {
+          "title": "The Strangers: Chapter 1",
+          "season": 1,
+          "episodeNumber": 1,
+          "description": "A young couple's road trip takes a terrifying turn when they are stalked and tormented by three masked psychopaths at a secluded Airbnb.",
+          "runningTime": "91 Min",
+          "videoQuality": {
+            "720p": "https://dl3.tabar.sbs/Dubbed/Movies/The.Strangers.Chapter.1.2024/The.Strangers.Chapter.1.2024.720p.WEB-DL.Pahe.Dubbed.EBTV.mkv",
+            "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/The.Strangers.Chapter.1.2024/The.Strangers.Chapter.1.2024.1080p.WEB-DL.6CH.Pahe.Dubbed.EBTV.mkv"
+          },
+          "images": {
+            "thumbnail": "../../assets/images/titles/the-strangers-chapter-1/thestrangerschapter1_1.jpg",
+            "poster": "../../assets/images/titles/the-strangers-chapter-1/thestrangerschapter1_2.jpg",
+            "banner": "../../assets/images/titles/the-strangers-chapter-1/thestrangerschapter1_3.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}
+

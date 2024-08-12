@@ -1,0 +1,275 @@
+{
+  "title": "1899",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Science Fiction",
+    "Thriller",
+    "Films",
+    "Tv Show",
+    "All"
+  ],
+  "description": "A migrant steamship heads west to leave the old continent. The passengers, a mixed bag from all over Europe, are united by their hopes and dreams for the new century and their future abroad. But their journey takes an unexpected turn when they discover another migrant ship adrift on the open sea.",
+  "release_year": "2022",
+  "seasons": 1,
+  "time": 60,
+  "rating": "16+",
+  "url": "/browse/title/1899",
+  "bannerImage": "/assets/images/titles/1899/18991.jpg",
+  "language": "En",
+  "country": "DE",
+  "number_of_episodes": 8,
+  "cast": [
+    {
+      "name": "Emily Beecham",
+      "character": "Maura Franklin/Singleton"
+    },
+    {
+      "name": "Aneurin Barnard",
+      "character": "Daniel Solace"
+    },
+    {
+      "name": "Andreas Pietschmann",
+      "character": "Eyk Larsen"
+    },
+    {
+      "name": "Miguel Bernardeau",
+      "character": "Ángel"
+    },
+    {
+      "name": "Maciej Musiał",
+      "character": "Olek"
+    },
+    {
+      "name": "Clara Rosager",
+      "character": "Tove"
+    },
+    {
+      "name": "Lucas Lynggaard Tønnesen",
+      "character": "Krester"
+    },
+    {
+      "name": "Rosalie Craig",
+      "character": "Virginia Wilson"
+    },
+    {
+      "name": "Maria Erwolter",
+      "character": "Iben"
+    },
+    {
+      "name": "Yann Gael",
+      "character": "Jérôme"
+    },
+    {
+      "name": "Mathilde Ollivier",
+      "character": "Clémence"
+    },
+    {
+      "name": "José Pimentão",
+      "character": "Ramiro"
+    },
+    {
+      "name": "Isabella Wei",
+      "character": "Ling Yi"
+    },
+    {
+      "name": "Gabby Wong",
+      "character": "Yuk Je"
+    }
+  ],
+  "imagesUrl": [
+    {
+      "title": "1899 Image",
+      "url": "../../assets/images/titles/1899/18991.jpg"
+    },
+    {
+      "title": "1899 Image",
+      "url": "../../assets/images/titles/1899/18992.jpg"
+    },
+    {
+      "title": "1899 Image",
+      "url": "../../assets/images/titles/1899/18993.jpg"
+    },
+    {
+      "title": "1899 Image",
+      "url": "../../assets/images/titles/1899/18994.jpg"
+    }
+  ],
+  "more-like": [
+    {
+      "imageUrl": "/assets/images/titles/dark/dark1.jpg",
+      "urlTo": "/browse/title/dark",
+      "imageTitle": "Dark"
+    },
+    {
+      "imageUrl": "/assets/images/titles/lost/lost1.jpg",
+      "urlTo": "/browse/title/lost",
+      "imageTitle": "Lost"
+    },
+    {
+      "imageUrl": "/assets/images/titles/sense8/sense81.jpg",
+      "urlTo": "/browse/title/sense8",
+      "imageTitle": "Sense8"
+    },
+    {
+      "imageUrl": "/assets/images/titles/the-oa/theoa1.jpg",
+      "urlTo": "/browse/title/the-oa",
+      "imageTitle": "The OA"
+    }
+  ],
+  "trailers": [
+    {
+      "season": [
+        {
+          "title": "Season 1 Trailer",
+          "imageUrl": "../../assets/images/titles/1899/18996.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/pYtGOY4qYHU"
+        }
+      ]
+    }
+  ],
+  "seasonsEpisode": [
+    {
+      "title": "Season 1",
+      "episodes": [
+        {
+          "title": "The Ship",
+          "season": 1,
+          "episodeNumber": 1,
+          "description": "In 1899, a steamship named Kerberos carrying European migrants to New York City from London receives a mysterious message from another migrant ship, the Prometheus, which had gone missing for months. The Kerberos changes course to investigate, leading to strange and unsettling occurrences aboard.",
+          "runningTime": "62 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/480p/1899.S01E01.The.Ship.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/720p/1899.S01E01.The.Ship.720p.NF.WEB-DL.x264.450MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/1080p/1899.S01E01.The.Ship.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Boy",
+          "season": 1,
+          "episodeNumber": 2,
+          "description": "The Kerberos rescues survivors from the Prometheus, including a young boy who carries a strange pyramid-shaped object. Eyk, the captain, faces a mutiny from the passengers who want to return to Europe, but a series of inexplicable events continue to plague the ship.",
+          "runningTime": "54 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/480p/1899.S01E02.The.Boy.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/720p/1899.S01E02.The.Boy.720p.NF.WEB-DL.x264.450MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/1080p/1899.S01E02.The.Boy.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Fog",
+          "season": 1,
+          "episodeNumber": 3,
+          "description": "The Kerberos becomes engulfed in a dense fog, and the passengers experience disturbing visions and hallucinations. Maura digs deeper into the secrets of the Prometheus and the enigmatic boy, while tensions rise among the crew and passengers.",
+          "runningTime": "53 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/480p/1899.S01E03.The.Fog.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/720p/1899.S01E03.The.Fog.720p.NF.WEB-DL.x264.450MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/1080p/1899.S01E03.The.Fog.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Fight",
+          "season": 1,
+          "episodeNumber": 4,
+          "description": "After a violent confrontation with a stowaway, Eyk and Maura discover a secret compartment on the Prometheus, containing old journals and a strange machine. Meanwhile, tensions between the different passenger groups escalate, leading to a dangerous fight.",
+          "runningTime": "50 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/480p/1899.S01E04.The.Fight.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/720p/1899.S01E04.The.Fight.720p.NF.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/1080p/1899.S01E04.The.Fight.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Calling",
+          "season": 1,
+          "episodeNumber": 5,
+          "description": "Maura begins to unravel the mystery of the pyramid and its connection to her own past. The boy starts to exhibit strange abilities, and the Kerberos receives a cryptic message that seems to be coming from the boy himself.",
+          "runningTime": "55 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/480p/1899.S01E05.The.Calling.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/720p/1899.S01E05.The.Calling.720p.NF.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/1080p/1899.S01E05.The.Calling.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Pyramid",
+          "season": 1,
+          "episodeNumber": 6,
+          "description": "Maura and Eyk venture into the bowels of the Kerberos, following a series of tunnels that lead to a hidden chamber containing a massive pyramid. The passengers become increasingly paranoid and suspicious of each other, and the ship's reality begins to distort.",
+          "runningTime": "57 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/480p/1899.S01E06.The.Pyramid.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/720p/1899.S01E06.The.Pyramid.720p.NF.WEB-DL.x264.450MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/1080p/1899.S01E06.The.Pyramid.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Storm",
+          "season": 1,
+          "episodeNumber": 7,
+          "description": "A violent storm batters the Kerberos, and the passengers are forced to confront their darkest fears and secrets. Maura makes a shocking discovery about her connection to the pyramid, while Eyk struggles to maintain control of the increasingly chaotic situation.",
+          "runningTime": "56 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/480p/1899.S01E07.The.Storm.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/720p/1899.S01E07.The.Storm.720p.NF.WEB-DL.x264.450MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/1080p/1899.S01E07.The.Storm.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Key",
+          "season": 1,
+          "episodeNumber": 8,
+          "description": "In the season finale, the truth behind the Kerberos, the Prometheus, and the pyramid is revealed. Maura must make a difficult choice that will determine the fate of all the passengers, while a shocking twist leaves viewers questioning everything they thought they knew.",
+          "runningTime": "62 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/480p/1899.S01E08.The.Key.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/720p/1899.S01E08.The.Key.720p.NF.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/1899/sn-1/1080p/1899.S01E08.The.Key.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        }
+      ]
+    }
+  ]
+}

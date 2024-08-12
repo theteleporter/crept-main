@@ -1,0 +1,90 @@
+{
+    "title": "The Mechanic",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "Arthur Bishop, a professional assassin, takes on Steve McKenna, the son of a former target, as his apprentice.",
+    "release_year": "2011",
+    "seasons": 1,
+    "time": 93,
+    "rating": "18+",
+    "url": "/browse/film/the-mechanic",
+    "bannerImage": "/assets/images/titles/the-mechanic/themechanic1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Jason Statham", "character": "Arthur Bishop" },
+      { "name": "Ben Foster", "character": "Steve McKenna" },
+      { "name": "Tony Goldwyn", "character": "Dean Sanderson" },
+      { "name": "Donald Sutherland", "character": "Harry McKenna" },
+      { "name": "Jeff Chase", "character": "Burke" },
+      { "name": "Mini Andén", "character": "Sarah" },
+      { "name": "James Logan", "character": "Jorge Lara" },
+      { "name": "Christa Campbell", "character": "Kelly" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "The Mechanic Image",
+        "url": "../../assets/images/titles/the-mechanic/themechanic1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/the-mechanic/themechanic2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=V7l257ySqJA"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/the-transporter/thetransporter1.jpg",
+        "urlTo": "/browse/film/the-transporter",
+        "imageTitle": "The Transporter"
+      },
+      {
+        "imageUrl": "/assets/images/titles/the-professional/theprofessional1.jpg",
+        "urlTo": "/browse/film/the-professional",
+        "imageTitle": "The Professional"
+      },
+      {
+        "imageUrl": "/assets/images/titles/collateral/collateral1.jpg",
+        "urlTo": "/browse/film/collateral",
+        "imageTitle": "Collateral"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "The Mechanic",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "Arthur Bishop, a professional assassin, takes on Steve McKenna, the son of a former target, as his apprentice.",
+            "runningTime": "93 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/the-mechanic/The.Mechanic.2011.480p.BluRay.x264.450MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-mechanic/The.Mechanic.2011.720p.BluRay.x264.900MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-mechanic/The.Mechanic.2011.1080p.BluRay.x264.DD+5.1-crept.studio.mkv",
+              "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-mechanic/The.Mechanic.2011.2160p.UHD.BluRay.x265.HDR.DV.DD+5.1-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/the-mechanic/themechanic1.jpg",
+              "poster": "../../assets/images/titles/the-mechanic/themechanic2.jpg",
+              "banner": "../../assets/images/titles/the-mechanic/themechanic3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

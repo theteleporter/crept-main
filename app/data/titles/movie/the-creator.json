@@ -1,0 +1,94 @@
+{
+    "title": "The Creator",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "Amidst a future war between the human race and the forces of artificial intelligence, Joshua, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war... and all of humankind.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 133,
+    "rating": "18+", 
+    "url": "/browse/film/the-creator",
+    "bannerImage": "/assets/images/titles/the-creator/thecreator1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "John David Washington", "character": "Joshua" },
+      { "name": "Gemma Chan", "character": "Maya" },
+      { "name": "Ken Watanabe", "character": "Harun" },
+      { "name": "Sturgill Simpson", "character": "Shipley" },
+      { "name": "Madeleine Yuna Voyles", "character": "Alphie" },
+      { "name": "Allison Janney", "character": "J.W." },
+      { "name": "Marc Menchaca", "character": "Graham" },
+      { "name": "Ralph Ineson", "character": "General Andrews" },
+      { "name": "Veronica Ngô", "character": "Queens" },
+      { "name": "Hiro Kanagawa", "character": "Dr. Kihara" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "The Creator Image",
+        "url": "../../assets/images/titles/the-creator/thecreator1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/the-creator/thecreator2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=t8X2nLK2Vt0"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/blade-runner-2049/bladerunner2049_1.jpg",
+        "urlTo": "/browse/film/blade-runner-2049",
+        "imageTitle": "Blade Runner 2049"
+      },
+      {
+        "imageUrl": "/assets/images/titles/ex-machina/exmachina1.jpg",
+        "urlTo": "/browse/film/ex-machina",
+        "imageTitle": "Ex Machina"
+      },
+      {
+        "imageUrl": "/assets/images/titles/ghost-in-the-shell/ghostintheshell1.jpg",
+        "urlTo": "/browse/film/ghost-in-the-shell",
+        "imageTitle": "Ghost in the Shell"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "The Creator",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "Amidst a future war between the human race and the forces of artificial intelligence, Joshua, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war... and all of humankind.",
+            "runningTime": "133 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/the-creator/The.Creator.2023.480p.MA.WEB-DL.x264-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-creator/The.Creator.2023.720p.MA.WEB-DL.x264-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-creator/The.Creator.2023.1080p.MA.WEB-DL.x264.DD+5.1-crept.studio.mkv",
+              "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-creator/The.Creator.2023.2160p.MA.WEB-DL.x265.HDR.DV.DD+5.1.Atmos-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/the-creator/thecreator1.jpg",
+              "poster": "../../assets/images/titles/the-creator/thecreator2.jpg",
+              "banner": "../../assets/images/titles/the-creator/thecreator3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
+  

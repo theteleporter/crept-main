@@ -1,0 +1,171 @@
+{
+    "title": "Supacell",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Drama",
+      "Comedy",
+      "Superhero",
+      "Tv Show",
+      "Films",
+      "All"
+    ],
+    "description": "A group of ordinary people from South London’s Ladbroke Grove are granted superpowers, but they must harness these abilities for good before it’s too late.",
+    "release_year": "2024",
+    "seasons": 1, 
+    "time": 55,  
+    "rating": "16+",
+    "url": "/browse/title/supacell",
+    "bannerImage": "/assets/images/titles/supacell/supacell1.jpg",
+    "language": "En",
+    "country": "GB",
+    "number_of_episodes": "6",
+    "cast": [
+      { "name": "Tosin Cole", "character": "Michael Lasaki" },
+      { "name": "Nadine Mills", "character": "Sabrina Bailey" },
+      { "name": "Eric Kofi Abrefa", "character": "Andre" },
+      { "name": "Adelayo Adedayo", "character": "Latoya" },
+      { "name": "Rayxia Ojo", "character": "Taz" },
+      { "name": "Giacomo Mancini", "character": "Spud" },
+      { "name": "Calvin Demba", "character": "Rodney" },
+      { "name": "Lucien Laviscount", "character": "Dee" }
+    ],
+    "imagesUrl": [
+      { "title": "Supacell Image", "url": "../../assets/images/titles/supacell/supacell1.jpg" },
+      { "title": "Supacell Image", "url": "../../assets/images/titles/supacell/supacell2.jpg" },
+      { "title": "Supacell Image", "url": "../../assets/images/titles/supacell/supacell3.jpg" },
+      { "title": "Supacell Image", "url": "../../assets/images/titles/supacell/supacell4.jpg" }
+    ],
+    "more-like": [
+      { "imageUrl": "/assets/images/titles/the-boys/theboys1.jpg", "urlTo": "/browse/title/the-boys", "imageTitle": "The Boys" },
+      { "imageUrl": "/assets/images/titles/misfits/misfits1.jpg", "urlTo": "/browse/title/misfits", "imageTitle": "Misfits" },
+      { "imageUrl": "/assets/images/titles/umbrella-academy/umbrellaacademy1.jpg", "urlTo": "/browse/title/the-umbrella-academy", "imageTitle": "The Umbrella Academy" },
+      { "imageUrl": "/assets/images/titles/doom-patrol/doompatrol1.jpg", "urlTo": "/browse/title/doom-patrol", "imageTitle": "Doom Patrol" }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/supacell/supacell2.jpg", 
+            "trailerUrl": "https://www.youtube.com/embed/wPHpP89hnlQ"
+          }
+        ]
+      }
+    ],
+    "seasonsEpisode": [
+        {
+          "title": "Season 1",
+          "episodes": [
+            {
+              "title": "Michael",
+              "season": 1,
+              "episodeNumber": 1,
+              "description": "Delivery driver Michael has big plans for his future with his girlfriend. Until something odd starts happening to him and others across South London.",
+              "runningTime": "51 min",
+              "videoQuality": {
+                "480p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/480p/Supacell.S01E01.Michael.480p.x264.Hindi.English.Msubs-crept.studio.mkv",
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/720p/Supacell.S01E01.Michael.720p.WEB-DL.x264.450MB-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/1080p/265/Supacell.S01E01.Michael.1080p.WEB-DL.x265.10Bit.6CH-crept.studio.mkv",
+                "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/2160p/Supacell.S01E01.2024.2160p.NF.WEB-DL.DV.HDR.Hindi_DDP5.1_+_English_DDPA5.1.H.265-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+                "poster": "YOUR_POSTER_URL_HERE",
+                "banner": "YOUR_BANNER_URL_HERE"
+              }
+            },
+            {
+              "title": "Tazer",
+              "season": 1,
+              "episodeNumber": 2,
+              "description": "Four ordinary Londoners unexpectedly develop superpowers. Meanwhile, another individual already knows how to use his powers to his advantage. While Michael desperately seeks answers.",
+              "runningTime": "48 min",
+              "videoQuality": {
+                "480p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/480p/Supacell.S01E02.Tazer.480p.x264.Hindi.English.Msubs-crept.studio.mkv",
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/720p/Supacell.S01E02.Tazer.720p.WEB-DL.x264.400MB-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/1080p/265/Supacell.S01E02.Tazer.1080p.WEB-DL.x265.10Bit.6CH-crept.studio.mkv",
+                "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/2160p/Supacell.S01E02.2024.2160p.NF.WEB-DL.DV.HDR.Hindi_DDP5.1_+_English_DDPA5.1.H.265-crept-studio.mkv"
+              },
+              "images": {
+                "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+                "poster": "YOUR_POSTER_URL_HERE",
+                "banner": "YOUR_BANNER_URL_HERE"
+              }
+            },
+            {
+              "title": "Sabrina",
+              "season": 1,
+              "episodeNumber": 3,
+              "description": "Sabrina and Sharleen, after a long day at work, plan a night out. Meanwhile, the Tower Boys engage in a fight that leaves Tazer seeking revenge.",
+              "runningTime": "51 min",
+              "videoQuality": {
+                "480p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/480p/Supacell.S01E03.Sabrina.480p.x264.Hindi.English.Msubs-crept.studio.mkv",
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/720p/Supacell.S01E03.Sabrina.720p.WEB-DL.x264.450MB-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/1080p/265/Supacell.S01E03.Sabrina.1080p.WEB-DL.x265.10Bit.6CH-crept.studio.mkv",
+                "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/2160p/Supacell.S01E03.2024.2160p.NF.WEB-DL.DV.HDR.Hindi_DDP5.1_+_English_DDPA5.1.H.265-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+                "poster": "YOUR_POSTER_URL_HERE",
+                "banner": "YOUR_BANNER_URL_HERE"
+              }
+            },
+            {
+              "title": "Andre",
+              "season": 1,
+              "episodeNumber": 4,
+              "description": "After the bailiffs pay him a visit, Andre makes a risky decision that could have dangerous consequences.",
+              "runningTime": "53 min",
+              "videoQuality": {
+                "480p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/480p/Supacell.S01E04.Andre.480p.x264.Hindi.English.Msubs-crept.studio.mkv",
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/720p/Supacell.S01E04.Andre.720p.WEB-DL.x264.450MB-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/1080p/265/Supacell.S01E04.Andre.1080p.WEB-DL.x265.10Bit.6CH-crept.studio.mkv",
+                "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/2160p/Supacell.S01E04.2024.2160p.NF.WEB-DL.DV.HDR.Hindi_DDP5.1_+_English_DDPA5.1.H.265-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+                "poster": "YOUR_POSTER_URL_HERE",
+                "banner": "YOUR_BANNER_URL_HERE"
+              }
+            },
+            {
+              "title": "Rodney",
+              "season": 1,
+              "episodeNumber": 5,
+              "description": "When Spud ends up in the hospital, Rodney experiences a change of heart and begins to reassess his priorities.",
+              "runningTime": "46 min",
+              "videoQuality": {
+                "480p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/480p/Supacell.S01E05.Rodney.480p.x264.Hindi.English.Msubs-crept.studio.mkv",
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/720p/Supacell.S01E05.Rodney.720p.WEB-DL.x264.400MB-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/1080p/265/Supacell.S01E05.Rodney.1080p.WEB-DL.x265.10Bit.6CH-crept.studio.mkv",
+                "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/2160p/Supacell.S01E05.2024.2160p.NF.WEB-DL.DV.HDR.Hindi_DDP5.1_+_English_DDPA5.1.H.265-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+                "poster": "YOUR_POSTER_URL_HERE",
+                "banner": "YOUR_BANNER_URL_HERE"
+              }
+            },
+            {
+              "title": "Supacell",
+              "season": 1,
+              "episodeNumber": 6,
+              "description": "In the season finale, the stakes are raised as Tazer and Sabrina embark on a desperate search for Krazy. The fate of the group and their powers hangs in the balance.",
+              "runningTime": "59 min",
+              "videoQuality": {
+                "480p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/480p/Supacell.S01E06.Supacell.480p.x264.Hindi.English.Msubs-crept.studio.mkv",
+                "720p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/720p/Supacell.S01E06.Supacell.720p.WEB-DL.x264.500MB-crept.studio.mkv",
+                "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/1080p/265/Supacell.S01E06.Supacell.1080p.WEB-DL.x265.10Bit.6CH-crept.studio.mkv",
+                "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/supacell/sn-1/2160p/Supacell.S01E06.2024.2160p.NF.WEB-DL.DV.HDR.Hindi_DDP5.1_+_English_DDPA5.1.H.265-crept.studio.mkv"
+              },
+              "images": {
+                "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+                "poster": "YOUR_POSTER_URL_HERE",
+                "banner": "YOUR_BANNER_URL_HERE"
+              }
+            }
+          ]
+        }
+      ]
+    }

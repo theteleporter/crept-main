@@ -1,0 +1,105 @@
+{
+    "title": "3 Days in Malay",
+    "genres": [
+        "Action",
+        "History",
+        "War",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "A small group of American Marines must defend an airfield for three days against a relentless Japanese assault during the Battle of Malaya in World War II.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 100, 
+    "rating": "18+",
+    "url": "/browse/film/3-days-in-malay",
+    "bannerImage": "/assets/images/titles/3-days-in-malay/3daysinmalay1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Louis Mandylor",
+            "character": "John Caputo"
+        },
+        {
+            "name": "Donald Cerrone",
+            "character": "Sergeant Kowalski"
+        },
+        {
+            "name": "Quinton 'Rampage' Jackson",
+            "character": "Private Jones"
+        },
+        {
+            "name": "Peter Dobson",
+            "character": "Lieutenant Miller"
+        },
+        {
+            "name": "Randy Wayne",
+            "character": "Corporal Davis"
+        },
+        {
+            "name": "Kelly Lynn Reiter",
+            "character": "Nurse Mary"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "3 Days in Malay",
+            "url": "/assets/images/titles/3-days-in-malay/3daysinmalay1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/3-days-in-malay/3daysinmalay2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/UaEZXYt7Ihk?si=LCf1dzgfE5E_Jj1E" 
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/the-pacific/pacific1.jpg",
+            "urlTo": "/browse/title/the-pacific",
+            "imageTitle": "The Pacific"
+        },
+        {
+            "imageUrl": "/assets/images/titles/band-of-brothers/bandofbrothers1.jpg",
+            "urlTo": "/browse/title/band-of-brothers",
+            "imageTitle": "Band of Brothers"
+        },
+        {
+            "imageUrl": "/assets/images/titles/hacksaw-ridge/hacksaw1.jpg",
+            "urlTo": "/browse/film/hacksaw-ridge",
+            "imageTitle": "Hacksaw Ridge"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "3 Days in Malay",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "A small group of American Marines must defend an airfield for three days against a relentless Japanese assault during the Battle of Malaya in World War II.",
+                    "runningTime": "100 Min", 
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/3.Days.in.Malay.2023/3.Days.In.Malay.2023.720p.BluRay.YIFY.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/3.Days.in.Malay.2023/3.Days.in.Malay.2023.1080p.BluRay.YIFY.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/3-days-in-malay/3daysinmalay1.jpg",
+                        "poster": "/assets/images/titles/3-days-in-malay/3daysinmalay2.jpg",
+                        "banner": "/assets/images/titles/3-days-in-malay/3daysinmalay3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

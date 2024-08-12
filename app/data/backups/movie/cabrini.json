@@ -1,0 +1,93 @@
+{
+    "title": "Cabrini",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "Arriving in New York City in 1889, Italian immigrant Francesca Cabrini is greeted by disease, crime, and impoverished children. She soon sets off on a daring mission to convince the mayor to secure housing and healthcare for society's most vulnerable. With broken English and poor health, Cabrini uses her entrepreneurial mind to build an empire of hope unlike anything the world has ever seen.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 145,
+    "rating": "13+",
+    "url": "/browse/film/cabrini",
+    "bannerImage": "/assets/images/titles/cabrini/cabrini1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Cristiana Dell'Anna", "character": "Francesca Cabrini" },
+      { "name": "John Lithgow", "character": "Archbishop Corrigan" },
+      { "name": "David Morse", "character": "Mayor Hugh Grant" },
+      { "name": "Peter Coyote", "character": "Cardinal Gibbons" },
+      { "name": "Monica Barbaro", "character": "Mother Xavier" },
+      { "name": "Antonio Cupo", "character": "Father Aloysius" },
+      { "name": "Giacomo Gianniotti", "character": "Don Luigi" },
+      { "name": "Lidia Vitale", "character": "Mother General" },
+      { "name": "Katie McGovern", "character": "Sister Assunta" },
+      { "name": "Alessandra Mastronardi", "character": "Sister Chiara" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Cabrini Image",
+        "url": "../../assets/images/titles/cabrini/cabrini1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/cabrini/cabrini2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=ZaMlUazXvyY"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/the-mission/themission1.jpg",
+        "urlTo": "/browse/film/the-mission",
+        "imageTitle": "The Mission"
+      },
+      {
+        "imageUrl": "/assets/images/titles/a-hidden-life/ahiddenlife1.jpg",
+        "urlTo": "/browse/film/a-hidden-life",
+        "imageTitle": "A Hidden Life"
+      },
+      {
+        "imageUrl": "/assets/images/titles/of-gods-and-men/ofgodsandmen1.jpg",
+        "urlTo": "/browse/film/of-gods-and-men",
+        "imageTitle": "Of Gods and Men"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Cabrini",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "Arriving in New York City in 1889, Italian immigrant Francesca Cabrini is greeted by disease, crime, and impoverished children. She soon sets off on a daring mission to convince the mayor to secure housing and healthcare for society's most vulnerable. With broken English and poor health, Cabrini uses her entrepreneurial mind to build an empire of hope unlike anything the world has ever seen.",
+            "runningTime": "145 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/cabrini/Cabrini.2024.480p.WEB-DL.x264-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/cabrini/Cabrini.2024.720p.WEB-DL.x264-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/cabrini/Cabrini.2024.1080p.WEB-DL.x264.6CH-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/cabrini/cabrini1.jpg",
+              "poster": "../../assets/images/titles/cabrini/cabrini2.jpg",
+              "banner": "../../assets/images/titles/cabrini/cabrini3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
+  

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "See",
+    "url": "/browse/title/see",
+    "description": "In a dystopian future, humans have lost the ability to see, and society has adapted to a new way of life. When twins are born with sight, everything changes.",
+    "release_year": "2019",
+    "seasons": 3,
+    "bannerImage": "/assets/images/titles/see/see1.jpg",
+    "rating": "16+"
+  },
+  {
+    "title": "You",
+    "url": "/browse/title/you",
+    "description": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+    "release_year": "2018",
+    "seasons": 4,
+    "bannerImage": "/assets/images/titles/you/hSNwv0Zi15S6bYgCSt4vljuvm6G.jpg",
+    "rating": "18+"
+  }
+]

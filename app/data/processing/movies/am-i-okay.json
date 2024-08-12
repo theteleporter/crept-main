@@ -1,0 +1,120 @@
+{
+    "title": "Am I Okay?",
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "Lucy and Jane have been best friends their entire lives, sharing everything together. But when Jane announces she's moving to London, Lucy's comfortable life is upended, and she is forced to confront the realities of adulthood.",
+    "release_year": "2022",
+    "seasons": 1,
+    "time": 104,
+    "rating": "18+",
+    "url": "/browse/film/am-i-okay",
+    "bannerImage": "/assets/images/titles/am-i-okay/amiokay1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Dakota Johnson",
+            "character": "Lucy"
+        },
+        {
+            "name": "Sonoya Mizuno",
+            "character": "Jane"
+        },
+        {
+            "name": "Jermaine Fowler",
+            "character": "Danny"
+        },
+        {
+            "name": "Kiersey Clemons",
+            "character": "Brittany"
+        },
+        {
+            "name": "Molly Gordon",
+            "character": "Kat"
+        },
+        {
+            "name": "Sean Hayes",
+            "character": "Liam"
+        },
+        {
+            "name": "Alia Shawkat",
+            "character": "Jenny"
+        },
+        {
+            "name": "Casey Wilson",
+            "character": "Doctor"
+        },
+        {
+            "name": "DeRon Horton",
+            "character": "Tom"
+        },
+        {
+            "name": "Nadia Dajani",
+            "character": "Sharon"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Am I Okay?",
+            "url": "/assets/images/titles/am-i-okay/amiokay1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/am-i-okay/amiokay2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/b80FbdimIHs?si=06xATZc9G1RdiwTF"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/the-worst-person-in-the-world/worst-person-poster.jpg",
+            "urlTo": "/browse/film/the-worst-person-in-the-world",
+            "imageTitle": "The Worst Person in the World"
+        },
+        {
+            "imageUrl": "/assets/images/titles/plus-one/plus-one-poster.jpg",
+            "urlTo": "/browse/film/plus-one",
+            "imageTitle": "Plus One"
+        },
+        {
+            "imageUrl": "/assets/images/titles/booksmart/booksmart-poster.jpg",
+            "urlTo": "/browse/film/booksmart",
+            "imageTitle": "Booksmart"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "Am I Okay?",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "Lucy and Jane have been best friends their entire lives, sharing everything together. But when Jane announces she's moving to London, Lucy's comfortable life is upended, and she is forced to confront the realities of adulthood.",
+                    "runningTime": "104 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/English/Movies/Am.I.OK.2022/HardSub/Am.I.Ok.2022.720p.WEB-DL.HardSub.EBTV.mp4",
+                        "1080p": "https://dl3.tabar.sbs/English/Movies/Am.I.OK.2022/HardSub/Am.I.Ok.2022.1080p.WEB-DL.HardSub.EBTV.mp4"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/am-i-okay/amiokay1.jpg",
+                        "poster": "/assets/images/titles/am-i-okay/amiokay2.jpg",
+                        "banner": "/assets/images/titles/am-i-okay/amiokay3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}

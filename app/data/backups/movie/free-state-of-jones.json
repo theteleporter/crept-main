@@ -1,0 +1,93 @@
+{
+    "title": "Free State of Jones",
+    "genres": [
+      "Drama",
+      "History",
+      "Biography",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "During the Civil War, Newt Knight, a defiant Southern farmer, leads a rebellion against the Confederacy. Banding together with other small farmers and local slaves, Knight launches an uprising that leads Jones County, Mississippi to secede from the Confederacy, creating a Free State of Jones.",
+    "release_year": "2016",
+    "seasons": 1,
+    "time": 139,
+    "rating": "15+", 
+    "url": "/browse/film/free-state-of-jones",
+    "bannerImage": "/assets/images/titles/free-state-of-jones/freestateofjones1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Matthew McConaughey", "character": "Newton Knight" },
+      { "name": "Gugu Mbatha-Raw", "character": "Rachel Knight" },
+      { "name": "Mahershala Ali", "character": "Moses Washington" },
+      { "name": "Keri Russell", "character": "Serena Knight" },
+      { "name": "Jacob Lofland", "character": "Daniel" },
+      { "name": "Sean Bridgers", "character": "Jasper Collins" },
+      { "name": "Brian Lee Franklin", "character": "Davis Knight" },
+      { "name": "Kerry Cahill", "character": "Mary" },
+      { "name": "Christopher Berry", "character": "Colonel Elias Hood" },
+      { "name": "Bill Tangradi", "character": "Lieutenant Barbour" },
+      { "name": "Thomas Francis Murphy", "character": "Colonel Robert Lowry" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Free State of Jones Image",
+        "url": "../../assets/images/titles/free-state-of-jones/freestateofjones1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/free-state-of-jones/freestateofjones2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=3EMkxEKKSQI" 
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/12-years-a-slave/12yearsaslave1.jpg",
+        "urlTo": "/browse/film/12-years-a-slave",
+        "imageTitle": "12 Years a Slave"
+      },
+      {
+        "imageUrl": "/assets/images/titles/glory/glory1.jpg",
+        "urlTo": "/browse/film/glory",
+        "imageTitle": "Glory"
+      },
+      {
+        "imageUrl": "/assets/images/titles/cold-mountain/coldmountain1.jpg",
+        "urlTo": "/browse/film/cold-mountain",
+        "imageTitle": "Cold Mountain"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Free State of Jones",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "During the Civil War, Newt Knight, a defiant Southern farmer, leads a rebellion against the Confederacy. Banding together with other small farmers and local slaves, Knight launches an uprising that leads Jones County, Mississippi to secede from the Confederacy, creating a Free State of Jones.",
+            "runningTime": "139 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/free-state-of-jones/Free.State.of.Jones.2016.480p.BluRay.x264-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/free-state-of-jones/Free.State.of.Jones.2016.720p.BluRay.x264-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/free-state-of-jones/Free.State.of.Jones.2016.1080p.BluRay.x264.DD+5.1-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/free-state-of-jones/freestateofjones1.jpg",
+              "poster": "../../assets/images/titles/free-state-of-jones/freestateofjones2.jpg",
+              "banner": "../../assets/images/titles/free-state-of-jones/freestateofjones3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

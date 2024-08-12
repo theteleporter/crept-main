@@ -1,0 +1,122 @@
+{
+    "title": "Atlas",
+    "genres": [
+        "Action",
+        "Thriller",
+        "Science Fiction",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "When an intelligence analyst uncovers a sinister conspiracy that threatens to wipe out humanity, she must go on the run to try and stop the catastrophic attack.",
+    "release_year": "2024", 
+    "seasons": 1,
+    "time": 114, 
+    "rating": "16+", 
+    "url": "/browse/film/atlas",
+    "bannerImage": "/assets/images/titles/atlas/atlas1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Jennifer Lopez",
+            "character": "Atlas"
+        },
+        {
+            "name": "Simu Liu",
+            "character": "Mesa"
+        },
+        {
+            "name": "Sterling K. Brown",
+            "character": "Sarge"
+        },
+        {
+            "name": "Abraham Popoola",
+            "character": "Lucien"
+        },
+        {
+            "name": "Lana Condor",
+            "character": "Evie"
+        },
+        {
+            "name": "Justin Walker White",
+            "character": "Li Jian"
+        },
+        {
+            "name": "Johnathan Islas",
+            "character": "Kai"
+        },
+        {
+            "name": "Adia Smith-Eriksson",
+            "character": "Keira"
+        },
+        {
+            "name": "Dayo Okeniyi",
+            "character": "Displaced Man"
+        },
+        {
+            "name": "Paul A. Ziebell",
+            "character": "Robot Atlas"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Atlas Image",
+            "url": "../../assets/images/titles/atlas/atlas1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "../../assets/images/titles/atlas/atlas2.jpg",
+                    "trailerUrl": "https://www.youtube.com/watch?v=l9zb5NHV98M" 
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/the-old-guard/theoldguard1.jpg",
+            "urlTo": "/browse/film/the-old-guard",
+            "imageTitle": "The Old Guard"
+        },
+        {
+            "imageUrl": "/assets/images/titles/outside-the-wire/outsidethewire1.jpg",
+            "urlTo": "/browse/film/outside-the-wire",
+            "imageTitle": "Outside the Wire"
+        },
+        {
+            "imageUrl": "/assets/images/titles/spectral/spectral1.jpg",
+            "urlTo": "/browse/film/spectral",
+            "imageTitle": "Spectral"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "Atlas",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "When an intelligence analyst uncovers a sinister conspiracy that threatens to wipe out humanity, she must go on the run to try and stop the catastrophic attack.",
+                    "runningTime": "114 Min",
+                    "videoQuality": {
+                        "480p": "https://spacestorageunit.blob.core.windows.net/container-x/atlas/Atlas.2024.480p.NF.WEB-DL.x264-crept.studio.mkv",
+                        "720p": "https://spacestorageunit.blob.core.windows.net/container-x/atlas/Atlas.2024.720p.NF.WEB-DL.x264-crept.studio.mkv",
+                        "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/atlas/Atlas.2024.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/atlas/atlas1.jpg",
+                        "poster": "../../assets/images/titles/atlas/atlas2.jpg",
+                        "banner": "../../assets/images/titles/atlas/atlas3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

@@ -1,0 +1,101 @@
+{
+    "title": "Arthur The King",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "Based on the inspirational true story of Mikael Lindnord, an ultramarathon runner who befriends a stray dog while competing in a grueling 400-mile race through the Ecuadorian jungle.",
+    "release_year": "2022",
+    "seasons": 1,
+    "time": 99,
+    "rating": "16+",
+    "url": "/browse/film/arthur-the-king",
+    "bannerImage": "/assets/images/titles/arthur-the-king/arthurtheking1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      {
+        "name": "Mark Wahlberg",
+        "character": "Mikael Lindnord"
+      },
+      {
+        "name": "Simu Liu",
+        "character": "Liam Hynes"
+      },
+      {
+        "name": "Mel Gibson",
+        "character": "Simon Hiland"
+      },
+      {
+        "name": "Luis Gerardo Méndez",
+        "character": "Hector"
+      },
+      {
+        "name": "Antonia Zegers",
+        "character": "Sofia"
+      }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Arthur The King Image",
+        "url": "../../assets/images/titles/arthur-the-king/arthurtheking1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/arthur-the-king/arthurtheking2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=l9zb5NHV98M"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/the-way-back/thewayback1.jpg",
+        "urlTo": "/browse/film/the-way-back",
+        "imageTitle": "The Way Back"
+      },
+      {
+        "imageUrl": "/assets/images/titles/into-the-wild/intothewild1.jpg",
+        "urlTo": "/browse/film/into-the-wild",
+        "imageTitle": "Into the Wild"
+      },
+      {
+        "imageUrl": "/assets/images/titles/wild/wild1.jpg",
+        "urlTo": "/browse/film/wild",
+        "imageTitle": "Wild"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Arthur The King",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "Based on the inspirational true story of Mikael Lindnord, an ultramarathon runner who befriends a stray dog while competing in a grueling 400-mile race through the Ecuadorian jungle.",
+            "runningTime": "99 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/arthur-the-king/Arthur.the.King.2024.480p.BluRay.x264-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/arthur-the-king/Arthur.the.King.2024.720p.BluRay.x264-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/arthur-the-king/Arthur.the.King.2024.1080p.BluRay.x264.DD+7.1-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/arthur-the-king/arthurtheking1.jpg",
+              "poster": "../../assets/images/titles/arthur-the-king/arthurtheking2.jpg",
+              "banner": "../../assets/images/titles/arthur-the-king/arthurtheking3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

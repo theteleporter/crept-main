@@ -1,0 +1,92 @@
+{
+    "title": "IF",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Adventure",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "Follows a young girl who embarks on an adventure with an imaginary friend to rediscover her sense of wonder.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 115,
+    "rating": "13+", 
+    "url": "/browse/film/if",
+    "bannerImage": "/assets/images/titles/if/if1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Ryan Reynolds", "character": "IF" },
+      { "name": "Cailey Fleming", "character": "Margaret" },
+      { "name": "Steve Carell", "character": "Benny" },
+      { "name": "Phoebe Waller-Bridge", "character": "More Mo" },
+      { "name": "Bobby Moynihan", "character": "Gary" },
+      { "name": "Fiona Shaw", "character": "Mrs. Canker" },
+      { "name": "Alan Kim", "character": "Scooter" },
+      { "name": "Louis Gossett Jr.", "character": "Mr. Nathaniel" },
+      { "name": "Jim Gaffigan", "character": "Big Jim" },
+      { "name": "Abbey Murphy", "character": "Tara" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "IF Image",
+        "url": "../../assets/images/titles/if/if1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/if/if2.jpg",
+            "trailerUrl": "https://www.youtube.com/embed/mb2187ZQtBE?si=E8Frb5k6gsQeq514" 
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/the-mitchells-vs-the-machines/themitchellsvsthemachines1.jpg",
+        "urlTo": "/browse/film/the-mitchells-vs-the-machines",
+        "imageTitle": "The Mitchells vs. the Machines"
+      },
+      {
+        "imageUrl": "/assets/images/titles/turning-red/turningred1.jpg",
+        "urlTo": "/browse/film/turning-red",
+        "imageTitle": "Turning Red"
+      },
+      {
+        "imageUrl": "/assets/images/titles/luca/luca1.jpg",
+        "urlTo": "/browse/film/luca",
+        "imageTitle": "Luca"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "IF",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "Follows a young girl who embarks on an adventure with an imaginary friend to rediscover her sense of wonder.",
+            "runningTime": "115 Min",
+            "videoQuality": {
+              "720p": "https://dl3.tabar.sbs/Dubbed/Movies/IF.2024/IF.2024.720p.WEB-DL.Pahe.Dubbed.EBTV.mkv",
+              "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/IF.2024/IF.2024.1080p.WEB-DL.6CH.Pahe.Dubbed.EBTV.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/if/if1.jpg",
+              "poster": "../../assets/images/titles/if/if2.jpg",
+              "banner": "../../assets/images/titles/if/if3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
+  

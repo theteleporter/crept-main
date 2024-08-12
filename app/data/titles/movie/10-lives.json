@@ -1,0 +1,122 @@
+{
+    "title": "10 Lives",
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "A pampered cat loses his ninth life and must learn to appreciate his remaining one while seeking help from a mystical being to restore his lost lives.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 97,
+    "rating": "7+", 
+    "url": "/browse/film/10-lives",
+    "bannerImage": "/assets/images/titles/10-lives/10lives1.jpg",
+    "language": "En",
+    "country": "US", 
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Mo Gilligan",
+            "character": "Beckett"
+        },
+        {
+            "name": "Simone Ashley",
+            "character": "Rose"
+        },
+        {
+            "name": "Sophie Okonedo",
+            "character": "Jinx"
+        },
+        {
+            "name": "Bill Nighy",
+            "character": "The Narrator"
+        },
+        {
+            "name": "Dylan Llewellyn",
+            "character": "Larry"
+        },
+        {
+            "name": "David Walliams",
+            "character": "Doc"
+        },
+        {
+            "name": "Celia Imrie",
+            "character": "Grace"
+        },
+        {
+            "name": "Gemma Arterton",
+            "character": "Eliza"
+        },
+        {
+            "name": "Jeremy Swift",
+            "character": "Seamus"
+        },
+        {
+            "name": "Charli D'Amelio",
+            "character": "Catnip"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "10 Lives",
+            "url": "/assets/images/titles/10-lives/10lives1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/10-lives/10lives2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/4TCXRPjugIs?si=j6gqe6oOUM7hYupx"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/puss-in-boots-the-last-wish/pussinboots-1.jpg",
+            "urlTo": "/browse/film/puss-in-boots-the-last-wish",
+            "imageTitle": "Puss in Boots: The Last Wish"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-bad-guys/badguys1.jpg",
+            "urlTo": "/browse/film/the-bad-guys",
+            "imageTitle": "The Bad Guys"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-mitchells-vs-the-machines/mitchells-1.jpg",
+            "urlTo": "/browse/film/the-mitchells-vs-the-machines",
+            "imageTitle": "The Mitchells vs. the Machines"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "10 Lives",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "A pampered cat loses his ninth life and must learn to appreciate his remaining one while seeking help from a mystical being to restore his lost lives.",
+                    "runningTime": "97 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/10.Lives.2024/10.Lives.2024.720p.WEB-DL.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/10.Lives.2024/10.Lives.2024.1080p.WEB-DL.6CH.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/10-lives/10lives1.jpg",
+                        "poster": "/assets/images/titles/10-lives/10lives2.jpg",
+                        "banner": "/assets/images/titles/10-lives/10lives3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

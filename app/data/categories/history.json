@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Vikings: Valhalla",
+    "url": "/browse/title/vikings-valhalla",
+    "description": "Set over a thousand years ago in the early 11th century, Vikings: Valhalla chronicles the heroic adventures of some of the most famous Vikings who ever lived - Leif Eriksson, Freydis Eriksdotter, Harald Hardrada and the Norman King William the Conqueror. These men and women will blaze a path as they fight for survival and glory in the ever changing and evolving world.",
+    "release_year": "2022",
+    "seasons": 3,
+    "bannerImage": "/assets/images/titles/vikings-valhalla/vikingsvalhalla1.jpg",
+    "rating": "18+"
+  },
+  {
+    "title": "3 Days in Malay",
+    "url": "/browse/film/3-days-in-malay",
+    "description": "A small group of American Marines must defend an airfield for three days against a relentless Japanese assault during the Battle of Malaya in World War II.",
+    "release_year": "2023",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/3-days-in-malay/3daysinmalay1.jpg",
+    "rating": "18+"
+  },
+  {
+    "title": "Article 370",
+    "url": "/browse/film/article-370",
+    "description": "A fictionalized account inspired by the events leading up to the abrogation of Article 370 in Jammu and Kashmir, showcasing the struggles and sacrifices of those involved in upholding the integrity of the nation.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/article370/article370-1.jpg",
+    "rating": "16+"
+  },
+  {
+    "title": "Cabrini",
+    "url": "/browse/film/cabrini",
+    "description": "Arriving in New York City in 1889, Italian immigrant Francesca Cabrini is greeted by disease, crime, and impoverished children. She soon sets off on a daring mission to convince the mayor to secure housing and healthcare for society's most vulnerable. With broken English and poor health, Cabrini uses her entrepreneurial mind to build an empire of hope unlike anything the world has ever seen.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/cabrini/cabrini1.jpg",
+    "rating": "13+"
+  },
+  {
+    "title": "End of the Rope",
+    "url": "/browse/film/end-of-the-rope",
+    "description": "When a family mysteriously disappears from the town of Schafer, North Dakota, suspicion lands on a sociopathic farmhand. Based on the true story of the infamous Charles Bannon case of 1931.",
+    "release_year": "2023",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/end-of-the-rope/endoftherope1.jpg",
+    "rating": "13+"
+  },
+  {
+    "title": "Free State of Jones",
+    "url": "/browse/film/free-state-of-jones",
+    "description": "During the Civil War, Newt Knight, a defiant Southern farmer, leads a rebellion against the Confederacy. Banding together with other small farmers and local slaves, Knight launches an uprising that leads Jones County, Mississippi to secede from the Confederacy, creating a Free State of Jones.",
+    "release_year": "2016",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/free-state-of-jones/freestateofjones1.jpg",
+    "rating": "15+"
+  }
+]

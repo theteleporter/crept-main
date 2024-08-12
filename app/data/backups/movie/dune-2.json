@@ -1,0 +1,175 @@
+{
+    "title": "Dune: Part Two",
+    "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Action",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he must prevent a terrible future only he can foresee.",
+    "release_year": "2023",
+    "seasons": 1, 
+    "time": 156,
+    "rating": "13+", 
+    "url": "/browse/film/dune-2", 
+    "bannerImage": "/assets/images/titles/dune2/dune6.jpg",  
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1, 
+    "cast": [
+        {
+            "name": "Timothée Chalamet",
+            "character": "Paul Atreides"
+        },
+        {
+            "name": "Zendaya",
+            "character": "Chani"
+        },
+        {
+            "name": "Rebecca Ferguson",
+            "character": "Lady Jessica"
+        },
+        {
+            "name": "Josh Brolin",
+            "character": "Gurney Halleck"
+        },
+        {
+            "name": "Austin Butler",
+            "character": "Feyd-Rautha"
+        },
+        {
+            "name": "Florence Pugh",
+            "character": "Princess Irulan"
+        },
+        {
+            "name": "Dave Bautista",
+            "character": "Glossu Rabban"
+        },
+        {
+            "name": "Christopher Walken",
+            "character": "Emperor Shaddam IV"
+        },
+        {
+            "name": "Stephen McKinley Henderson",
+            "character": "Thufir Hawat"
+        },
+        {
+            "name": "Léa Seydoux",
+            "character": "Lady Margot"
+        },
+        {
+            "name": "Javier Bardem",
+            "character": "Stilgar"
+        },
+        {
+            "name": "Stellan Skarsgård",
+            "character": "Baron Vladimir Harkonnen"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Dune: Part Two Image",
+            "url": "../../assets/images/titles/dune2/dune8.jpg" 
+        }
+    ],
+    "trailers": [
+        {
+            "season": [ 
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "../../assets/images/titles/dune2/dune2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/TRAILER_YOUTUBE_ID_HERE"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/dune/poster.jpg",
+            "urlTo": "/browse/film/dune",
+            "imageTitle": "Dune (2021)"
+        },
+        {
+            "imageUrl": "/assets/images/titles/blade-runner-2049/poster.jpg",
+            "urlTo": "/browse/film/blade-runner-2049",
+            "imageTitle": "Blade Runner 2049"
+        },
+        {
+            "imageUrl": "/assets/images/titles/arrival/poster.jpg",
+            "urlTo": "/browse/film/arrival",
+            "imageTitle": "Arrival"
+        },
+        {
+            "imageUrl": "/assets/images/titles/interstellar/interstellar1.jpg",
+            "urlTo": "/browse/film/interstellar",
+            "imageTitle": "Interstellar"
+        },
+        {
+            "imageUrl": "/assets/images/titles/gravity/poster.jpg",
+            "urlTo": "/browse/film/gravity",
+            "imageTitle": "Gravity"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-martian/poster.jpg",
+            "urlTo": "/browse/film/the-martian",
+            "imageTitle": "The Martian"
+        },
+        {
+            "imageUrl": "/assets/images/titles/mad-max-fury-road/poster.jpg",
+            "urlTo": "/browse/film/mad-max-fury-road",
+            "imageTitle": "Mad Max: Fury Road"
+        },
+        {
+            "imageUrl": "/assets/images/titles/ex-machina/poster.jpg",
+            "urlTo": "/browse/film/ex-machina",
+            "imageTitle": "Ex Machina"
+        },
+        {
+            "imageUrl": "/assets/images/titles/star-wars-episode-vii/poster.jpg",
+            "urlTo": "/browse/film/star-wars-episode-vii",
+            "imageTitle": "Star Wars: The Force Awakens"
+        },
+        {
+            "imageUrl": "/assets/images/titles/john-wick/poster.jpg",
+            "urlTo": "/browse/film/john-wick",
+            "imageTitle": "John Wick"
+        },
+        {
+            "imageUrl": "/assets/images/titles/alita-battle-angel/poster.jpg",
+            "urlTo": "/browse/film/alita-battle-angel",
+            "imageTitle": "Alita: Battle Angel"
+        },
+        {
+            "imageUrl": "/assets/images/titles/ready-player-one/poster.jpg",
+            "urlTo": "/browse/film/ready-player-one",
+            "imageTitle": "Ready Player One"
+        }
+    ],    
+    "seasonsEpisode": [
+        {
+            "title": "Part 2", 
+            "episodes": [
+                {
+                    "title": "Dune: Part Two", 
+                    "season": 1, 
+                    "episodeNumber": 1, 
+                    "description":  "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he must prevent a terrible future only he can foresee.",
+                    "runningTime": "156 Min",
+                    "videoQuality": {
+                        "480p": "https://spacestorageunit.blob.core.windows.net/container-x/dune-part-2/Dune.Part.Two.2024.480p.BluRay.x264-crept.studio.mkv",
+                        "720p": "https://spacestorageunit.blob.core.windows.net/container-x/dune-part-2/Dune.Part.Two.2024.720p.BluRay.x264-crept.studio.mkv",
+                        "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/dune-part-2/Dune.Part.Two.2024.1080p.BluRay.x264.DD+7.1-crept.studio.mkv",
+                        "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/dune-part-2/Dune.Part.Two.2024.2160p.UHD.BluRay.x265.HDR.DV.DD+5.1.Atmos-crept.studio.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/dune-part-two/thumbnail.jpg",
+                        "poster": "../../assets/images/titles/dune-part-two/poster.jpg",
+                        "banner": "../../assets/images/titles/dune2/dune3.jpg" 
+                    }
+                }
+            ]
+        }
+    ]
+}

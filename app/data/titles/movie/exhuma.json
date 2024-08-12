@@ -1,0 +1,85 @@
+{
+    "title": "Exhuma (파묘)",
+    "genres": [
+      "Mystery",
+      "Occult",
+      "Thriller",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "The film includes mystery and occult elements, and follows the process of excavating an ominous grave, which unleashes dreadful consequences buried underneath.",
+    "release_year": "2024", 
+    "seasons": 1,
+    "time": 114,  
+    "rating": "15+", 
+    "url": "/browse/film/exhuma",
+    "bannerImage": "/assets/images/titles/exhuma/exhuma1.jpg",
+    "language": "Ko", 
+    "country": "KR", 
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Choi Min-sik", "character": "Priest Park" },
+      { "name": "Kim Go-eun", "character": "Se-hee" },
+      { "name": "Yoo Hae-jin", "character": "Hae-sung" },
+      { "name": "Lee Do-hyun", "character": "Jung-Yoon" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Exhuma Image",
+        "url": "../../assets/images/titles/exhuma/exhuma1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/exhuma/exhuma2.jpg",
+            "trailerUrl": "https://www.youtube.com/embed/niuMTbiLhcQ?si=mh4Twyi6VDVq2DLm" 
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/the-witch-part-1-the-subversion/thewitchpart11.jpg",
+        "urlTo": "/browse/film/the-witch-part-1-the-subversion",
+        "imageTitle": "The Witch: Part 1. The Subversion"
+      },
+      {
+        "imageUrl": "/assets/images/titles/the-medium/themedium1.jpg",
+        "urlTo": "/browse/film/the-medium",
+        "imageTitle": "The Medium"
+      },
+      {
+        "imageUrl": "/assets/images/titles/the-wailing/thewailing1.jpg",
+        "urlTo": "/browse/film/the-wailing",
+        "imageTitle": "The Wailing"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Exhuma",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "The process of excavating an ominous grave unleashes long hidden secrets and dreadful consequences buried underneath.",
+            "runningTime": "114 Min", 
+            "videoQuality": {
+              "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Exhuma.2024/Exhuma.2024.720p.WEB-DL.Pahe.Dubbed.EBTV.mkv",
+              "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Exhuma.2024/Exhuma.2024.1080p.WEB-DL.6CH.Pahe.Dubbed.EBTV.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/exhuma/exhuma1.jpg",
+              "poster": "../../assets/images/titles/exhuma/exhuma2.jpg",
+              "banner": "../../assets/images/titles/exhuma/exhuma3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

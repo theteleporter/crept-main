@@ -1,0 +1,215 @@
+{
+    "background_color": "#000000",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "version": "17.1.1",
+    "id": "/",
+    "name": "Crept Studio",
+    "short_name": "Crept",
+    "description": "Download the Crept Studio app today, and enjoy unlimited entertainment, your way.",
+    "icons": [
+        {
+            "src": "/site-icons/favicon-16x16.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/site-icons/favicon-32x32.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "/site-icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/site-icons/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/site-icons/android-chrome-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/site-icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+            {
+                "src": "/site-icons/android-chrome-192x192.png",
+                "sizes": "192x192",
+                "type": "image/png"
+            },
+            {
+                "src": "/site-icons/android-chrome-512x512.png",
+                "sizes": "512x512",
+                "type": "image/png"
+            },
+            {
+                "src": "/site-icons/android-chrome-192x192.png",
+                "sizes": "192x192",
+                "type": "image/png",
+                "purpose": "maskable"
+              },
+              {
+                "src": "/site-icons/android-chrome-512x512.png",
+                "sizes": "512x512",
+                "type": "image/png",
+                "purpose": "maskable"
+              },
+              {
+                  "src": "/site-icons/apple-touch-icon.png",
+                  "type": "image/png",
+                  "sizes": "any",
+                  "purpose": "any"
+              },
+              {
+                "src": "/site-icons/android-chrome-36x36.png",
+                "sizes": "36x36",
+                "type": "image/png"
+            },
+            {
+                "src": "/site-icons/android-chrome-48x48.png",
+                "sizes": "48x48",
+                "type": "image/png"
+            },
+            {
+                "src": "/site-icons/android-chrome-72x72.png",
+                "sizes": "72x72",
+                "type": "image/png"
+            },
+            {
+                "src": "/site-icons/android-chrome-96x96.png",
+                "sizes": "96x96",
+                "type": "image/png"
+            },
+            {
+                "src": "/site-icons/android-chrome-144x144.png",
+                "sizes": "144x144",
+                "type": "image/png"
+            }
+        ],
+        "theme_color": "#000000",
+    "enable_offline": true,
+    "shortcuts": [
+        {
+          "name": "Home",
+          "short_name": "Home",
+          "description": "The home of unlimited entertainment. Discover thrilling Tv Shows and Movies on any device anywhere, anytime.",
+          "url": "/",
+          "icons": [
+            {
+              "src": "/assets/icons/home.png",
+              "sizes": "170x170",
+              "purpose": "any"
+            },
+            {
+              "src": "/assets/icons/home.svg",
+              "sizes": "24x24",
+              "purpose": "any"
+            }
+          ]
+        },
+        {
+            "name": "Browse Tv",
+            "short_name": "Browse Tv",
+            "description": "Browse and discover thrilling Tv Shows and Movies anywhere.",
+            "url": "/browse",
+            "icons": [
+              {
+                "src": "/assets/icons/device-imac.png",
+                "sizes": "170x170",
+                "purpose": "any"
+              },
+              {
+                "src": "/assets/icons/device-imac.svg",
+                "sizes": "24x24",
+                "purpose": "any"
+              }
+            ]
+          }
+      ],
+      "screenshots": [
+        {
+         "src": "/assets/images/site-images/lg.png",
+          "sizes": "1565x1025",
+          "type": "image/png",
+          "label": "Crept, Inc",
+          "form_factor": "wide",
+          "description": "Unlimited entertainment, your way. Watch, save and enjoy tv shows and movies anywhere everywhere."
+        },
+        {
+            "src": "/assets/images/site-images/lg-1.png",
+             "sizes": "1565x1025",
+             "type": "image/png",
+             "label": "Crept, Inc",
+             "form_factor": "wide",
+             "description": "Unlimited entertainment, your way. Watch, save and enjoy tv shows and movies anywhere everywhere."
+           },
+           {
+            "src": "/assets/images/site-images/lg-2.png",
+             "sizes": "1565x1025",
+             "type": "image/png",
+             "label": "Crept, Inc",
+             "form_factor": "wide",
+             "description": "Unlimited entertainment, your way. Watch, save and enjoy tv shows and movies anywhere everywhere."
+           },
+           {
+            "src": "/assets/images/site-images/lg-3.png",
+             "sizes": "1565x1025",
+             "type": "image/png",
+             "label": "Crept, Inc",
+             "form_factor": "wide",
+             "description": "Unlimited entertainment, your way. Watch, save and enjoy tv shows and movies anywhere everywhere."
+           },
+        {
+            "src": "/assets/images/site-images/sm.png",
+             "sizes": "500x1030",
+             "type": "image/png",
+             "label": "Crept, Inc",
+             "form_factor": "narrow",
+             "description": "Unlimited entertainment, your way. Watch, save and enjoy tv shows and movies anywhere everywhere."
+           },
+              {
+                "src": "/assets/images/site-images/sm-1.png",
+                 "sizes": "500x1030",
+                 "type": "image/png",
+                 "label": "Crept, Inc",
+                 "form_factor": "narrow",
+                 "description": "Unlimited entertainment, your way. Watch, save and enjoy tv shows and movies anywhere everywhere."
+              },
+            {
+                "src": "/assets/images/site-images/sm-2.png",
+                 "sizes": "500x1030",
+                 "type": "image/png",
+                 "label": "Crept, Inc",
+                 "form_factor": "narrow",
+                 "description": "Unlimited entertainment, your way. Watch, save and enjoy tv shows and movies anywhere everywhere."
+              },
+              {
+                "src": "/assets/images/site-images/sm-3.png",
+                 "sizes": "500x1030",
+                 "type": "image/png",
+                 "label": "Crept, Inc",
+                 "form_factor": "narrow",
+                 "description": "Unlimited entertainment, your way. Watch, save and enjoy tv shows and movies anywhere everywhere."
+               }
+
+    ],
+  "dir": "auto",
+  "lang": "en",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone"
+  ],
+  "categories": [
+    "entertainment"
+  ],
+ "edge_side_panel": {
+    "preferred_width": 376
+  }
+}

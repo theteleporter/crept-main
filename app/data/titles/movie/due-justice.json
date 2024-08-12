@@ -1,0 +1,104 @@
+{
+    "title": "Due Justice",
+    "genres": [
+        "Action",
+        "Thriller",
+        "Crime",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "After the murder of his wife and kidnapping of his daughter, an attorney with a rigorous military background seeks revenge on the gang responsible.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 97,
+    "rating": "18+",
+    "url": "/browse/film/due-justice",
+    "bannerImage": "/assets/images/titles/due-justice/duejustice1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Kellan Lutz",
+            "character": "Hank Bremmer"
+        },
+        {
+            "name": "AnnaLynne McCord",
+            "character": "Sasha Bremmer"
+        },
+        {
+            "name": "Johnny Messner",
+            "character": "Virgil"
+        },
+        {
+            "name": "Spencer Garrett",
+            "character": "Mayor Grady"
+        },
+        {
+            "name": "Swen Temmel",
+            "character": "Skylar Bremmer"
+        },
+        {
+            "name": "Natalie Burn",
+            "character": "Irina"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Due Justice",
+            "url": "/assets/images/titles/due-justice/duejustice1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/due-justice/duejustice2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/vOpcwqxNVXQ?si=xnnB8Sm-P0AYDHii" 
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/law-abiding-citizen/lawabidingcitizen1.jpg",
+            "urlTo": "/browse/film/law-abiding-citizen",
+            "imageTitle": "Law Abiding Citizen"
+        },
+        {
+            "imageUrl": "/assets/images/titles/john-wick/johnwick1.jpg",
+            "urlTo": "/browse/film/john-wick",
+            "imageTitle": "John Wick"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-punisher/thepunisher1.jpg",
+            "urlTo": "/browse/film/the-punisher",
+            "imageTitle": "The Punisher"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Due Justice",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "After the murder of his wife and kidnapping of his daughter, an attorney with a rigorous military background seeks revenge on the gang responsible.",
+                    "runningTime": "97 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Due.Justice.2023/Due.Justice.2023.720p.BluRay.x264.AAC.YTS.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Due.Justice.2023/Due.Justice.2023.1080p.BluRay.x264.AAC5.1.YTS.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/due-justice/duejustice1.jpg",
+                        "poster": "/assets/images/titles/due-justice/duejustice2.jpg",
+                        "banner": "/assets/images/titles/due-justice/duejustice3.jpg" 
+                    }
+                }
+            ]
+        }
+    ]
+}

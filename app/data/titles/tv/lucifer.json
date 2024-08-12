@@ -1,0 +1,601 @@
+{
+  "title": "Lucifer",
+  "genres": ["Drama", "Fantasy", "Crime", "Tv Show", "Films", "All"],
+  "description": "Lucifer Morningstar, the Devil, abandons Hell and comes to Los Angeles, where he runs a nightclub and becomes a consultant to the LAPD.",
+  "release_year": "2016",
+  "seasons": 6,
+  "time": 42,
+  "rating": "16+",
+  "url": "/browse/title/lucifer",
+  "bannerImage": "/assets/images/titles/lucifer/lucifer11.jpg",
+  "language": "En",
+  "country": "US",
+  "number_of_episodes": "93",
+  "cast": [
+    {
+      "name": "Tom Ellis",
+      "character": "Lucifer Morningstar"
+    },
+    {
+      "name": "Lauren German",
+      "character": "Chloe Decker"
+    },
+    {
+      "name": "Lesley-Ann Brandt",
+      "character": "Mazikeen"
+    },
+    {
+      "name": "Rachael Harris",
+      "character": "Dr. Linda Martin"
+    },
+    {
+      "name": "Kevin Alejandro",
+      "character": "Dan Espinoza"
+    },
+    {
+      "name": "Aimee Garcia",
+      "character": "Ella Lopez"
+    },
+    {
+      "name": "Scarlett Estevez",
+      "character": "Trixie Espinoza"
+    },
+    {
+      "name": "D.B. Woodside",
+      "character": "Amenadiel"
+    },
+    {
+      "name": "Kevin Rankin",
+      "character": "Malcolm Graham"
+    },
+    {
+      "name": "Tricia Helfer",
+      "character": "Charlotte Richards"
+    },
+    {
+      "name": "Inbar Lavi",
+      "character": "Eve"
+    },
+    {
+      "name": "Graham McTavish",
+      "character": "Dromos"
+    }
+  ],
+  "imagesUrl": [
+    {
+      "title": "Lucifer Image",
+      "url": "../../assets/images/titles/lucifer/lucifer1.jpg"
+    },
+    {
+      "title": "Lucifer Image",
+      "url": "../../assets/images/titles/lucifer/lucifer2.jpg"
+    }
+  ],
+  "more-like": [
+    {
+      "imageUrl": "/assets/images/titles/maniac/maniac1.jpg",
+      "urlTo": "/browse/title/maniac",
+      "imageTitle": "Maniac"
+    },
+    {
+      "imageUrl": "/assets/images/titles/you/vbi27aCqd2NuHJoBiDqKYXOS2m5.jpg",
+      "urlTo": "/browse/title/you",
+      "imageTitle": "You"
+    },
+    {
+      "imageUrl": "/assets/images/titles/13reasonswhy/13reasonswhy1.jpg",
+      "urlTo": "/browse/title/13-reasons-why",
+      "imageTitle": "13 Reasons Why"
+    },
+    {
+      "imageUrl": "/assets/images/titles/charmed/charmed3.jpg",
+      "urlTo": "/browse/title/charmed",
+      "imageTitle": "Charmed"
+    },
+    {
+      "imageUrl": "/assets/images/titles/therecruit/therecruit1.jpg",
+      "urlTo": "/browse/title/the-recruit",
+      "imageTitle": "The Recruit"
+    },
+    {
+      "imageUrl": "/assets/images/titles/killingeve/killingeve1.jpg",
+      "urlTo": "/browse/title/killing-eve",
+      "imageTitle": "Killing Eve"
+    },
+    {
+      "imageUrl": "/assets/images/titles/dahmer/dahmer1.jpg",
+      "urlTo": "/browse/title/dahmer",
+      "imageTitle": "Dahmer"
+    },
+    {
+      "imageUrl": "/assets/images/titles/tellmelies/tellmelies1.jpg",
+      "urlTo": "/browse/title/tell-me-lies",
+      "imageTitle": "Tell Me Lies"
+    },
+    {
+      "imageUrl": "/assets/images/titles/thewitcher/thewitcher1.jpg",
+      "urlTo": "/browse/title/the-witcher",
+      "imageTitle": "The Witcher"
+    },
+    {
+      "imageUrl": "/assets/images/titles/prettylittleliarsoriginalsin/pLL1.jpg",
+      "urlTo": "/browse/title/pretty-little-liars-original-sin",
+      "imageTitle": "Pretty Little Liars: Original Sin"
+    },
+    {
+      "imageUrl": "/assets/images/titles/lupin/lupin1.jpg",
+      "urlTo": "/browse/title/lupin",
+      "imageTitle": "Lupin"
+    },
+    {
+      "imageUrl": "/assets/images/titles/moneyheist/moneyheist1.jpg",
+      "urlTo": "/browse/title/la-casa-de-papel",
+      "imageTitle": "La Casa De Papel"
+    }
+  ],
+  "trailers": [
+    {
+      "season": [
+        {
+          "title": "Season 1 Trailer",
+          "imageUrl": "../../assets/images/titles/lucifer/lucifer18.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/PnAYPVfQAC0?si=PdyWgZnO8s0c_UB1"
+        },
+        {
+          "title": "Season 2 Trailer",
+          "imageUrl": "../../assets/images/titles/lucifer/lucifer13.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/MManwVTCJoU?si=9jsX9MtgS5Epd2gw"
+        },
+        {
+          "title": "Season 3 Trailer",
+          "imageUrl": "../../assets/images/titles/lucifer/lucifer14.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/3pOGW1iAKu4?si=-svMspqg4aWCPw3R"
+        },
+        {
+          "title": "Season 4 Trailer",
+          "imageUrl": "../../assets/images/titles/lucifer/lucifer8.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/8kwL4PaeFYs?si=XWwhmbEMkrD9bBEf"
+        },
+        {
+          "title": "Season 5 Trailer",
+          "imageUrl": "../../assets/images/titles/lucifer/lucifer5.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/NlyYKn-VKp0?si=VK2QklSgM0oFXq0i"
+        },
+        {
+          "title": "Season 5 Part 2 Trailer",
+          "imageUrl": "../../assets/images/titles/lucifer/lucifer12.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/aAHV0oR7jpY?si=nNERo59MqVmPVJnR"
+        },
+        {
+          "title": "Season 6 Trailer",
+          "imageUrl": "../../assets/images/titles/lucifer/lucifer15.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/xhYvUfhpsYE?si=IVWJcAuNY0kbsRrI"
+        }
+      ]
+    }
+  ],
+  "seasonsEpisode": [
+    {
+      "title": "Season 1",
+      "episodes": [
+        {
+          "title": "Pilot",
+          "season": 1,
+          "episodeNumber": 1,
+          "description": "Lucifer Morningstar helps the LAPD solve a murder while seeking out personal pleasures.",
+          "runningTime": "42 minutes",
+          "videoQuality": {
+            "480p": "https://example.com/episode-sd.mp4",
+            "720p": "https://example.com/episode-hd.mp4",
+            "1080p": "https://example.com/episode-fhd.mp4",
+            "2160p": "https://example.com/episode-uhd.mp4"
+          },
+          "images": {
+            "thumbnail": "link_to_thumbnail_image",
+            "poster": "link_to_poster_image",
+            "banner": "link_to_banner_image"
+          }
+        },
+        {
+          "title": "Lucifer, Stay. Good Devil.",
+          "season": 1,
+          "episodeNumber": 2,
+          "description": "Lucifer Morningstar assists the LAPD in investigating the murder of a movie star's son.",
+          "runningTime": "43 minutes",
+          "videoQuality": {
+            "480p": "https://example.com/episode-sd.mp4",
+            "720p": "https://example.com/episode-hd.mp4",
+            "1080p": "https://example.com/episode-fhd.mp4",
+            "2160p": "https://example.com/episode-uhd.mp4"
+          },
+          "images": {
+            "thumbnail": "link_to_thumbnail_image",
+            "poster": "link_to_poster_image",
+            "banner": "link_to_banner_image"
+          }
+        },
+        {
+          "title": "The Would-Be Prince of Darkness",
+          "season": 1,
+          "episodeNumber": 3,
+          "description": "Lucifer teams up with Chloe to solve the murder of a DJ.",
+          "runningTime": "42 minutes",
+          "videoQuality": {
+            "480p": "https://example.com/episode-sd.mp4",
+            "720p": "https://example.com/episode-hd.mp4",
+            "1080p": "https://example.com/episode-fhd.mp4",
+            "2160p": "https://example.com/episode-uhd.mp4"
+          },
+          "images": {
+            "thumbnail": "link_to_thumbnail_image",
+            "poster": "link_to_poster_image",
+            "banner": "link_to_banner_image"
+          }
+        },
+        {
+          "title": "Manly Whatnots",
+          "season": 1,
+          "episodeNumber": 4,
+          "description": "Lucifer investigates the murder of a youth counselor and tries to woo Chloe's assistance in his own devilish ways.",
+          "runningTime": "42 minutes",
+          "videoQuality": {
+            "480p": "https://example.com/episode-sd.mp4",
+            "720p": "https://example.com/episode-hd.mp4",
+            "1080p": "https://example.com/episode-fhd.mp4",
+            "2160p": "https://example.com/episode-uhd.mp4"
+          },
+          "images": {
+            "thumbnail": "link_to_thumbnail_image",
+            "poster": "link_to_poster_image",
+            "banner": "link_to_banner_image"
+          }
+        },
+        {
+          "title": "Sweet Kicks",
+          "season": 1,
+          "episodeNumber": 5,
+          "description": "After a shooting occurs at a fashion show and a young woman is killed, Lucifer becomes intrigued by the danger of the situation and inserts himself into the investigation.",
+          "runningTime": "43 Min",
+          "videoQuality": {
+            "480p": "https://example.com/episode-sd.mp4",
+            "720p": "https://example.com/episode-hd.mp4",
+            "1080p": "https://example.com/episode-fhd.mp4",
+            "2160p": "https://example.com/episode-uhd.mp4"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Favorite Son",
+          "season": 1,
+          "episodeNumber": 6,
+          "description": "Lucifer tries to discover who may have been responsible for the death of a former quarterback's aid.",
+          "runningTime": "42 Min",
+          "videoQuality": {
+            "480p": "https://example.com/episode-sd.mp4",
+            "720p": "https://example.com/episode-hd.mp4",
+            "1080p": "https://example.com/episode-fhd.mp4",
+            "2160p": "https://example.com/episode-uhd.mp4"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Wingman",
+          "season": 1,
+          "episodeNumber": 7,
+          "description": "Lucifer's wings are stolen and he enlists Chloe to help him find the culprit, leading them on an unexpected journey.",
+          "runningTime": "45 Min",
+          "videoQuality": {
+            "480p": "https://example.com/episode-sd.mp4",
+            "720p": "https://example.com/episode-hd.mp4",
+            "1080p": "https://example.com/episode-fhd.mp4",
+            "2160p": "https://example.com/episode-uhd.mp4"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Et Tu, Doctor?",
+          "season": 1,
+          "episodeNumber": 8,
+          "description": "When a therapist is murdered, Lucifer and Chloe enlist the help of Dr. Linda in their investigation.",
+          "runningTime": "44 Min",
+          "videoQuality": {
+            "480p": "https://example.com/episode-sd.mp4",
+            "720p": "https://example.com/episode-hd.mp4",
+            "1080p": "https://example.com/episode-fhd.mp4",
+            "2160p": "https://example.com/episode-uhd.mp4"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "A Priest Walks into a Bar",
+          "season": 1,
+          "episodeNumber": 9,
+          "description": "A priest seeks out Lucifer's help when he suspects an underground drug operation is running out of a local church.",
+          "runningTime": "46 Min",
+          "videoQuality": {
+            "480p": "https://example.com/episode-sd.mp4",
+            "720p": "https://example.com/episode-hd.mp4",
+            "1080p": "https://example.com/episode-fhd.mp4",
+            "2160p": "https://example.com/episode-uhd.mp4"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Pops",
+          "season": 1,
+          "episodeNumber": 10,
+          "description": "When a musician is murdered, Lucifer and Chloe search for the killer and uncover a surprising connection to a famous rock star.",
+          "runningTime": "45 Min",
+          "videoQuality": {
+            "480p": "https://example.com/episode-sd.mp4",
+            "720p": "https://example.com/episode-hd.mp4",
+            "1080p": "https://example.com/episode-fhd.mp4",
+            "2160p": "https://example.com/episode-uhd.mp4"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "St. Lucifer",
+          "season": 1,
+          "episodeNumber": 11,
+          "description": "A priest asks Lucifer for help when he suspects an underground drug operation has set up shop at a neighborhood youth center.",
+          "runningTime": "44 Min",
+          "videoQuality": {
+            "480p": "https://example.com/episode-sd.mp4",
+            "720p": "https://example.com/episode-hd.mp4",
+            "1080p": "https://example.com/episode-fhd.mp4",
+            "2160p": "https://example.com/episode-uhd.mp4"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Pops",
+          "season": 1,
+          "episodeNumber": 12,
+          "description": "Lucifer and Chloe investigate the murder of a therapist, and Lucifer seeks help from Dr. Linda to understand his own desires.",
+          "runningTime": "44 Min",
+          "videoQuality": {
+            "480p": "https://example.com/episode-sd.mp4",
+            "720p": "https://example.com/episode-hd.mp4",
+            "1080p": "https://example.com/episode-fhd.mp4",
+            "2160p": "https://example.com/episode-uhd.mp4"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "#TeamLucifer",
+          "season": 1,
+          "episodeNumber": 13,
+          "description": "After a movie star's son is killed after being chased by the paparazzi, Lucifer helps Chloe investigate the case and tries to understand her better.",
+          "runningTime": "42 Min",
+          "videoQuality": {
+            "480p": "https://example.com/episode-sd.mp4",
+            "720p": "https://example.com/episode-hd.mp4",
+            "1080p": "https://example.com/episode-fhd.mp4",
+            "2160p": "https://example.com/episode-uhd.mp4"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Season 2",
+      "episodes": [
+        {
+          "title": "Everything's Coming Up Lucifer",
+          "season": 2,
+          "episodeNumber": 1,
+          "description": "Lucifer tries to figure out his mother's intentions after she escapes Hell.",
+          "runningTime": "42 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Liar, Liar, Slutty Dress on Fire",
+          "season": 2,
+          "episodeNumber": 2,
+          "description": "When an actress is killed, Lucifer and Chloe question everything and everyone they come across, including each other.",
+          "runningTime": "43 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Sin-Eater",
+          "season": 2,
+          "episodeNumber": 3,
+          "description": "Lucifer and Chloe seek out a cyber-vigilante who is punishing sinners around the city. Amenadiel seeks out Dr. Linda for advice.",
+          "runningTime": "42 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Lady Parts",
+          "season": 2,
+          "episodeNumber": 4,
+          "description": "When a prominent restaurateur is found dead, Lucifer and Chloe team up with Ella to investigate the case.",
+          "runningTime": "43 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Weaponizer",
+          "season": 2,
+          "episodeNumber": 5,
+          "description": "Lucifer suspects that his mother is manipulating a criminal to target him. Maze wants revenge after a friend is killed.",
+          "runningTime": "42 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Monster",
+          "season": 2,
+          "episodeNumber": 6,
+          "description": "Chloe starts to question Lucifer's motives. Charlotte tries to convince Amenadiel to return to Heaven.",
+          "runningTime": "42 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "My Little Monkey",
+          "season": 2,
+          "episodeNumber": 7,
+          "description": "Chloe and Dan investigate a murder at a behavioral clinic. Lucifer takes Trixie trick-or-treating.",
+          "runningTime": "42 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Trip to Stabby Town",
+          "season": 2,
+          "episodeNumber": 8,
+          "description": "Chloe and Lucifer hunt for a missing girl who was kidnapped by a cult.",
+          "runningTime": "42 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Homewrecker",
+          "season": 2,
+          "episodeNumber": 9,
+          "description": "Lucifer investigates the murder of a property developer. Maze helps Chloe with a personal issue.",
+          "runningTime": "42 min",
+          "videoQuality": {
+            "480p": "YOUR_VIDEO_URL_HERE",
+            "720p": "YOUR_VIDEO_URL_HERE",
+            "1080p": "YOUR_VIDEO_URL_HERE",
+            "2160p": "YOUR_VIDEO_URL_HERE"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Season 3",
+      "episodes": []
+    },
+    {
+      "title": "Season 4",
+      "episodes": []
+    },
+    {
+      "title": "Season 5",
+      "episodes": []
+    },
+    {
+      "title": "Season 6",
+      "episodes": []
+    }
+  ]
+}

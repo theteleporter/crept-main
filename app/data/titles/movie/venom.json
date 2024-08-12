@@ -1,0 +1,148 @@
+{
+    "title": "Venom",
+    "genres": [
+        "Science Fiction",
+        "Action",
+        "Superhero",
+        "Thriller",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
+    "release_year": "2018",
+    "seasons": 1,
+    "time": 112,
+    "rating": "13+", 
+    "url": "/browse/film/venom", 
+    "bannerImage": "/assets/images/titles/venom/venom8.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Tom Hardy",
+            "character": "Eddie Brock / Venom"
+        },
+        {
+            "name": "Michelle Williams",
+            "character": "Anne Weying"
+        },
+        {
+            "name": "Riz Ahmed",
+            "character": "Carlton Drake / Riot"
+        },
+        {
+            "name": "Scott Haze",
+            "character": "Roland Treece"
+        },
+        {
+            "name": "Reid Scott",
+            "character": "Dan Lewis"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Venom Image",
+            "url": "../../assets/images/titles/venom/venom1.jpg" 
+        }
+    ],
+    "trailers": [
+        {
+            "season": [ 
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "../../assets/images/titles/venom/venom9.jpg",
+                    "trailerUrl": "https://www.youtube.com/d/dhjdiliufvkvoji"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/venom-let-there-be-carnage/poster.jpg",
+            "urlTo": "/browse/film/venom-let-there-be-carnage",
+            "imageTitle": "Venom: Let There Be Carnage"
+        },
+        {
+            "imageUrl": "/assets/images/titles/spider-man-into-the-spider-verse/poster.jpg",
+            "urlTo": "/browse/film/spider-man-into-the-spider-verse",
+            "imageTitle": "Spider-Man: Into the Spider-Verse"
+        },
+        {
+            "imageUrl": "/assets/images/titles/morbius/poster.jpg",
+            "urlTo": "/browse/film/morbius",
+            "imageTitle": "Morbius"
+        },
+        {
+            "imageUrl": "/assets/images/titles/upgrade/poster.jpg",
+            "urlTo": "/browse/film/upgrade",
+            "imageTitle": "Upgrade"
+        },
+        {
+            "imageUrl": "/assets/images/titles/brightburn/poster.jpg",
+            "urlTo": "/browse/film/brightburn",
+            "imageTitle": "Brightburn"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-new-mutants/poster.jpg",
+            "urlTo": "/browse/film/the-new-mutants",
+            "imageTitle": "The New Mutants"
+        },
+        {
+            "imageUrl": "/assets/images/titles/darkman/poster.jpg",
+            "urlTo": "/browse/film/darkman",
+            "imageTitle": "Darkman"
+        },
+        {
+            "imageUrl": "/assets/images/titles/spawn/poster.jpg",
+            "urlTo": "/browse/film/spawn",
+            "imageTitle": "Spawn"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-crow/poster.jpg",
+            "urlTo": "/browse/film/the-crow",
+            "imageTitle": "The Crow"
+        },
+        {
+            "imageUrl": "/assets/images/titles/chronicle/poster.jpg",
+            "urlTo": "/browse/film/chronicle",
+            "imageTitle": "Chronicle"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-incredible-hulk/poster.jpg",
+            "urlTo": "/browse/film/the-incredible-hulk",
+            "imageTitle": "The Incredible Hulk"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-amazing-spider-man-2/poster.jpg",
+            "urlTo": "/browse/film/the-amazing-spider-man-2",
+            "imageTitle": "The Amazing Spider-Man 2"
+        }
+    ],    
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Venom", 
+                    "season": 1, 
+                    "episodeNumber": 1, 
+                    "description":  "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
+                    "runningTime": "112 Min",
+                    "videoQuality": {
+                        "480p": "https://example.com/venom-480p.mp4",
+                        "720p": "https://example.com/venom-720p.mp4",
+                        "1080p": "https://example.com/venom-1080p.mp4",
+                        "2160p": "https://example.com/venom-2160p.mp4"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/venom/thumbnail.jpg",
+                        "poster": "../../assets/images/titles/venom/poster.jpg",
+                        "banner": "../../assets/images/titles/venom/venom3.jpg" 
+                    }
+                }
+            ]
+        }
+    ]
+}

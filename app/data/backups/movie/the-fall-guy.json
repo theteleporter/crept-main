@@ -1,0 +1,90 @@
+{
+    "title": "The Fall Guy",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "A down-and-out stuntman must find the missing star of his ex-girlfriend's blockbuster film.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 126,
+    "rating": "13+",
+    "url": "/browse/film/the-fall-guy",
+    "bannerImage": "/assets/images/titles/the-fall-guy/thefallguy1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Ryan Gosling", "character": "Colt Seavers" },
+      { "name": "Emily Blunt", "character": "Jody Moreno" },
+      { "name": "Aaron Taylor-Johnson", "character": "Tom Ryder" },
+      { "name": "Stephanie Hsu", "character": "Alma Milan" },
+      { "name": "Winston Duke", "character": "Dan Tucker" },
+      { "name": "Teresa Palmer", "character": "Iggy Starr" },
+      { "name": "Hannah Waddingham", "character": "Gail Meyer" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "The Fall Guy Image",
+        "url": "../../assets/images/titles/the-fall-guy/thefallguy1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/the-fall-guy/thefallguy2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=j7jPnwVGdZ8"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/bullet-train/bullettrain1.jpg",
+        "urlTo": "/browse/film/bullet-train",
+        "imageTitle": "Bullet Train"
+      },
+      {
+        "imageUrl": "/assets/images/titles/nobody/nobody1.jpg",
+        "urlTo": "/browse/film/nobody",
+        "imageTitle": "Nobody"
+      },
+      {
+        "imageUrl": "/assets/images/titles/john-wick/johnwick1.jpg",
+        "urlTo": "/browse/film/john-wick",
+        "imageTitle": "John Wick"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "The Fall Guy",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "A down-and-out stuntman must find the missing star of his ex-girlfriend's blockbuster film.",
+            "runningTime": "126 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/the-fall-guy/The.Fall.Guy.2024.480p.WEB-HD.x264-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/the-fall-guy/The.Fall.Guy.2024.720p.WEB-HD.x264-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-fall-guy/The.Fall.Guy.2024.1080p.WEB-DL.x264.6CH-crept.studio.mkv",
+              "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-fall-guy/The.Fall.Guy.2024.2160p.AMZN.WEB-DL.H.265.Hindi_DDP_5.1_+_Eng_DDP_5.1-MSubs-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/the-fall-guy/thefallguy1.jpg",
+              "poster": "../../assets/images/titles/the-fall-guy/thefallguy2.jpg",
+              "banner": "../../assets/images/titles/the-fall-guy/thefallguy3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

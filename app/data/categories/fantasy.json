@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Lucifer",
+    "url": "/browse/title/lucifer",
+    "description": "Lucifer Morningstar, the Devil, abandons Hell and comes to Los Angeles, where he runs a nightclub and becomes a consultant to the LAPD.",
+    "release_year": "2016",
+    "seasons": 6,
+    "bannerImage": "/assets/images/titles/lucifer/lucifer11.jpg",
+    "rating": "16+"
+  },
+  {
+    "title": "The Sandman",
+    "url": "/browse/title/the-sandman",
+    "description": "After years of imprisonment, Morpheus, the King of Dreams, embarks on a journey across worlds to find what was stolen from him and restore his power.",
+    "release_year": "2022",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/thesandman/thesandman1.jpg",
+    "rating": "16+"
+  },
+  {
+    "title": "Alienoid: Return To The Future",
+    "url": "/browse/film/alienoid-part-2",
+    "description": "In Goryeo, swordsmen attempt to obtain a legendary divine blade while aliens appear through a time portal from the present. Meanwhile, in the present, the Guard chasing after the aliens and the Thunder, who escaped from the alien's human body, face a crisis of destruction from the awakened alien's spaceship.",
+    "release_year": "2023",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/alienoid-part-2/alienoidpart21.jpg",
+    "rating": "13+"
+  },
+  {
+    "title": "Dragonkeeper",
+    "url": "/browse/film/dragonkeeper",
+    "description": "The dragons of ancient China are on the brink of extinction; their only hope is a brave young girl on a perilous journey to save the last dragon egg.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/dragonkeeper/dragonkeeper1.jpg",
+    "rating": "7+"
+  },
+  {
+    "title": "IF",
+    "url": "/browse/film/if",
+    "description": "Follows a young girl who embarks on an adventure with an imaginary friend to rediscover her sense of wonder.",
+    "release_year": "2023",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/if/if1.jpg",
+    "rating": "13+"
+  },
+  {
+    "title": "Smallfoot",
+    "url": "/browse/film/smallfoot",
+    "description": "A yeti is convinced that the elusive creatures known as \"smallfoot\" (humans) really do exist.",
+    "release_year": "2018",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/smallfoot/smallfoot1.jpg",
+    "rating": "12+"
+  },
+  {
+    "title": "The Portable Door",
+    "url": "/browse/film/the-portable-door",
+    "description": "Two lowly, put-upon interns at a mysterious London firm that makes magic happen become entangled in a battle between ancient magical forces.",
+    "release_year": "2023",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/the-portable-door/theportabledoor1.jpg",
+    "rating": "13+"
+  },
+  {
+    "title": "Wish",
+    "url": "/browse/film/wish",
+    "description": "A young girl named Asha makes a wish so powerful that it is answered by a cosmic force, a little ball of boundless energy called Star. Together, they face the most formidable of foes to save her community and prove that when the will of a courageous human connects with the magic of the stars, wondrous things can happen.",
+    "release_year": "2023",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/wish/wish1.jpg",
+    "rating": "7+"
+  }
+]

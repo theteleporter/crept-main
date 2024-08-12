@@ -1,0 +1,100 @@
+{
+    "title": "Die Hart 2: Die Harter",
+    "genres": [
+        "Action",
+        "Comedy",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "Kevin Hart, now the world's biggest action star, finds himself the victim of an evil revenge plot and must enlist the help of his favorite co-star and his over-eager assistant if he wants to survive.",
+    "release_year": "2023",
+    "seasons": 1, 
+    "time": 104,
+    "rating": "18+", 
+    "url": "/browse/film/die-hart-2-die-harter",
+    "bannerImage": "/assets/images/titles/die-hart-2/diehart1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Kevin Hart",
+            "character": "Kevin Hart"
+        },
+        {
+            "name": "John Cena",
+            "character": "Clifford Storm"
+        },
+        {
+            "name": "Nathalie Emmanuel",
+            "character": "Jordan King"
+        },
+        {
+            "name": "Ben Schwartz",
+            "character": "Ron Wilcox"
+        },
+        {
+            "name": "Paula Pell",
+            "character": "Cynthia"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Die Hart 2: Die Harter",
+            "url": "/assets/images/titles/die-hart-2/diehart1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/die-hart-2/diehart2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/zCjBWYbP_wQ?si=FQ_mcn6uzHAds22R" 
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/die-hart/diehart1.jpg",
+            "urlTo": "/browse/show/die-hart",
+            "imageTitle": "Die Hart"
+        },
+        {
+            "imageUrl": "/assets/images/titles/jumanji-welcome-to-the-jungle/jumanji1.jpg",
+            "urlTo": "/browse/film/jumanji-welcome-to-the-jungle",
+            "imageTitle": "Jumanji: Welcome to the Jungle"
+        },
+        {
+            "imageUrl": "/assets/images/titles/spy/spy1.jpg",
+            "urlTo": "/browse/film/spy",
+            "imageTitle": "Spy"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Die Hart 2: Die Harter",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "Kevin Hart, now the world's biggest action star, finds himself the victim of an evil revenge plot and must enlist the help of his favorite co-star and his over-eager assistant if he wants to survive.",
+                    "runningTime": "104 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Die.Hart.2.Die.Harter.2024/Die.Hart.2.Die.Harter.2024.720p.AMZN.WEBRip.x264.GalaxyRG.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Die.Hart.2.Die.Harter.2024/Die.Hart.2.Die.Harter.2024.1080p.AMZN.WEBRip.DD5.1.x264.GalaxyRG.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/die-hart-2/diehart1.jpg",
+                        "poster": "/assets/images/titles/die-hart-2/diehart2.jpg",
+                        "banner": "/assets/images/titles/die-hart-2/diehart3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

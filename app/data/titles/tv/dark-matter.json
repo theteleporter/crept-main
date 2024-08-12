@@ -1,0 +1,244 @@
+{
+    "title": "Dark Matter",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Thriller",
+      "Tv Show",
+      "Films",
+      "All"
+    ],
+    "description": "An expert in astrophysics sheds light on the topic of dark matter which has been one of the primary mysteries in modern physics.",
+    "release_year": "2024",
+    "seasons": 1, 
+    "time": 55,  
+    "rating": "16+", 
+    "url": "/browse/title/dark-matter",
+    "bannerImage": "/assets/images/titles/dark-matter/darkmatter1.jpg", 
+    "language": "En",
+    "country": "US", 
+    "number_of_episodes": "9", 
+    "cast": [
+      {
+        "name": "Joel Edgerton",
+        "character": "Jason Dessen"
+      },
+      {
+        "name": "Jennifer Connelly",
+        "character": "Daniela Dessen"
+      },
+      {
+        "name": "Alice Braga",
+        "character": "Amanda"
+      },
+      {
+        "name": "Jimmi Simpson",
+        "character": "Ryan"
+      },
+      {
+        "name": "Dayo Okeniyi",
+        "character": "Detective Leighton"
+      },
+      {
+        "name": "Oakes Fegley",
+        "character": "Charlie Dessen"
+      }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Dark Matter Image",
+        "url": "../../assets/images/titles/dark-matter/dm2024_1.jpg" 
+      },
+      {
+        "title": "Dark Matter Image",
+        "url": "../../assets/images/titles/dark-matter/dm2024_2.jpg" 
+      },
+      {
+        "title": "Dark Matter Image",
+        "url": "../../assets/images/titles/dark-matter/dm2024_3.jpg" 
+      },
+      {
+        "title": "Dark Matter Image",
+        "url": "../../assets/images/titles/dark-matter/dm2024_4.jpg" 
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/severance/severance1.jpg",
+        "urlTo": "/browse/title/severance",
+        "imageTitle": "Severance"
+      },
+      {
+        "imageUrl": "/assets/images/titles/counterpart/counterpart1.jpg",
+        "urlTo": "/browse/title/counterpart",
+        "imageTitle": "Counterpart"
+      },
+      {
+        "imageUrl": "/assets/images/titles/fringe/fringe1.jpg",
+        "urlTo": "/browse/title/fringe",
+        "imageTitle": "Fringe"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Season 1 Trailer",
+            "imageUrl": "../../assets/images/titles/dark-matter/darkmatter5.jpg", 
+            "trailerUrl": "https://www.youtube.com/embed/j6ucGt_Xp14?si=tpefiuaFZim5lbwH"
+          }
+        ]
+      }
+    ],
+"seasonsEpisode": [
+    {
+      "title": "Season 1",
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "season": 1,
+          "episodeNumber": 1,
+          "description": "Jason Dessen, a renowned physicist, is abducted and wakes up in an alternate reality where he's not a scientist but a family man. Confused and disoriented, he sets out to uncover the truth behind his disappearance and the existence of this parallel world.",
+          "runningTime": "52 min",
+          "videoQuality": {
+            "720p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/720p/Dark.Matter.S01E01.720p.WEB-DL.Dubbed.EBTV.mkv",
+            "1080p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/1080p/Dark.Matter.S01E01.1080p.WEB-DL.6CH.Dubbed.EBTV.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Episode 2",
+          "season": 1,
+          "episodeNumber": 2,
+          "description": "Jason navigates the complexities of his new life, struggling to reconcile his memories with the reality he finds himself in. He begins to suspect that his abduction wasn't random and seeks out answers from those around him.",
+          "runningTime": "55 min",
+          "videoQuality": {
+            "720p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/720p/Dark.Matter.S01E02.720p.WEB-DL.Dubbed.EBTV.mkv",
+            "1080p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/1080p/Dark.Matter.S01E02.1080p.WEB-DL.6CH.Dubbed.EBTV.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Episode 3",
+          "season": 1,
+          "episodeNumber": 3,
+          "description": "Jason's investigation leads him to a mysterious woman named Amanda, who claims to know the truth about his abduction. Meanwhile, his wife, Daniela, begins to question his behavior and grows suspicious of his motives.",
+          "runningTime": "51 min",
+          "videoQuality": {
+            "720p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/720p/Dark.Matter.S01E03.720p.WEB-DL.Dubbed.EBTV.mkv",
+            "1080p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/1080p/Dark.Matter.S01E03.1080p.WEB-DL.6CH.Dubbed.EBTV.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Episode 4",
+          "season": 1,
+          "episodeNumber": 4,
+          "description": "Jason and Amanda delve deeper into the secrets of the multiverse, uncovering a hidden organization with sinister intentions. As they get closer to the truth, they realize the stakes are higher than they ever imagined.",
+          "runningTime": "58 min",
+          "videoQuality": {
+            "720p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/720p/Dark.Matter.S01E04.720p.WEB-DL.Dubbed.EBTV.mkv",
+            "1080p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/1080p/Dark.Matter.S01E04.1080p.WEB-DL.6CH.Dubbed.EBTV.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Episode 5",
+          "season": 1,
+          "episodeNumber": 5,
+          "description": "Jason's double life starts to unravel as he struggles to maintain the balance between his two realities. He's forced to make a difficult decision that could have devastating consequences for everyone involved.",
+          "runningTime": "53 min",
+          "videoQuality": {
+            "720p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/720p/Dark.Matter.S01E05.720p.WEB-DL.Dubbed.EBTV.mkv",
+            "1080p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/1080p/Dark.Matter.S01E05.1080p.WEB-DL.6CH.Dubbed.EBTV.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Episode 6",
+          "season": 1,
+          "episodeNumber": 6,
+          "description": "The lines between reality and illusion blur as Jason discovers a shocking truth about his own identity. He must confront his past and the choices he's made in order to protect the ones he loves.",
+          "runningTime": "54 min",
+          "videoQuality": {
+            "720p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/720p/Dark.Matter.S01E06.720p.WEB-DL.Dubbed.EBTV.mkv",
+            "1080p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/1080p/Dark.Matter.S01E06.1080p.WEB-DL.6CH.Dubbed.EBTV.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Episode 7",
+          "season": 1,
+          "episodeNumber": 7,
+          "description": "Jason embarks on a dangerous mission to save his family and prevent a catastrophic event from destroying both his realities. He races against time to uncover the secrets of dark matter and the true nature of the multiverse.",
+          "runningTime": "56 min",
+          "videoQuality": {
+            "720p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/720p/Dark.Matter.S01E07.720p.WEB-DL.Dubbed.EBTV.mkv",
+            "1080p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/1080p/Dark.Matter.S01E07.1080p.WEB-DL.6CH.Dubbed.EBTV.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+            "title": "Episode 8",
+            "season": 1,
+            "episodeNumber": 8,
+            "description": "As the lines between realities continue to blur, Jason races to uncover the true identity of his abductor and the motives behind his manipulation. He must make a choice that will alter the course of his life and potentially the fate of multiple worlds.",
+            "runningTime": "52 min",
+            "videoQuality": {
+              "720p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/720p/Dark.Matter.S01E08.720p.WEB-DL.Dubbed.EBTV.mkv",
+              "1080p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/1080p/Dark.Matter.S01E08.1080p.WEB-DL.6CH.Dubbed.EBTV.mkv"
+            },
+            "images": {
+              "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+              "poster": "YOUR_POSTER_URL_HERE",
+              "banner": "YOUR_BANNER_URL_HERE"
+            }
+          },
+          {
+            "title": "Episode 9",
+            "season": 1,
+            "episodeNumber": 9,
+            "description": "In the season finale, Jason confronts his abductor in a final showdown that will determine the fate of both his realities. As he unravels the complex web of lies and deception, he must make a difficult choice that will have far-reaching consequences.",
+            "runningTime": "58 min",
+            "videoQuality": {
+              "720p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/720p/Dark.Matter.S01E09.720p.WEB-DL.Dubbed.EBTV.mkv",
+              "1080p": "https://dl3.tabar.sbs/Dubbed/Series/Dark.Matter.S01/1080p/Dark.Matter.S01E09.1080p.WEB-DL.6CH.Dubbed.EBTV.mkv"
+            },
+            "images": {
+              "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+              "poster": "YOUR_POSTER_URL_HERE",
+              "banner": "YOUR_BANNER_URL_HERE"
+            }
+          }
+        ]
+      }
+    ]
+  }

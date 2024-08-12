@@ -1,0 +1,101 @@
+{
+    "title": "Boneyard",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Mystery",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "When the skeletal remains of eleven women and girls are discovered in the New Mexico desert, an extensive investigation is launched. Inspired by true crime stories, this chilling crime-thriller follows Detective Ortega, Police Chief Carter, and Agent Petrovick in a multi-agency effort to identify and apprehend the killer. As each of their agendas and methods clash, a tangled web of intrigue casts suspicion in all directions.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 96,
+    "rating": "18+",
+    "url": "/browse/film/boneyard",
+    "bannerImage": "/assets/images/titles/boneyard/boneyard1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      {
+        "name": "Mel Gibson",
+        "character": "Agent Petrovick"
+      },
+      {
+        "name": "Curtis '50 Cent' Jackson",
+        "character": "Police Chief Carter"
+      },
+      {
+        "name": "Brian Van Holt",
+        "character": "Detective Ortega"
+      },
+      {
+        "name": "Nora Zehetner",
+        "character": "Dani Baker"
+      },
+      {
+        "name": "Michael Sirow",
+        "character": "Jim Johnstone"
+      }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Boneyard Image",
+        "url": "../../assets/images/titles/boneyard/boneyard1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/boneyard/boneyard2.jpg",
+            "trailerUrl": "https://www.youtube.com/embed/GS5OoPsRkKs?si=0-oTW2JqfvL1r6_M"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/the-silence-of-the-lambs/thesilenceofthelambs1.jpg",
+        "urlTo": "/browse/film/the-silence-of-the-lambs",
+        "imageTitle": "The Silence of the Lambs"
+      },
+      {
+        "imageUrl": "/assets/images/titles/se7en/se7en1.jpg",
+        "urlTo": "/browse/film/se7en",
+        "imageTitle": "Se7en"
+      },
+      {
+        "imageUrl": "/assets/images/titles/zodiac/zodiac1.jpg",
+        "urlTo": "/browse/film/zodiac",
+        "imageTitle": "Zodiac"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Boneyard",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "When the skeletal remains of eleven women and girls are discovered in the New Mexico desert, an extensive investigation is launched. Inspired by true crime stories, this chilling crime-thriller follows Detective Ortega, Police Chief Carter, and Agent Petrovick in a multi-agency effort to identify and apprehend the killer. As each of their agendas and methods clash, a tangled web of intrigue casts suspicion in all directions.",
+            "runningTime": "96 Min",
+            "videoQuality": {
+              "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Boneyard.2024/Boneyard.2024.720p.WEB-DL.Pahe.Dubbed.EBTV.mkv",
+              "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Boneyard.2024/Boneyard.2024.1080p.WEB-DL.6CH.Pahe.Dubbed.EBTV.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/boneyard/boneyard1.jpg",
+              "poster": "../../assets/images/titles/boneyard/boneyard2.jpg",
+              "banner": "../../assets/images/titles/boneyard/boneyard3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

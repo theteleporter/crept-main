@@ -1,0 +1,44 @@
+[
+   {
+      "title": "Don't forget to Support Us.",
+      "description": "We value your contribution to help us grow and connect with you. Thank you for being loyal to us.",
+      "url": "https://www.support.crept.studio",
+      "imgUrl": "/assets/images/site-icons/crept-logo.png",
+      "imgTitle": "Crept, Inc"
+    },
+    {
+    "title": "Bad Boys: Ride Or Die has just been added.",
+    "description": "When their late police captain gets linked to drug cartels, wisecracking Miami cops Mike Lowrey and Marcus Burnett embark on a dangerous mission to clear his name.",
+    "url": "/browse/film/bad-boys-ride-or-die",
+    "imgUrl": "/assets/images/titles/bad-boys-ride-or-die/badboysrideordie1.jpg",
+    "imgTitle": "Bad Boys: Ride Or Die"
+  },
+    {
+      "title": "Darkness Of Man is now available.",
+      "description": "Russell Hatch, a former Interpol operative, vowed to protect the son of an informant killed years ago. When street gangs start a turf war...",
+      "url": "/browse/film/darkness-of-man",
+      "imgUrl": "/assets/images/titles/darkness-of-man/darknessofman1.jpg",
+      "imgTitle": "Darkness Of Man"
+    },
+    {
+      "title": "Despicable Me 4 is here!",
+      "description": "Gru, Lucy, Margo, Edith, and Agnes welcome a new member to the family, Gru Jr., who is intent on tormenting his dad. Gru faces a new...",
+      "url": "/browse/film/despicable-me-4",
+      "imgUrl": "/assets/images/titles/despicable-me-4/despicableme4-1.jpg",
+      "imgTitle": "Despicable Me 4"
+    },
+    {
+      "title": "Bad Hombres is here!",
+      "description": "Two undocumented immigrants get entangled in a dangerous drug deal gone wrong and become targets of a ruthless cartel boss.",
+      "url": "/browse/film/bad-hombres",
+      "imgUrl": "/assets/images/titles/bad-hombres/badhombres1.jpg",
+      "imgTitle": "Bad Hombres"
+    },
+    {
+      "title": "Dunki is available for download!",
+      "description": "A group of friends from a village in Punjab share a common dream: to go to England. Their problem is that they have neither the visa nor the...",
+      "url": "/browse/film/dunki",
+      "imgUrl": "/assets/images/titles/dunki/dunki1.jpg",
+      "imgTitle": "Dunki"
+    }
+  ]

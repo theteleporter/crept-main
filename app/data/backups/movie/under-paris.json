@@ -1,0 +1,93 @@
+{
+    "title": "Under Paris",
+    "genres": [
+      "Thriller",
+      "Horror",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "To save Paris from a bloodbath, a grieving scientist is forced to face her tragic past when a giant shark appears in the Seine.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 89,
+    "rating": "18+",
+    "url": "/browse/film/under-paris",
+    "bannerImage": "/assets/images/titles/under-paris/underparis1.jpg",
+    "language": "Fr",
+    "country": "FR",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Bérénice Bejo", "character": "Sophia" },
+      { "name": "Nassim Lyes", "character": "Adil" },
+      { "name": "Léa Léviant", "character": "Mika" },
+      { "name": "Nagisa Morimoto", "character": "Ben" },
+      { "name": "Anaïs Parello", "character": "Jade" },
+      { "name": "Iñaki Lartigue", "character": "Juan" },
+      { "name": "Anne Marivin", "character": "Mayor of Paris" },
+      { "name": "Timi-Joy Marbot", "character": "Raphaël" },
+      { "name": "Ricky Tribord", "character": "Marine Officer" },
+      { "name": "Aurélia Petit", "character": "Angèle" },
+      { "name": "Sandra Parfait", "character": "Caro" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Under Paris Image",
+        "url": "../../assets/images/titles/under-paris/underparis1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/under-paris/underparis2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=l9zb5NHV98M"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/the-meg/themeg1.jpg",
+        "urlTo": "/browse/film/the-meg",
+        "imageTitle": "The Meg"
+      },
+      {
+        "imageUrl": "/assets/images/titles/the-shallows/theshallows1.jpg",
+        "urlTo": "/browse/film/the-shallows",
+        "imageTitle": "The Shallows"
+      },
+      {
+        "imageUrl": "/assets/images/titles/47-meters-down/47metersdown1.jpg",
+        "urlTo": "/browse/film/47-meters-down",
+        "imageTitle": "47 Meters Down"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Under Paris",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "To save Paris from a bloodbath, a grieving scientist is forced to face her tragic past when a giant shark appears in the Seine.",
+            "runningTime": "89 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/under-paris/Under.Paris.2024.480p.NF.WEB-DL.x264-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/under-paris/Under.Paris.2024.720p.NF.WEB-DL.x264-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/under-paris/Under.Paris.2024.1080p.NF.WEB-DL.x264.AAC5.1-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/under-paris/underparis1.jpg",
+              "poster": "../../assets/images/titles/under-paris/underparis2.jpg",
+              "banner": "../../assets/images/titles/under-paris/underparis3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
+  

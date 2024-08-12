@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Supacell",
+    "url": "/browse/title/supacell",
+    "description": "A group of ordinary people from South London’s Ladbroke Grove are granted superpowers, but they must harness these abilities for good before it’s too late.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/supacell/supacell1.jpg",
+    "rating": "16+"
+  },
+  {
+    "title": "Aquaman and the Lost Kingdom",
+    "url": "/browse/film/aquaman-and-the-lost-kingdom",
+    "description": "Arthur Curry, also known as Aquaman, joins forces with his half-brother Orm to prevent Black Manta from unleashing destruction using the Black Trident, a weapon imbued with dark magic.",
+    "release_year": "2023",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/aquaman-and-the-lost-kingdom/aquamanandthelostkingdom1.jpg",
+    "rating": "13+"
+  },
+  {
+    "title": "Madame Web",
+    "url": "/browse/film/madame-web",
+    "description": "A woman discovers she has psychic sensory powers that allow her to see into the spider world itself.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/madameweb/madameweb8.jpg",
+    "rating": "13+"
+  },
+  {
+    "title": "The Marvels",
+    "url": "/browse/film/the-marvels",
+    "description": "Carol Danvers, Kamala Khan, and Monica Rambeau begin swapping places with each other every time they use their powers and must team-up to figure out why.",
+    "release_year": "2023",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/the-marvels/themarvels1.jpg",
+    "rating": "13+"
+  },
+  {
+    "title": "Ultraman: Rising",
+    "url": "/browse/film/ultraman-rising",
+    "description": "When Tokyo is threatened by rising monster attacks, baseball star Ken Sato reluctantly returns home to take on the mantle of Ultraman. But the titanic superhero meets his match when he reluctantly adopts ababy Kaiju who sees him as her papa.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/ultraman-rising/ultramanrising1.jpg",
+    "rating": "13+"
+  },
+  {
+    "title": "Venom",
+    "url": "/browse/film/venom",
+    "description": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
+    "release_year": "2018",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/venom/venom8.jpg",
+    "rating": "13+"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Challengers",
+    "url": "/browse/film/challengers",
+    "description": "Tashi, a tennis player-turned-coach, has transformed her husband from a mediocre player into a world-famous grand slam champion. To jolt him out of his recent losing streak, she makes him play a challenger event - close to thelowest level of tournament on the pro tour - where he finds himself standing across the net from the once-promising, now burnt-out Patrick: his former best friend and Tashi's former boyfriend.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/challengers/challengers1.jpg",
+    "rating": "18+"
+  },
+  {
+    "title": "Love Lies Bleeding",
+    "url": "/browse/film/love-lies-bleeding",
+    "description": "From Director Rose Glass comes an electric new love story. Reclusive gym manager Lou falls hard for Jackie, an ambitious bodybuilder headed through town to Vegas in pursuit of her dream. But their love ignites violence, pulling them deep into thedangerous world of competitive bodybuilding. This darkly funny, stylishly thrilling film follows two women who will stop at nothing to protect each other - and themselves.",
+    "release_year": "2023",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/love-lies-bleeding/loveliesbleeding1.jpg",
+    "rating": "18+"
+  },
+  {
+    "title": "Through My Window: Across the Sea",
+    "url": "/browse/film/through-my-window-across-the-sea",
+    "description": "Ares and Raquel maintain a long-distance relationship during his studies in Stockholm. When they meet again, they find that their period of separation has put their love to the test.",
+    "release_year": "2023",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/through-my-window-across-the-sea/across-the-sea1.jpg",
+    "rating": "16+"
+  },
+  {
+    "title": "Through My Window: Looking at You",
+    "url": "/browse/film/through-my-window-looking-at-you",
+    "description": "After a tumultuous summer, Raquel and Ares struggle to redefine their relationship and end up going their separate ways. However, fate brings them back together in the winter, rekindling their undeniable love and desire for each other. Can they overcome family pressures and find a way to make their relationship work?",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/through-my-window-looking-at-you/throughmywindowlookingatyou1.jpg",
+    "rating": "16+"
+  }
+]

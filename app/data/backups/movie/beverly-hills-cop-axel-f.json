@@ -1,0 +1,117 @@
+{
+    "title": "Beverly Hills Cop: Axel F",
+    "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "Axel Foley returns to Beverly Hills to investigate his friend's murder, teaming up with his friend's daughter and her partner to uncover a conspiracy.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 122, 
+    "rating": "13+",
+    "url": "/browse/film/beverly-hills-cop-axel-f",
+    "bannerImage": "/assets/images/titles/beverly-hills-cop-axel-f/beverlyhillscopaxelf1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Eddie Murphy",
+            "character": "Axel Foley"
+        },
+        {
+            "name": "Joseph Gordon-Levitt",
+            "character": "Detective Bobby Tapia"
+        },
+        {
+            "name": "Taylour Paige",
+            "character": "Detective Rianne"
+        },
+        {
+            "name": "Kevin Bacon",
+            "character": "Billy Rosewood"
+        },
+        {
+            "name": "John Ashton",
+            "character": "John Taggart"
+        },
+        {
+            "name": "Judge Reinhold",
+            "character": "Detective Jeffrey Friedman"
+        },
+        {
+            "name": "Paul Reiser",
+            "character": "Detective Andrew Bogomil"
+        },
+        {
+            "name": "Bronson Pinchot",
+            "character": "Serge"
+        },
+        {
+            "name": "Al Madrigal",
+            "character": "Chief Egan"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Beverly Hills Cop: Axel F Image",
+            "url": "../../assets/images/titles/beverly-hills-cop-axel-f/beverlyhillscopaxelf1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "../../assets/images/titles/beverly-hills-cop-axel-f/beverlyhillscopaxelf2.jpg",
+                    "trailerUrl": "https://www.youtube.com/watch?v=Cy0WN8VmpQ0"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/rush_hour/rushhour1.jpg",
+            "urlTo": "/browse/film/rush-hour",
+            "imageTitle": "Rush Hour"
+        },
+        {
+            "imageUrl": "/assets/images/titles/bad_boys/badboys1.jpg",
+            "urlTo": "/browse/film/bad-boys",
+            "imageTitle": "Bad Boys"
+        },
+        {
+            "imageUrl": "/assets/images/titles/21_jump_street/21jumpstreet1.jpg",
+            "urlTo": "/browse/film/21-jump-street",
+            "imageTitle": "21 Jump Street"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "Beverly Hills Cop: Axel F",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "Axel Foley returns to Beverly Hills to investigate his friend's murder, teaming up with his friend's daughter and her partner to uncover a conspiracy.",
+                    "runningTime": "122 Min",
+                    "videoQuality": {
+                        "480p": "https://spacestorageunit.blob.core.windows.net/container-x/beverly-hills-cop-axel-f/Beverly.Hills.Cop.Axel.F.2024.480p.NF.WEB-DL.x264-crept.studio.mkv",
+                        "720p": "https://spacestorageunit.blob.core.windows.net/container-x/beverly-hills-cop-axel-f/Beverly.Hills.Cop.Axel.F.2024.720p.NF.WEB-DL.x264-crept.studio.mkv",
+                        "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/beverly-hills-cop-axel-f/Beverly.Hills.Cop.Axel.F.2024.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/beverly-hills-cop-axel-f/beverlyhillscopaxelf1.jpg",
+                        "poster": "../../assets/images/titles/beverly-hills-cop-axel-f/beverlyhillscopaxelf2.jpg",
+                        "banner": "../../assets/images/titles/beverly-hills-cop-axel-f/beverlyhillscopaxelf3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}

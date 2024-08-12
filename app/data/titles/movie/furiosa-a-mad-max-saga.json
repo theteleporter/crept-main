@@ -1,0 +1,97 @@
+{
+    "title": "Furiosa: A Mad Max Saga",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Thriller",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 147,
+    "rating": "18+",
+    "url": "/browse/film/furiosa-a-mad-max-saga",
+    "bannerImage": "/assets/images/titles/furiosa-a-mad-max-saga/furiosa1.jpg",
+    "language": "En",
+    "country": "AU, US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Anya Taylor-Joy", "character": "Furiosa" },
+      { "name": "Chris Hemsworth", "character": "Dementus" },
+      { "name": "Tom Burke", "character": "Immortan Joe" },
+      { "name": "Angus Sampson", "character": "The Organic Mechanic" },
+      { "name": "Nathan Jones", "character": "Rictus Erectus" },
+      { "name": "Quaden Bayles", "character": "Corpse Eater" },
+      { "name": "Rory Lee", "character": "War Boy 4" },
+      { "name": "Benny Peters", "character": "War Boy 2" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Furiosa: A Mad Max Saga Image",
+        "url": "../../assets/images/titles/furiosa-a-mad-max-saga/furiosa1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer 1",
+            "imageUrl": "../../assets/images/titles/furiosa-a-mad-max-saga/furiosa5.jpg",
+            "trailerUrl": "https://www.youtube.com/embed/XJMuhwVlca4?si=inOXZnwmRWwUBjpB"
+          },
+          {
+            "title": "Official Trailer 2",
+            "imageUrl": "../../assets/images/titles/furiosa-a-mad-max-saga/furiosa3.jpg",
+            "trailerUrl": "https://www.youtube.com/embed/FVswuip0-co?si=CELufPCsrNq9d5WG"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/mad-max-fury-road/madmaxfuryroad1.jpg",
+        "urlTo": "/browse/film/mad-max-fury-road",
+        "imageTitle": "Mad Max: Fury Road"
+      },
+      {
+        "imageUrl": "/assets/images/titles/dune/dune1.jpg",
+        "urlTo": "/browse/film/dune",
+        "imageTitle": "Dune"
+      },
+      {
+        "imageUrl": "/assets/images/titles/alita-battle-angel/alitabattleangel1.jpg",
+        "urlTo": "/browse/film/alita-battle-angel",
+        "imageTitle": "Alita: Battle Angel"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Furiosa: A Mad Max Saga",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Bikerementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
+            "runningTime": "147 Min",
+            "videoQuality": {
+              "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Furiosa.A.Mad.Max.Saga.2024/Furiosa.A.Mad.Max.Saga.2024.720p.WEB-DL.Pahe.Dubbed.EBTV.mkv",
+              "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Furiosa.A.Mad.Max.Saga.2024/Furiosa.A.Mad.Max.Saga.2024.1080p.WEB-DL.Pahe.Dubbed.EBTV.mkv",
+              "2160p": "https://dl3.tabar.sbs/Dubbed/Movies/Furiosa.A.Mad.Max.Saga.2024/Furiosa.A.Mad.Max.Saga.2024.2160p.10bit.HDR.DV.WEB-DL.6CH.x265.PSA.Dubbed.EBTV.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/furiosa-a-mad-max-saga/furiosa1.jpg",
+              "poster": "../../assets/images/titles/furiosa-a-mad-max-saga/furiosa2.jpg",
+              "banner": "../../assets/images/titles/furiosa-a-mad-max-saga/furiosa3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
+  

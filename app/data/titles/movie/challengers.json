@@ -1,0 +1,87 @@
+{
+    "title": "Challengers",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "Tashi, a tennis player-turned-coach, has transformed her husband from a mediocre player into a world-famous grand slam champion. To jolt him out of his recent losing streak, she makes him play a challenger event - close to thelowest level of tournament on the pro tour - where he finds himself standing across the net from the once-promising, now burnt-out Patrick: his former best friend and Tashi's former boyfriend.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 105,
+    "rating": "18+",
+    "url": "/browse/film/challengers",
+    "bannerImage": "/assets/images/titles/challengers/challengers1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Zendaya", "character": "Tashi Duncan" },
+      { "name": "Josh O'Connor", "character": "Patrick Zweig" },
+      { "name": "Mike Faist", "character": "Art Donaldson" },
+      { "name": "A.J. Lister", "character": "Young Tashi" },
+      { "name": "Jake Jensen", "character": "Young Art" },
+      { "name": "Faith Fay", "character": "Young June" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Challengers Image",
+        "url": "../../assets/images/titles/challengers/challengers1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/challengers/challengers2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=2iNDl3Dce9E"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/battle-of-the-sexes/battleofthesexes1.jpg",
+        "urlTo": "/browse/film/battle-of-the-sexes",
+        "imageTitle": "Battle of the Sexes"
+      },
+      {
+        "imageUrl": "/assets/images/titles/king-richard/kingrichard1.jpg",
+        "urlTo": "/browse/film/king-richard",
+        "imageTitle": "King Richard"
+      },
+      {
+        "imageUrl": "/assets/images/titles/borg-vs-mcEnroe/borgvsmcEnroe1.jpg",
+        "urlTo": "/browse/film/borg-vs-mcEnroe",
+        "imageTitle": "Borg vs McEnroe"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Challengers",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "Tashi, a tennis player-turned-coach, has transformed her husband from a mediocre player into a world-famous grand slam champion. To jolt lowest level of tournament on the pro tour - where he finds himself standing across the net from the once-promising, now burnt-out Patrick: his former best friend and Tashi's former boyfriend.",
+            "runningTime": "105 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/challengers/Challengers.2024.480p.BluRay.x264-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/challengers/Challengers.2024.720p.BluRay.x264-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/challengers/Challengers.2024.1080p.BluRay.x264.DD+5.1-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/challengers/challengers1.jpg",
+              "poster": "../../assets/images/titles/challengers/challengers2.jpg",
+              "banner": "../../assets/images/titles/challengers/challengers3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

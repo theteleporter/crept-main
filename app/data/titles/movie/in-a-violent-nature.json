@@ -1,0 +1,113 @@
+{
+  "title": "In a Violent Nature",
+  "genres": ["Horror", "Slasher", "Thriller", "Movie", "Films", "All"],
+  "description": "When a group of teens takes a locket from a collapsed fire tower in the woods, they unwittingly resurrect the rotting corpse of Johnny, a vengeful spirit spurred on by a horrific 60-year old crime. The undead killer soon embarks on a bloody rampage to retrieve the stolen locket, methodically slaughtering anyone who gets in his way.",
+  "release_year": "2023",
+  "seasons": 1,
+  "time": 97,
+  "rating": "18+",
+  "url": "/browse/film/in-a-violent-nature",
+  "bannerImage": "/assets/images/titles/in-a-violent-nature/inaviolentnature1.jpg",
+  "language": "En",
+  "country": "CA",
+  "number_of_episodes": 1,
+  "cast": [
+    {
+      "name": "Ryan Barrett",
+      "character": "Johnny"
+    },
+    {
+      "name": "Charlotte Creaghan",
+      "character": "Aurora"
+    },
+    {
+      "name": "Andrea Pavlovic",
+      "character": "Kris"
+    },
+    {
+      "name": "Lea Rose Sebastianis",
+      "character": "Brodie"
+    },
+    {
+      "name": "Liam Leone",
+      "character": "Troy"
+    },
+    {
+      "name": "Cameron Love",
+      "character": "Colt"
+    },
+    {
+      "name": "Lauren-Marie Taylor",
+      "character": "The Woman"
+    },
+    {
+      "name": "Reece Presley",
+      "character": "The Ranger"
+    },
+    {
+      "name": "Sam Roulston",
+      "character": "Ehren"
+    },
+    {
+      "name": "Timothy Paul McCarthy",
+      "character": "Chuck"
+    }
+  ],
+  "imagesUrl": [
+    {
+      "title": "In a Violent Nature Image",
+      "url": "../../assets/images/titles/in-a-violent-nature/inaviolentnature1.jpg"
+    }
+  ],
+  "trailers": [
+    {
+      "season": [
+        {
+          "title": "Official Trailer",
+          "imageUrl": "../../assets/images/titles/in-a-violent-nature/inaviolentnature2.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/WyXuRmXbS7U?si=yc9GH54M99pojezC"
+        }
+      ]
+    }
+  ],
+  "more-like": [
+    {
+      "imageUrl": "/assets/images/titles/the-texas-chain-saw-massacre/thetexaschainsawmassacre1.jpg",
+      "urlTo": "/browse/film/the-texas-chain-saw-massacre",
+      "imageTitle": "The Texas Chain Saw Massacre"
+    },
+    {
+      "imageUrl": "/assets/images/titles/halloween/halloween1.jpg",
+      "urlTo": "/browse/film/halloween",
+      "imageTitle": "Halloween"
+    },
+    {
+      "imageUrl": "/assets/images/titles/friday-the-13th/fridaythe13th1.jpg",
+      "urlTo": "/browse/film/friday-the-13th",
+      "imageTitle": "Friday the 13th"
+    }
+  ],
+  "seasonsEpisode": [
+    {
+      "title": "Part 1",
+      "episodes": [
+        {
+          "title": "In a Violent Nature",
+          "season": 1,
+          "episodeNumber": 1,
+          "description": "When a group of teens takes a locket from a collapsed fire tower in the woods, they unwittingly resurrect the rotting corpse of Johnny, a vengeful spirit spurred on by a horrific 60-year old crime. The undead killer soon embarks on a bloody rampage to retrieve the stolen locket, methodically slaughtering anyone who gets in his way.",
+          "runningTime": "97 Min",
+          "videoQuality": {
+            "720p": "https://dl3.tabar.sbs/Dubbed/Movies/In.A.Violent.Nature.2024/In.A.Violent.Nature.2024.720p.WEB-DL.YIFY.Dubbed.EBTV.mkv",
+            "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/In.A.Violent.Nature.2024/In.A.Violent.Nature.2024.1080p.WEB-DL.6CH.YIFY.Dubbed.EBTV.mkv"
+          },
+          "images": {
+            "thumbnail": "../../assets/images/titles/in-a-violent-nature/inaviolentnature1.jpg",
+            "poster": "../../assets/images/titles/in-a-violent-nature/inaviolentnature2.jpg",
+            "banner": "../../assets/images/titles/in-a-violent-nature/inaviolentnature3.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

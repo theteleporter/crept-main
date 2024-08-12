@@ -1,0 +1,117 @@
+{
+    "title": "Abigail",
+    "genres": [
+        "Horror",
+        "Thriller",
+        "Comedy",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "After a group of criminals kidnap the ballerina daughter of a powerful underworld figure, they retreat to an isolated mansion, unaware that they're locked inside with no normal little girl.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 107,
+    "rating": "18+", 
+    "url": "/browse/film/abigail",
+    "bannerImage": "/assets/images/titles/abigail/abigail1.jpg",
+    "language": "En",
+    "country": "US", 
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Alisha Weir",
+            "character": "Abigail"
+        },
+        {
+            "name": "Melissa Barrera",
+            "character": "Zara"
+        },
+        {
+            "name": "Dan Stevens",
+            "character": "John"
+        },
+        {
+            "name": "Kathryn Newton",
+            "character": "Heather"
+        },
+        {
+            "name": "Will Catlett",
+            "character": "Greg"
+        },
+        {
+            "name": "Kevin Durand",
+            "character": "Eddy"
+        },
+        {
+            "name": "Angus Cloud",
+            "character": "Brian"
+        },
+        {
+            "name": "Giancarlo Esposito",
+            "character": "Edward"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Abigail",
+            "url": "/assets/images/titles/abigail/abigail1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/abigail/abigail2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/3PsP8MFH8p0?si=ce6PbISwyVNA0R0w"
+                },
+                {
+                    "title": "Trailer 2",
+                    "imageUrl": "/assets/images/titles/abigail/abigail4.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/xtAL2x58hns?si=9g-X60nx5-dSE_2w"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/ready-or-not/readyornot1.jpg",
+            "urlTo": "/browse/film/ready-or-not",
+            "imageTitle": "Ready or Not"
+        },
+        {
+            "imageUrl": "/assets/images/titles/let-the-right-one-in/lettherightonein1.jpg",
+            "urlTo": "/browse/film/let-the-right-one-in",
+            "imageTitle": "Let the Right One In"
+        },
+        {
+            "imageUrl": "/assets/images/titles/interview-with-the-vampire/interview1.jpg",
+            "urlTo": "/browse/title/interview-with-the-vampire",
+            "imageTitle": "Interview with the Vampire"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "Abigail",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "After a group of criminals kidnap the ballerina daughter of a powerful underworld figure, they retreat to an isolated mansion, unaware that they're locked inside with no normal little girl.",
+                    "runningTime": "107 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Abigail.2024/Abigail.2024.720p.WEB-DL.Pahe.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Abigail.2024/Abigail.2024.1080p.WEB-DL.6CH.Pahe.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/abigail/abigail1.jpg",
+                        "poster": "/assets/images/titles/abigail/abigail2.jpg",
+                        "banner": "/assets/images/titles/abigail/abigail3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}

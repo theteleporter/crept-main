@@ -1,0 +1,91 @@
+{
+    "title": "The Girl in the Spider's Web",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Mystery",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "Young computer hacker Lisbeth Salander and journalist Mikael Blomkvist find themselves caught in a web of spies, cyber criminals, and corrupt government officials.",
+    "release_year": "2018",
+    "seasons": 1,
+    "time": 117,
+    "rating": "18+", 
+    "url": "/browse/film/the-girl-in-the-spiders-web",
+    "bannerImage": "/assets/images/titles/the-girl-in-the-spiders-web/thegirlinthespidersweb1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Claire Foy", "character": "Lisbeth Salander" },
+      { "name": "Sverrir Gudnason", "character": "Mikael Blomkvist" },
+      { "name": "Lakeith Stanfield", "character": "Edwin Needham" },
+      { "name": "Sylvia Hoeks", "character": "Camilla Salander" },
+      { "name": "Stephen Merchant", "character": "Frans Balder" },
+      { "name": "Claes Bang", "character": "Jan Holster" },
+      { "name": "Vicky Krieps", "character": "Erika Berger" },
+      { "name": "Cameron Britton", "character": "Plague" },
+      { "name": "Synnøve Macody Lund", "character": "Gabriella Grane" },
+      { "name": "Christopher Convery", "character": "August Balder" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "The Girl in the Spider's Web Image",
+        "url": "../../assets/images/titles/the-girl-in-the-spiders-web/thegirlinthespidersweb1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/the-girl-in-the-spiders-web/thegirlinthespidersweb2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=XKMSP9OKspQ"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/the-girl-with-the-dragon-tattoo/thegirlwiththedragontattoo1.jpg",
+        "urlTo": "/browse/film/the-girl-with-the-dragon-tattoo",
+        "imageTitle": "The Girl with the Dragon Tattoo"
+      },
+      {
+        "imageUrl": "/assets/images/titles/red-sparrow/redsparrow1.jpg",
+        "urlTo": "/browse/film/red-sparrow",
+        "imageTitle": "Red Sparrow"
+      },
+      {
+        "imageUrl": "/assets/images/titles/atomic-blonde/atomicblonde1.jpg",
+        "urlTo": "/browse/film/atomic-blonde",
+        "imageTitle": "Atomic Blonde"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "The Girl in the Spider's Web",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "Young computer hacker Lisbeth Salander and journalist Mikael Blomkvist find themselves caught in a web of spies, cyber criminals, and corrupt government officials.",
+            "runningTime": "117 Min",
+            "videoQuality": {
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/the-girl-in-the-spider's-web/The.Girl.in.the.Spider's.Web.(2018).1080p.BluRay.AVC.x264.Org-Hindi-BD-5.1~640Kbps+English-DD-5.1-ESubs-crept.studio.mkv",
+              "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/the-girl-in-the-spider's-web/The.Girl.in.the.Spider's.Web.(2018).2160p.UHD.BluRay.HDR10.HEVC.Org-Hindi-BD-5.1~640Kbps+English-TrueHD.Atmos-7.1-ESubscrept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/the-girl-in-the-spiders-web/thegirlinthespidersweb1.jpg",
+              "poster": "../../assets/images/titles/the-girl-in-the-spiders-web/thegirlinthespidersweb2.jpg",
+              "banner": "../../assets/images/titles/the-girl-in-the-spiders-web/thegirlinthespidersweb3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

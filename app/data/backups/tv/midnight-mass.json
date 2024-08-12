@@ -1,0 +1,182 @@
+{
+    "title": "Midnight Mass",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Supernatural",
+      "Thriller",
+      "Films",
+      "Tv Show",
+      "All"
+    ],
+    "description": "An isolated island community experiences miraculous events - and frightening omens - after the arrival of a charismatic, mysterious young priest.",
+    "release_year": "2021",
+    "seasons": 1,
+    "time": 65, 
+    "rating": "17+",
+    "url": "/browse/title/midnight-mass",
+    "bannerImage": "/assets/images/titles/midnight-mass/midnightmass1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 7,
+    "cast": [
+      { "name": "Zach Gilford",  "character": "Riley Flynn" },
+      { "name": "Kate Siegel",    "character": "Erin Greene" },
+      { "name": "Hamish Linklater", "character": "Father Paul Hill" },
+      { "name": "Samantha Sloyan",  "character": "Bev Keane" },
+      { "name": "Rahul Kohli",    "character": "Sheriff Hassan" },
+      { "name": "Kristin Lehman",  "character": "Annie Flynn" },
+      { "name": "Henry Thomas",   "character": "Ed Flynn" },
+      { "name": "Igby Rigney",     "character": "Warren Flynn" },
+      { "name": "Annarah Cymone",  "character": "Leeza Scarborough" }
+    ],
+    "imagesUrl": [
+      { "title": "Midnight Mass Image", "url": "../../assets/images/titles/midnight-mass/mm1.jpg" },
+      { "title": "Midnight Mass Image", "url": "../../assets/images/titles/midnight-mass/mm2.jpg" },
+      { "title": "Midnight Mass Image", "url": "../../assets/images/titles/midnight-mass/mm3.jpg" },
+      { "title": "Midnight Mass Image", "url": "../../assets/images/titles/midnight-mass/mm4.jpg" }
+    ],
+    "more-like": [
+      { "imageUrl": "/assets/images/titles/the-haunting-of-hill-house/hillhouse1.jpg", "urlTo": "/browse/title/the-haunting-of-hill-house", "imageTitle": "The Haunting of Hill House" },
+      { "imageUrl": "/assets/images/titles/the-haunting-of-bly-manor/blymanor1.jpg", "urlTo": "/browse/title/the-haunting-of-bly-manor", "imageTitle": "The Haunting of Bly Manor" },
+      { "imageUrl": "/assets/images/titles/castle-rock/castlerock1.jpg", "urlTo": "/browse/title/castle-rock", "imageTitle": "Castle Rock" },
+      { "imageUrl": "/assets/images/titles/channel-zero/channelzero1.jpg", "urlTo": "/browse/title/channel-zero", "imageTitle": "Channel Zero" }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/midnight-mass/midnightmass5.jpg", 
+            "trailerUrl": "https://www.youtube.com/embed/y-XMbteb-sU"
+          }
+        ]
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Season 1",
+        "episodes": [
+          {
+            "title": "Book I: Genesis",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "Riley Flynn returns home to Crockett Island, grappling with guilt and addiction, while a new priest arrives, bringing with him mysterious events.",
+            "runningTime": "67 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/480p/Midnight.Mass.S01E01.Book.I.Genesis.480p.NF.WEB-DL.x264.200MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/720p/Midnight.Mass.S01E01.Book.I.Genesis.720p.NF.WEB-DL.x264.450MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/1080p/Midnight.Mass.S01E01.Book.I.Genesis.1080p.NF.WE-DL.x264.6CH-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+              "poster": "YOUR_POSTER_URL_HERE",
+              "banner": "YOUR_BANNER_URL_HERE"
+            }
+          },
+          {
+            "title": "Book II: Psalms",
+            "season": 1,
+            "episodeNumber": 2,
+            "description": "A strange creature washes ashore after a storm, and a miracle at mass sparks both faith and fear among the islanders.",
+            "runningTime": "65 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/480p/Midnight.Mass.S01E02.Book.II.Psalms.480p.NF.WEB-DL.x264.250MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/720p/Midnight.Mass.S01E02.Book.II.Psalms.720p.NF.WEB-DL.x264.500MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/1080p/Midnight.Mass.S01E02.Book.II.Psalms.1080p.NF.WE-DL.x264.6CH-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+              "poster": "YOUR_POSTER_URL_HERE",
+              "banner": "YOUR_BANNER_URL_HERE"
+            }
+          },
+          {
+            "title": "Book III: Proverbs",
+            "season": 1,
+            "episodeNumber": 3,
+            "description": "The island experiences miraculous healings and other unexplained phenomena, while Riley grapples with his skepticism and Erin questions her faith.",
+            "runningTime": "65 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/480p/Midnight.Mass.S01E03.Book.III.Proverbs.480p.NF.WEB-DL.x264.250MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/720p/Midnight.Mass.S01E03.Book.III.Proverbs.720p.NF.WEB-DL.x264.500MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/1080p/Midnight.Mass.S01E03.Book.III.Proverbs.1080p.NF.WE-DL.x264.6CH-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+              "poster": "YOUR_POSTER_URL_HERE",
+              "banner": "YOUR_BANNER_URL_HERE"
+            }
+          },
+          {
+            "title": "Book IV: Lamentations",
+            "season": 1,
+            "episodeNumber": 4,
+            "description": "Erin confides in Riley about a disturbing encounter, while the island's cats start to disappear. Bev's fervent beliefs create tension within the community.",
+            "runningTime": "59 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/480p/Midnight.Mass.S01E04.Book.IV.Lamentations.480p.NF.WEB-DL.x264.250MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/720p/Midnight.Mass.S01E04.Book.IV.Lamentations.720p.NF.WEB-DL.x264.550MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/1080p/Midnight.Mass.S01E04.Book.IV.Lamentations.1080p.NF.WE-DL.x264.6CH-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+              "poster": "YOUR_POSTER_URL_HERE",
+              "banner": "YOUR_BANNER_URL_HERE"
+            }
+          },
+          {
+            "title": "Book V: Gospel",
+            "season": 1,
+            "episodeNumber": 5,
+            "description": "The truth behind Father Paul's miracles begins to unravel, and the island's fragile peace is shattered by a series of unsettling events.",
+            "runningTime": "68 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/480p/Midnight.Mass.S01E05.Book.V.Gospel.480p.NF.WEB-DL.x264.200MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/720p/Midnight.Mass.S01E05.Book.V.Gospel.720p.NF.WEB-DL.x264.450MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/1080p/Midnight.Mass.S01E05.Book.V.Gospel.1080p.NF.WE-DL.x264.6CH-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+              "poster": "YOUR_POSTER_URL_HERE",
+              "banner": "YOUR_BANNER_URL_HERE"
+            }
+          },
+          {
+            "title": "Book VI: Acts of the Apostles",
+            "season": 1,
+            "episodeNumber": 6,
+            "description": "As the islanders prepare for an Easter vigil, tensions reach a boiling point, and the true nature of the evil lurking on Crockett Island is revealed.",
+            "runningTime": "70 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/480p/Midnight.Mass.S01E06.Book.VI.Acts.of.the.Apostles.480p.NF.WEB-DL.x264.250MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/720p/Midnight.Mass.S01E06.Book.VI.Acts.of.the.Apostles.720p.NF.WEB-DL.x264.500MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/1080p/Midnight.Mass.S01E06.Book.VI.Acts.of.the.Apostles.1080p.NF.WE-DL.x264.6CH-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+              "poster": "YOUR_POSTER_URL_HERE",
+              "banner": "YOUR_BANNER_URL_HERE"
+            }
+          },
+          {
+            "title": "Book VII: Revelation",
+            "season": 1,
+            "episodeNumber": 7,
+            "description": "In the climactic season finale, the islanders face a night of terror and reckon with the consequences of their choices. As dawn breaks, a new beginning emerges from the ashes of destruction.",
+            "runningTime": "71 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/480p/Midnight.Mass.S01E07.Book.VII.Revelation.480p.NF.WEB-DL.x264.250MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/720p/Midnight.Mass.S01E07.Book.VII.Revelation.720p.NF.WEB-DL.x264.500MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/midnight-mass/sn-1/1080p/Midnight.Mass.S01E07.Book.VII.Revelation.1080p.NF.WE-DL.x264.6CH-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+              "poster": "YOUR_POSTER_URL_HERE",
+              "banner": "YOUR_BANNER_URL_HERE"
+            }
+          }
+        ]
+      }
+    ]
+  }

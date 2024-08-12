@@ -1,0 +1,83 @@
+[
+  {
+    "title": "10 Lives",
+    "url": "/browse/film/10-lives",
+    "description": "A pampered cat loses his ninth life and must learn to appreciate his remaining one while seeking help from a mystical being to restore his lost lives.",
+    "release_year": "2023",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/10-lives/10lives1.jpg",
+    "rating": "7+"
+  },
+  {
+    "title": "Big City Greens: The Movie - Spacecation",
+    "url": "/browse/film/big-city-greens-the-movie-spacecation",
+    "description": "After ruining his family's vacation before it can even begin, Cricket attempts to right his wrongs by volunteering his family for an experimental farming mission in space.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/big-city-greens-the-movie-spacecation/bigcitygreens1.jpg",
+    "rating": "7+"
+  },
+  {
+    "title": "Craig Before the Creek",
+    "url": "/browse/film/craig-before-the-creek",
+    "description": "Before he and his two best friends Kelsey and JP ruled the creek, Craig Williams was the new kid in town, desperate to make some friends. It's a brand-new summer in the neighborhood, and Craig's missing everything! So he sets out to make new friends, only to learn that's easier said than done.",
+    "release_year": "2023",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/craig-before-the-creek/craig1.jpg",
+    "rating": "7+"
+  },
+  {
+    "title": "Despicable Me 4",
+    "url": "/browse/film/despicable-me-4",
+    "description": "Gru, Lucy, Margo, Edith, and Agnes welcome a new member to the family, Gru Jr., who is intent on tormenting his dad. Gru faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, and the family is forced to go on the run.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/despicable-me-4/despicableme4-1.jpg",
+    "rating": "7+"
+  },
+  {
+    "title": "Dragonkeeper",
+    "url": "/browse/film/dragonkeeper",
+    "description": "The dragons of ancient China are on the brink of extinction; their only hope is a brave young girl on a perilous journey to save the last dragon egg.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/dragonkeeper/dragonkeeper1.jpg",
+    "rating": "7+"
+  },
+  {
+    "title": "Kung Fu Panda 4",
+    "url": "/browse/film/kung-fu-panda-4",
+    "description": "Po faces his most formidable enemy yet: the Chameleon, a cunning sorceress who can summon villains from the past. Po must confront these old foes anew while searching for and training the next Dragon Warrior.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/kung-fu-panda-4/kungfupanda4_1.jpg",
+    "rating": "13+"
+  },
+  {
+    "title": "Smallfoot",
+    "url": "/browse/film/smallfoot",
+    "description": "A yeti is convinced that the elusive creatures known as \"smallfoot\" (humans) really do exist.",
+    "release_year": "2018",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/smallfoot/smallfoot1.jpg",
+    "rating": "12+"
+  },
+  {
+    "title": "The Garfield Movie",
+    "url": "/browse/film/the-garfield-movie",
+    "description": "After an unexpected reunion with his long-lost father, Vic, a streetwise cat, Garfield is forced to leave his comfortable life behind and embark on a crazy heist with Vic and Odie.",
+    "release_year": "2024",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/the-garfield-movie/garfieldmovie1.jpg",
+    "rating": "7+"
+  },
+  {
+    "title": "Wish",
+    "url": "/browse/film/wish",
+    "description": "A young girl named Asha makes a wish so powerful that it is answered by a cosmic force, a little ball of boundless energy called Star. Together, they face the most formidable of foes to save her community and prove that when the will of a courageous human connects with the magic of the stars, wondrous things can happen.",
+    "release_year": "2023",
+    "seasons": 1,
+    "bannerImage": "/assets/images/titles/wish/wish1.jpg",
+    "rating": "7+"
+  }
+]

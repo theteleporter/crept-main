@@ -1,0 +1,95 @@
+{
+    "title": "Smallfoot",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Musical",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "A yeti is convinced that the elusive creatures known as \"smallfoot\" (humans) really do exist.",
+    "release_year": "2018",
+    "seasons": 1,
+    "time": 96,
+    "rating": "12+", 
+    "url": "/browse/film/smallfoot",
+    "bannerImage": "/assets/images/titles/smallfoot/smallfoot1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Channing Tatum", "character": "Migo (voice)" },
+      { "name": "James Corden", "character": "Percy Patterson (voice)" },
+      { "name": "Zendaya", "character": "Meechee (voice)" },
+      { "name": "Common", "character": "Stonekeeper (voice)" },
+      { "name": "LeBron James", "character": "Gwangi (voice)" },
+      { "name": "Gina Rodriguez", "character": "Kolka (voice)" },
+      { "name": "Danny DeVito", "character": "Dorgle (voice)" },
+      { "name": "Yara Shahidi", "character": "Brenda (voice)" },
+      { "name": "Ely Henry", "character": "Fleem (voice)" },
+      { "name": "Jimmy Tatro", "character": "Thorp (voice)" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Smallfoot Image",
+        "url": "../../assets/images/titles/smallfoot/smallfoot1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/smallfoot/smallfoot2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=uGqG2pjm5QU"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/abominable/abominable1.jpg",
+        "urlTo": "/browse/film/abominable",
+        "imageTitle": "Abominable"
+      },
+      {
+        "imageUrl": "/assets/images/titles/monsters-inc/monstersinc1.jpg",
+        "urlTo": "/browse/film/monsters-inc",
+        "imageTitle": "Monsters, Inc."
+      },
+      {
+        "imageUrl": "/assets/images/titles/moana/moana1.jpg",
+        "urlTo": "/browse/film/moana",
+        "imageTitle": "Moana"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Smallfoot",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "A yeti is convinced that the elusive creatures known as \"smallfoot\" (humans) really do exist.",
+            "runningTime": "96 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/small-foot/Smallfoot.2018.480p.BluRay.x264.450MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/small-foot/Smallfoot.2018.720p.BluRay.x264.900MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/small-foot/Smallfoot.2018.1080p.BluRay.x264.DD+5.1-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/smallfoot/smallfoot1.jpg",
+              "poster": "../../assets/images/titles/smallfoot/smallfoot2.jpg",
+              "banner": "../../assets/images/titles/smallfoot/smallfoot3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

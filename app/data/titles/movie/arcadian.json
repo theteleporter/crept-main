@@ -1,0 +1,96 @@
+{
+    "title": "Arcadian",
+    "genres": [
+        "Action",
+        "Horror",
+        "Thriller",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "A father and his twin teenage sons fight to survive in a remote farmhouse at the end of the world.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 104,
+    "rating": "18+",
+    "url": "/browse/film/arcadian",
+    "bannerImage": "/assets/images/titles/arcadian/arcadian1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Nicolas Cage",
+            "character": "Paul"
+        },
+        {
+            "name": "Jaeden Martell",
+            "character": "Joseph"
+        },
+        {
+            "name": "Maxwell Jenkins",
+            "character": "Thomas"
+        },
+        {
+            "name": "Sadie Soverall",
+            "character": "Olivia"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Arcadian",
+            "url": "/assets/images/titles/arcadian/arcadian1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/arcadian/arcadian2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/ag6yZIRX6EI?si=U34_7SbnpRzyN6hc" 
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/a-quiet-place/aquietplace1.jpg",
+            "urlTo": "/browse/film/a-quiet-place",
+            "imageTitle": "A Quiet Place"
+        },
+        {
+            "imageUrl": "/assets/images/titles/bird-box/birdbox1.jpg",
+            "urlTo": "/browse/film/bird-box",
+            "imageTitle": "Bird Box"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-road/theroad1.jpg",
+            "urlTo": "/browse/film/the-road",
+            "imageTitle": "The Road"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Arcadian",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "A father and his twin teenage sons fight to survive in a remote farmhouse at the end of the world.",
+                    "runningTime": "104 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Arcadian.2024/Arcadian.2024.720p.WEB-DL.YIFY.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Arcadian.2024/Arcadian.2024.1080p.WEB-DL.6CH.YIFY.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/arcadian/arcadian1.jpg",
+                        "poster": "/assets/images/titles/arcadian/arcadian2.jpg",
+                        "banner": "/assets/images/titles/arcadian/arcadian3.jpg" 
+                    }
+                }
+            ]
+        }
+    ]
+}

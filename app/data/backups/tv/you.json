@@ -1,0 +1,886 @@
+{
+  "title": "You",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Thriller",
+    "Binge",
+    "Tv Show",
+    "Films",
+    "All"
+  ],
+  "trending": "#1 Trending",
+  "description": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+  "release_year": "2018",
+  "seasons": 4,
+  "time": 45,
+  "rating": "18+",
+  "url": "/browse/title/you",
+  "bannerImage": "/assets/images/titles/you/hSNwv0Zi15S6bYgCSt4vljuvm6G.jpg",
+  "language": "En",
+  "country": "US",
+  "number_of_episodes": "30",
+  "cast": [
+    {
+      "name": "Penn Badgley",
+      "character": "Joe Goldberg"
+    },
+    {
+      "name": "Victoria Pedretti",
+      "character": "Love Quinn"
+    },
+    {
+      "name": "Ambyr Childers",
+      "character": "Candace Stone"
+    },
+    {
+      "name": "James Scully",
+      "character": "Forty Quinn"
+    },
+    {
+      "name": "Jenna Ortega",
+      "character": "Ellie Alves"
+    },
+    {
+      "name": "Carmela Zumbado",
+      "character": "Delilah Alves"
+    },
+    {
+      "name": "Robin Lord Taylor",
+      "character": "Will Bettelheim"
+    },
+    {
+      "name": "Shalita Grant",
+      "character": "Sherry Conrad"
+    },
+    {
+      "name": "Travis Van Winkle",
+      "character": "Cary Conrad"
+    },
+    {
+      "name": "Adwin Brown",
+      "character": "Calvin"
+    },
+    {
+      "name": "Dylan Arnold",
+      "character": "Theo Engler"
+    },
+    {
+      "name": "Tati Gabrielle",
+      "character": "Marienne"
+    }
+  ],
+  "imagesUrl": [
+    {
+      "title": "You Image",
+      "url": "../../assets/images/titles/you/you1.jpg"
+    },
+    {
+      "title": "You Image",
+      "url": "../../assets/images/titles/you/you2.jpg"
+    },
+    {
+      "title": "You Image",
+      "url": "../../assets/images/titles/you/you3.jpg"
+    },
+    {
+      "title": "You Image",
+      "url": "../../assets/images/titles/you/you4.jpg"
+    }
+  ],
+  "more-like": [
+    {
+      "imageUrl": "/assets/images/titles/maniac/maniac1.jpg",
+      "urlTo": "/browse/title/maniac",
+      "imageTitle": "Maniac"
+    },
+    {
+      "imageUrl": "/assets/images/titles/lucifer/lucifer15.jpg",
+      "urlTo": "/browse/title/lucifer",
+      "imageTitle": "Lucifer"
+    },
+    {
+      "imageUrl": "/assets/images/titles/13reasonswhy/13reasonswhy1.jpg",
+      "urlTo": "/browse/title/13-reasons-why",
+      "imageTitle": "13 Reasons Why"
+    },
+    {
+      "imageUrl": "/assets/images/titles/charmed/charmed3.jpg",
+      "urlTo": "/browse/title/charmed",
+      "imageTitle": "Charmed"
+    },
+    {
+      "imageUrl": "/assets/images/titles/therecruit/therecruit1.jpg",
+      "urlTo": "/browse/title/the-recruit",
+      "imageTitle": "The Recruit"
+    },
+    {
+      "imageUrl": "/assets/images/titles/killingeve/killingeve1.jpg",
+      "urlTo": "/browse/title/killing-eve",
+      "imageTitle": "Killing Eve"
+    },
+    {
+      "imageUrl": "/assets/images/titles/dahmer/dahmer1.jpg",
+      "urlTo": "/browse/title/dahmer",
+      "imageTitle": "Dahmer"
+    },
+    {
+      "imageUrl": "/assets/images/titles/tellmelies/tellmelies1.jpg",
+      "urlTo": "/browse/title/tell-me-lies",
+      "imageTitle": "Tell Me Lies"
+    },
+    {
+      "imageUrl": "/assets/images/titles/thewitcher/thewitcher1.jpg",
+      "urlTo": "/browse/title/the-witcher",
+      "imageTitle": "The Witcher"
+    },
+    {
+      "imageUrl": "/assets/images/titles/prettylittleliarsoriginalsin/pLL1.jpg",
+      "urlTo": "/browse/title/pretty-little-liars-original-sin",
+      "imageTitle": "Pretty Little Liars: Original Sin"
+    },
+    {
+      "imageUrl": "/assets/images/titles/lupin/lupin1.jpg",
+      "urlTo": "/browse/title/lupin",
+      "imageTitle": "Lupin"
+    },
+    {
+      "imageUrl": "/assets/images/titles/moneyheist/moneyheist1.jpg",
+      "urlTo": "/browse/title/la-casa-de-papel",
+      "imageTitle": "La Casa De Papel"
+    }
+  ],
+  "trailers": [
+    {
+      "season": [
+        {
+          "title": "Season 1 Trailer",
+          "imageUrl": "../../assets/images/titles/you/you4.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/57LVe4H0QNc?si=PQ0CUAtOWtHWwmTw"
+        },
+        {
+          "title": "Season 2 Trailer",
+          "imageUrl": "../../assets/images/titles/you/you1.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/WlxjKZLBS9Y?si=eVWuMnb7JKsvIU0W"
+        },
+        {
+          "title": "Season 2 Trailer 2",
+          "imageUrl": "../../assets/images/titles/you/you2.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/R-rtAvovvl0?si=IVVwHtZjo83E03ed"
+        },
+        {
+          "title": "Season 3 Trailer",
+          "imageUrl": "../../assets/images/titles/you/you11.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/E_8VA2Cb1eA?si=YsJ2hcp9TDs-NMUx"
+        },
+        {
+          "title": "Season 4 Trailer 1",
+          "imageUrl": "../../assets/images/titles/you/you10.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/KdIcoJklQZc?si=Yqg0H7TQAsdUc0wZ"
+        },
+        {
+          "title": "Season 4 Part 2 Teaser",
+          "imageUrl": "../../assets/images/titles/you/AAAABRxdmGXXXN2Pt3jkpGpDX7HmMHyVjTSqPf8nARQKuPVyoxWxUUvP_UyoeOBHou2g60TExQOkcEjhUcpKNEt0vu5YdIGrI61vZFg7Z6hFp6CQJJO-lN205Ur_.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/umew6Up8h6c?si=tKKOcBbq2HNbsNcd"
+        },
+        {
+          "title": "Season 4 Part 2 Trailer",
+          "imageUrl": "../../assets/images/titles/you/2ZNFu0hkSVtAI6LRWGIlCPNd1Tj.jpg",
+          "trailerUrl": "https://www.youtube.com/embed/KwiKGE3PTYk?si=KX1OTRyOl4ctkfok"
+        }
+      ]
+    }
+  ],
+  "seasonsEpisode": [
+    {
+      "title": "Season 1",
+      "episodes": [
+        {
+          "title": "Pilot",
+          "season": 1,
+          "episodeNumber": 1,
+          "description": "A charming first encounter quickly turns into something more nefarious when bookstore manager Joe takes a very strong liking to grad student Beck.",
+          "runningTime": "48 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/480p/you.s01e01.uncensored.480p.nf.web-dl.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/720p/YOU.S01E01.Pilot.720p.WEB-HD.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/1080p/YOU.S01E01.Pilot.1080p.WEB-HD.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Last Nice Guy In New York",
+          "season": 1,
+          "episodeNumber": 2,
+          "description": "As Beck deals with unwanted advances from her advisor, she brings Joe to Peach's high society soiree. Joe tries to navigate matters with Benji.",
+          "runningTime": "44 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/480p/you.s01e02.uncensored.480p.nf.web-dl.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/720p/YOU.S01E02.The.Last.Nice.Guy.In.New.York.720p.WEB-HD.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/1080p/YOU.S01E02.The.Last.Nice.Guy.in.New.York.1080p.WEB-HD.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Maybe",
+          "season": 1,
+          "episodeNumber": 3,
+          "description": "Beck's continued casual encounters catch Joe off guard, as does a run-in with the police. Both make him realize a key situation must be dealt with.",
+          "runningTime": "42 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/480p/you.s01e03.uncensored.480p.nf.web-dl.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/720p/YOU.S01E03.Maybe.720p.WEB-HD.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/1080p/YOU.S01E03.Maybe.1080p.WEB-HD.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Captain",
+          "season": 1,
+          "episodeNumber": 4,
+          "description": "Joe does everything in his power to win Beck over, but she's stuck on her ex, Benji. When she asks him to kill the cockroach in her bathroom, he has the chance to prove himself.",
+          "runningTime": "45 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/480p/you.s01e04.uncensored.480p.nf.web-dl.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/720p/YOU.S01E04.The.Captain.720p.WEB-HD.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/1080p/YOU.S01E04.The.Captain.1080p.WEB-HD.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Living with the Enemy",
+          "season": 1,
+          "episodeNumber": 5,
+          "description": "Beck moves in with Joe, but she's on edge, knowing that living together means Joe could discover the truth about her. Her best friend Peach has her own suspicions about Joe.",
+          "runningTime": "47 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/480p/you.s01e05.uncensored.480p.nf.web-dl.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/720p/YOU.S01E05.Living.with.the.Enemy.720p.WEB-HD.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/1080p/YOU.S01E05.Living.with.the.Enemy.1080p.WEB-HD.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Amour Fou",
+          "season": 1,
+          "episodeNumber": 6,
+          "description": "Joe's obsessive relationship with Beck starts to take its toll. He watches over her apartment, determined to protect her, but her actions push him to the edge.",
+          "runningTime": "41 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/480p/you.s01e06.uncensored.480p.nf.web-dl.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/720p/YOU.S01E06.Amour.Fou.720p.WEB-HD.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/1080p/YOU.S01E06.Amour.Fou.1080p.WEB-HD.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Everythingship",
+          "season": 1,
+          "episodeNumber": 7,
+          "description": "Joe and Beck's burgeoning relationship is put to the test when Beck's ex, Benji, returns. Joe decides to take drastic action to remove Benji from the picture.",
+          "runningTime": "46 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/480p/you.s01e07.uncensored.480p.nf.web-dl.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/720p/YOU.S01E07.Everythingship.720p.WEB-HD.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/1080p/YOU.S01E07.Everythingship.1080p.WEB-HD.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "You Got Me, Babe",
+          "season": 1,
+          "episodeNumber": 8,
+          "description": "Joe realizes he must take drastic steps to protect himself and Beck. Meanwhile, Beck has a surprising visitor of her own.",
+          "runningTime": "49 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/480p/you.s01e08.uncensored.480p.nf.web-dl.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/720p/YOU.S01E08.You.Got.Me.Babe.720p.WEB-HD.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/1080p/YOU.S01E08.YOU.Got.Me.Babe.1080p.WEB-HD.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Candace",
+          "season": 1,
+          "episodeNumber": 9,
+          "description": "Joe's past catches up with him as his pursuit of Beck becomes obsessive. He must confront his darkest fears and secrets.",
+          "runningTime": "50 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/480p/you.s01e09.uncensored.480p.nf.web-dl.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/720p/YOU.S01E09.Candace.720p.WEB-HD.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/1080p/YOU.S01E09.Candace.1080p.WEB-HD.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Bluebeard's Castle",
+          "season": 1,
+          "episodeNumber": 10,
+          "description": "In the gripping season finale, Joe's love for Beck reaches its peak as he prepares to eliminate anyone standing in their way.",
+          "runningTime": "48 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/480p/you.s01e10.uncensored.repack.480p.nf.web-dl.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/720p/YOU.S01E10.Bluebeards.Castle.720p.WEB-HD.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-1/1080p/YOU.S01E10.Bluebeards.Castle.1080p.WEB-HD.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Season 2",
+      "episodes": [
+        {
+          "title": "A Fresh Start",
+          "season": 2,
+          "episodeNumber": 1,
+          "description": "Joe moves to Los Angeles to escape his troubled past and meets a new love interest, but old habits die hard.",
+          "runningTime": "50 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/480p/You.S02E01.A.Fresh.Start.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/720p/You.S02E01.A.Fresh.Start.720p.NF.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/1080p/You.S02E01.1080p.NF.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Just the Tip",
+          "season": 2,
+          "episodeNumber": 2,
+          "description": "Joe's new relationship takes a dark turn when he becomes entangled in the lives of those around him.",
+          "runningTime": "45 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/480p/You.S02E02.Just.the.Tip.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/720p/You.S02E02.Just.the.Tip.720p.NF.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/1080p/You.S02E02.1080p.NF.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "What Are Friends For?",
+          "season": 2,
+          "episodeNumber": 3,
+          "description": "Joe's attempts to integrate into a new community lead to unexpected consequences.",
+          "runningTime": "47 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/480p/You.S02E03.What.Are.Friends.For.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/720p/You.S02E03.What.Are.Friends.For.720p.NF.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/1080p/You.S02E03.1080p.NF.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Good, The Bad, & The Hendy",
+          "season": 2,
+          "episodeNumber": 4,
+          "description": "Joe struggles to contain his darker impulses as he gets drawn into a troubling situation with his new neighbor.",
+          "runningTime": "46 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/480p/You.S02E04.The.Good.the.Bad.and.the.Hendy.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/720p/You.S02E04.The.Good.the.Bad.and.the.Hendy.720p.NF.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/1080p/You.S02E04.1080p.NF.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Have a Good Wellkend, Joe!",
+          "season": 2,
+          "episodeNumber": 5,
+          "description": "Joe navigates a new relationship while confronting his past. Love's brother Forty grows increasingly suspicious.",
+          "runningTime": "49 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/480p/You.S02E05.Have.a.Good.Wellkend.Joe.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/720p/You.S02E05.Have.a.Good.Wellkend.Joe.720p.NF.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/1080p/You.S02E05.1080p.NF.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Farewell, My Bunny",
+          "season": 2,
+          "episodeNumber": 6,
+          "description": "Joe becomes fixated on a new target while Love struggles with a troubled past. Forty's antics cause problems for everyone.",
+          "runningTime": "44 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/480p/You.S02E06.Farewell.My.Bunny.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/720p/You.S02E06.Farewell.My.Bunny.720p.NF.WEB-DL.x264.300MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/1080p/You.S02E06.1080p.NF.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Ex-istential Crisis",
+          "season": 2,
+          "episodeNumber": 7,
+          "description": "Joe faces unexpected consequences from his past actions. Love reveals her true nature, leaving Joe in a difficult position.",
+          "runningTime": "51 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/480p/You.S02E07.Ex-istential.Crisis.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/720p/You.S02E07.Ex-istential.Crisis.720p.NF.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/1080p/You.S02E07.1080p.NF.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Fear and Loathing in Beverly Hills",
+          "season": 2,
+          "episodeNumber": 8,
+          "description": "Joe grapples with his feelings for Love and must confront his deepest fears. Secrets come to light as tensions rise.",
+          "runningTime": "48 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/480p/You.S02E08.Fear.and.Loathing.in.Beverly.Hills.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/720p/You.S02E08.Fear.and.Loathing.in.Beverly.Hills.720p.NF.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/1080p/You.S02E08.1080p.NF.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "P.I. Joe",
+          "season": 2,
+          "episodeNumber": 9,
+          "description": "Joe goes to great lengths to protect Love, but his actions have unintended consequences. Forty's obsession puts everyone in danger.",
+          "runningTime": "53 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/480p/You.S02E09.P.I.Joe.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/720p/You.S02E09.P.I.Joe.720p.NF.WEB-DL.x264.300MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/1080p/You.S02E09.1080p.NF.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Love, Actually",
+          "season": 2,
+          "episodeNumber": 10,
+          "description": "In the explosive season finale, Joe's past catches up with him as Love's true nature is revealed.",
+          "runningTime": "51 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/480p/You.S02E10.Love.Actually.480p.NF.WEB-DL.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/720p/You.S02E10.Love.Actually.720p.NF.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-2/1080p/You.S02E10.1080p.NF.WEBRip.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Season 3",
+      "episodes": [
+        {
+          "title": "And They Lived Happily Ever After",
+          "season": 3,
+          "episodeNumber": 1,
+          "description": "Joe and Love start a new life in a new town, but Joe's past continues to haunt him and threatens their future.",
+          "runningTime": "55 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/480p/You.S03E01.And.They.Lived.Happily.Ever.After.480p.WEB-DL.x264.200MB-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/720p/You.S03E01.And.They.Lived.Happily.Ever.After.720p.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/1080p/You.S03E01.And.They.Lived.Happily.Ever.After.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "What Are Friends For?",
+          "season": 3,
+          "episodeNumber": 2,
+          "description": "Joe's attempts to integrate into the community lead to unexpected consequences.",
+          "runningTime": "48 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/480p/You.S03E02.So.I.Married.an.Axe.Murderer.480p.WEB-DL.x264.200MB-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/720p/You.S03E02.So.I.Married.an.Axe.Murderer.720p.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/1080p/You.S03E02.So.I.Married.an.Axe.Murderer.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "So I Married An Axe Murderer",
+          "season": 3,
+          "episodeNumber": 3,
+          "description": "Joe grapples with Love's secrets while trying to maintain a sense of normalcy. The past catches up with both of them.",
+          "runningTime": "52 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/480p/You.S03E03.Missing.White.Woman.Syndrome.480p.WEB-DL.x264.175MB-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/720p/You.S03E03.Missing.White.Woman.Syndrome.720p.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/1080p/You.S03E03.Missing.White.Woman.Syndrome.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Born Bad",
+          "season": 3,
+          "episodeNumber": 4,
+          "description": "Love's actions put Joe in a difficult position. He must confront his own desires and fears as he faces an unexpected enemy.",
+          "runningTime": "50 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/480p/You.S03E04.Hands.Across.Madre.Linda.480p.WEB-DL.x264.175MB-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/720p/You.S03E04.Hands.Across.Madre.Linda.720p.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/1080p/You.S03E04.Hands.Across.Madre.Linda.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Magicians",
+          "season": 3,
+          "episodeNumber": 5,
+          "description": "Joe's obsession with Love takes a dark turn as he discovers shocking truths. The consequences of his actions threaten to unravel everything.",
+          "runningTime": "49 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/480p/You.S03E05.Into.the.Woods.480p.WEB-DL.x264.175MB-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/720p/You.S03E05.Into.the.Woods.720p.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/1080p/You.S03E05.Into.the.Woods.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "What Money Can't Buy",
+          "season": 3,
+          "episodeNumber": 6,
+          "description": "Joe tries to protect Love from her own mistakes, but his actions have unintended consequences. He must confront his own darkness.",
+          "runningTime": "47 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/480p/You.S03E06.W.O.M.B.480p.WEB-DL.x264.200MB-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/720p/You.S03E06.W.O.M.B.720p.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/1080p/You.S03E06.W.O.M.B.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Swing and a Miss",
+          "season": 3,
+          "episodeNumber": 7,
+          "description": "Joe's past comes back to haunt him as he struggles to protect Love and their family. Secrets are revealed, and choices must be made.",
+          "runningTime": "51 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/480p/You.S03E07.Were.All.Mad.Here.480p.WEB-DL.x264.200MB-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/720p/You.S03E07.Were.All.Mad.Here.720p.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/1080p/You.S03E07.Were.All.Mad.Here.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "What's Love Got to Do with It?",
+          "season": 3,
+          "episodeNumber": 8,
+          "description": "Love's true nature is exposed as Joe faces a devastating realization. He must make a difficult choice that will change everything.",
+          "runningTime": "48 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/480p/You.S03E08.Swing.and.a.Miss.480p.WEB-DL.x264.200MB-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/720p/You.S03E08.Swing.and.a.Miss.720p.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/1080p/You.S03E08.Swing.and.a.Miss.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Kill",
+          "season": 3,
+          "episodeNumber": 9,
+          "description": "Joe's actions catch up with him as he confronts the consequences of his obsession. Love faces her own demons, leading to a shocking outcome.",
+          "runningTime": "50 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/480p/You.S03E09.Red.Flag.480p.WEB-DL.x264.175MB-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/720p/You.S03E09.Red.Flag.720p.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/1080p/You.S03E09.Red.Flag.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "What Is Love?",
+          "season": 3,
+          "episodeNumber": 10,
+          "description": "In the gripping season finale, Joe and Love's relationship reaches its breaking point. Secrets are exposed, and lives are changed forever.",
+          "runningTime": "52 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/480p/You.S03E10.What.Is.Love.480p.WEB-DL.x264.200MB-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/720p/You.S03E10.What.Is.Love.720p.WEB-DL.x264.450MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-3/1080p/You.S03E10.What.Is.Love.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Season 4",
+      "episodes": [
+        {
+          "title": "Joe Takes a Holiday",
+          "season": 4,
+          "episodeNumber": 1,
+          "description": "Joe Goldberg has started a new life in London under the alias Professor Jonathan Moore. He tries to resist his old urges but is drawn into the social circle of a privileged group of friends.",
+          "runningTime": "48 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-1/720p/You.S04E01.Joe.Takes.a.Holiday.720p.NF.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-1/1080p/You.S04E01.Joe.Takes.a.Holiday.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Portrait of the Artist",
+          "season": 4,
+          "episodeNumber": 2,
+          "description": "Joe receives a mysterious text message and tries to figure out who's behind it. He develops an interest in one of his students, Kate, who is dating his new friend Malcolm.",
+          "runningTime": "46 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-1/720p/You.S04E02.Portrait.of.the.Artist.720p.NF.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-1/1080p/You.S04E02.Portrait.of.the.Artist.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Eat the Rich",
+          "season": 4,
+          "episodeNumber": 3,
+          "description": "After a shocking event at a party, Joe tries to distance himself from his new friends. However, he finds himself drawn back into their lives as he investigates the murder of Malcolm.",
+          "runningTime": "50 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-1/720p/You.S04E03.Eat.the.Rich.720p.NF.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-1/1080p/You.S04E03.Eat.the.Rich.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Hampsie",
+          "season": 4,
+          "episodeNumber": 4,
+          "description": "Joe follows Kate to her family's estate in the countryside. He learns more about her past and tries to piece together the mystery of who is targeting his new friends.",
+          "runningTime": "46 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-1/720p/You.S04E04.Hampsie.720p.NF.WEB-DL.x264.450MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-1/1080p/You.S04E04.Hampsie.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Fox and the Hound",
+          "season": 4,
+          "episodeNumber": 5,
+          "description": "The stakes rise as Joe becomes both hunter and hunted. He uncovers the identity of the killer, but must race against time to save himself and those he cares about.",
+          "runningTime": "52 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-1/720p/You.S04E05.The.Fox.and.the.Hound.720p.NF.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-1/1080p/You.S04E05.The.Fox.and.the.Hound.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Best Friends",
+          "season": 4,
+          "episodeNumber": 6,
+          "description": "Joe discovers more about Rhys' dark side and is forced to confront his own complicity in the recent events. Meanwhile, Marienne's arrival in London complicates things further.",
+          "runningTime": "50 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-2/720p/You.S04E06.Best.of.Friends.720p.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-2/1080p/You.S04E06.Best.of.Friends.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Good Man, Bad Man",
+          "season": 4,
+          "episodeNumber": 7,
+          "description": "Joe and Kate grow closer as they work together to investigate Rhys' true identity. However, their relationship is tested as Joe's past threatens to resurface.",
+          "runningTime": "46 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-2/720p/You.S04E07.Good.Man.Cruel.World.720p.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-2/1080p/You.S04E07.Good.Man.Cruel.World.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "Where Are You Going, Where Have You Been?",
+          "season": 4,
+          "episodeNumber": 8,
+          "description": "Joe uncovers a shocking truth about Rhys that changes everything he thought he knew. He embarks on a desperate mission to stop Rhys, but his own sanity begins to unravel.",
+          "runningTime": "52 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-2/720p/You.S04E08.Where.Are.You.Going.Where.Have.You.Been.720p.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-2/1080p/You.S04E08.Where.Are.You.Going.Where.Have.You.Been.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "She's Not There",
+          "season": 4,
+          "episodeNumber": 9,
+          "description": "Joe is forced to confront the darkness within himself as he faces the consequences of his actions. He must make a life-altering decision to protect the people he cares about.",
+          "runningTime": "49 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-2/720p/You.S04E09.Shes.Not.There.720p.WEB-DL.x264.350MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-2/1080p/You.S04E09.Shes.Not.There.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        },
+        {
+          "title": "The Death of Jonathan Moore",
+          "season": 4,
+          "episodeNumber": 10,
+          "description": "In the season finale, Joe's journey comes full circle as he faces his ultimate challenge. The truth is revealed, and the lines between love, obsession, and redemption become blurred.",
+          "runningTime": "54 min",
+          "videoQuality": {
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-2/720p/You.S04E10.The.Death.of.Jonathan.Moore.720p.WEB-DL.x264.400MB-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/you/sn-4/part-2/1080p/You.S04E10.The.Death.of.Jonathan.Moore.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+            "poster": "YOUR_POSTER_URL_HERE",
+            "banner": "YOUR_BANNER_URL_HERE"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+    "title": "The First Omen",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Supernatural",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "A woman starts to question her own faith when she uncovers a terrifying conspiracy to bring about the birth of evil incarnate in Rome.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 114,
+    "rating": "18+", 
+    "url": "/browse/film/the-first-omen",
+    "bannerImage": "/assets/images/titles/the-first-omen/thefirstomen1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Nell Tiger Free", "character": "Sister Margaret" },
+      { "name": "Ralph Ineson", "character": "Father Brennan" },
+      { "name": "Sônia Braga", "character": "Sister Silva" },
+      { "name": "Tawfeek Barhom", "character": "Father Gabriel" },
+      { "name": "Maria Caballero", "character": "Luz" },
+      { "name": "Bill Nighy", "character": "Cardinal Lawrence" },
+      { "name": "Rachel Hurd-Wood", "character": "Katherine Thorn" },
+      { "name": "Anton Alexander", "character": "Father Spiletto" },
+      { "name": "Ishtar Currie-Wilson", "character": "Sister Anjelica" },
+      { "name": "Andrea Arcangeli", "character": "Brother Michael" },
+      { "name": "Nicola Soraci", "character": "Carlita" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "The First Omen Image",
+        "url": "../../assets/images/titles/the-first-omen/thefirstomen1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/the-first-omen/thefirstomen2.jpg",
+            "trailerUrl": "https://www.youtube.com/embed/lmN1Op8ygno?si=vosviHEzGWywIDxn"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/the-omen/theomen1.jpg",
+        "urlTo": "/browse/film/the-omen",
+        "imageTitle": "The Omen"
+      },
+      {
+        "imageUrl": "/assets/images/titles/the-exorcist/theexorcist1.jpg",
+        "urlTo": "/browse/film/the-exorcist",
+        "imageTitle": "The Exorcist"
+      },
+      {
+        "imageUrl": "/assets/images/titles/rosemary-s-baby/rosemarysbaby1.jpg",
+        "urlTo": "/browse/film/rosemary-s-baby",
+        "imageTitle": "Rosemary's Baby"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "The First Omen",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "A woman starts to question her own faith when she uncovers a terrifying conspiracy to bring about the birth of evil incarnate in Rome.",
+            "runningTime": "114 Min",
+            "videoQuality": {
+              "720p": "https://dl3.tabar.sbs/Dubbed/Movies/The.First.Omen.2024/The.First.Omen.2024.720p.WEB-DL.Pahe.Dubbed.EBTV.mkv",
+              "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/The.First.Omen.2024/The.First.Omen.2024.1080p.WEB-DL.6CH.Pahe.Dubbed.EBTV.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/the-first-omen/thefirstomen1.jpg",
+              "poster": "../../assets/images/titles/the-first-omen/thefirstomen2.jpg",
+              "banner": "../../assets/images/titles/the-first-omen/thefirstomen3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

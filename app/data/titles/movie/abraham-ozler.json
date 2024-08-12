@@ -1,0 +1,117 @@
+{
+    "title": "Abraham Ozler",
+    "genres": [
+        "Crime",
+        "Thriller",
+        "Mystery",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "In the shadows of a chilling serial killer case, veteran cop Abraham Ozler confronts dark secrets and heinous acts, reshaping his own fate.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 142,  
+    "rating": "16+",
+    "url": "/browse/film/abraham-ozler",
+    "bannerImage": "/assets/images/titles/abraham-ozler/abrahamozler1.jpg",
+    "language": "Ml",  
+    "country": "IN",  
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Jayaram",
+            "character": "Abraham Ozler"
+        },
+        {
+            "name": "Mammootty",
+            "character": "Issac Ozler" 
+        },
+        {
+            "name": "Anaswara Rajan",
+            "character": "Dr. Sandra Mary Cherian"
+        },
+        {
+            "name": "Arjun Ashokan",
+            "character": "Dr. Arun Zachariah"
+        },
+        {
+            "name": "Anoop Menon",
+            "character": "DYSP Philip Samuel"
+        },
+        {
+            "name": "Saiju Kurup",
+            "character": "Circle Inspector Nandakumar"
+        },
+        {
+            "name": "Arya Salim",
+            "character": "Dr. Diana Philip"
+        },
+        {
+            "name": "Senthil Krishna",
+            "character": "Rajeev Madhavan"
+        },
+        {
+            "name": "Jagadish",
+            "character": "Zachariah"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Abraham Ozler",
+            "url": "/assets/images/titles/abraham-ozler/abrahamozler1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/abraham-ozler/abrahamozler2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/OT31_MJmKkc?si=hfR2d3XZRBA_VEV7"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/drishyam-2/drishyam2-1.jpg",
+            "urlTo": "/browse/film/drishyam-2",
+            "imageTitle": "Drishyam 2"
+        },
+        {
+            "imageUrl": "/assets/images/titles/theeran-adhigaaram-ondru/theeran1.jpg",
+            "urlTo": "/browse/film/theeran-adhigaaram-ondru",
+            "imageTitle": "Theeran Adhigaaram Ondru"
+        },
+        {
+            "imageUrl": "/assets/images/titles/vikram/vikram1.jpg",
+            "urlTo": "/browse/film/vikram",
+            "imageTitle": "Vikram"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Abraham Ozler",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "In the shadows of a chilling serial killer case, veteran cop Abraham Ozler confronts dark secrets and heinous acts, reshaping his own fate.",
+                    "runningTime": "142 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Abraham.Ozler.2024/Abraham.Ozler.2024.720p.WEB.DL.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Abraham.Ozler.2024/Abraham.Ozler.2024.1080p.WEB.DL.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/abraham-ozler/abrahamozler1.jpg",
+                        "poster": "/assets/images/titles/abraham-ozler/abrahamozler2.jpg",
+                        "banner": "/assets/images/titles/abraham-ozler/abrahamozler3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

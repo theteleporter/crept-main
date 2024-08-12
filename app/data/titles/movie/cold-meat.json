@@ -1,0 +1,89 @@
+{
+    "title": "Cold Meat",
+    "genres": [
+        "Horror",
+        "Thriller",
+        "Survival",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "David Petersen finds himself trapped in a snowy ravine during a blizzard after a car accident. While struggling to survive the harsh conditions, he realizes the cold is the least of his worries when a beast starts prowling outside.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 90,
+    "rating": "18+",
+    "url": "/browse/film/cold-meat",
+    "bannerImage": "/assets/images/titles/cold-meat/coldmeat1.jpg",
+    "language": "En",
+    "country": "CA", 
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Vernon Wells",
+            "character": "David Petersen"
+        },
+        {
+            "name": "Allen Altman",
+            "character": "The Beast"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Cold Meat",
+            "url": "/assets/images/titles/cold-meat/coldmeat1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/cold-meat/coldmeat2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/2plAaKbOCKc?si=oK4ca-RF6Clt9VGR"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/the-revenant/therevenant1.jpg",
+            "urlTo": "/browse/film/the-revenant",
+            "imageTitle": "The Revenant"
+        },
+        {
+            "imageUrl": "/assets/images/titles/frozen/frozen1.jpg",
+            "urlTo": "/browse/film/frozen",
+            "imageTitle": "Frozen"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-grey/thegrey1.jpg",
+            "urlTo": "/browse/film/the-grey",
+            "imageTitle": "The Grey"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Cold Meat",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "David Petersen finds himself trapped in a snowy ravine during a blizzard after a car accident. While struggling to survive the harsh conditions, he realizes the cold is the least of his worries when a beast starts prowling outside.",
+                    "runningTime": "90 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Cold.Meat.2023/Cold.Meat.2023.720p.WEB-DL.YIFY.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Cold.Meat.2023/Cold.Meat.2023.1080p.WEB-DL.YIFY.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/cold-meat/coldmeat1.jpg",
+                        "poster": "/assets/images/titles/cold-meat/coldmeat2.jpg",
+                        "banner": "/assets/images/titles/cold-meat/coldmeat3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

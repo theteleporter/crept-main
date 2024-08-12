@@ -1,0 +1,121 @@
+{
+    "title": "Mean Girls",
+    "genres": [
+        "Comedy",
+        "Teen",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "New student Cady Heron gets welcomed into the top of the social food chain by an elite group of popular girls called the Plastics, ruled by the conniving queen bee Regina George. However, when Cady makes the major misstep of falling for Regina's ex-boyfriend, she soon finds herself caught in their crosshairs.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 113,
+    "rating": "13+", 
+    "url": "/browse/film/mean-girls",
+    "bannerImage": "/assets/images/titles/mean-girls/meangirls1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+  {
+    "name": "Angourie Rice",
+    "character": "Cady Heron"
+  },
+  {
+    "name": "Reneé Rapp",
+    "character": "Regina George"
+  },
+  {
+    "name": "Tina Fey",
+    "character": "Ms. Norbury"
+  },
+  {
+    "name": "Avantika Vandanapu",
+    "character": "Karen Smith"
+  },
+  {
+    "name": "Bebe Wood",
+    "character": "Gretchen Wieners"
+  },
+  {
+    "name": "Auliʻi Cravalho",
+    "character": "Janis Ian"
+  },
+  {
+    "name": "Jaquel Spivey",
+    "character": "Damian Leigh"
+  },
+  {
+    "name": "Christopher Briney",
+    "character": "Aaron Samuels"
+  },
+  {
+    "name": "Busy Philipps",
+    "character": "Mrs. George"
+  },
+  {
+    "name": "Tim Meadows",
+    "character": "Principal Duvall"
+  }
+],
+    "imagesUrl": [
+        {
+            "title": "Mean Girls Image",
+            "url": "../../assets/images/titles/mean-girls/meangirls1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "../../assets/images/titles/mean-girls/meangirls2.jpg",
+                    "trailerUrl": "https://www.youtube.com/watch?v=KAOmTMCtGkI" 
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/clueless/clueless1.jpg",
+            "urlTo": "/browse/film/clueless",
+            "imageTitle": "Clueless"
+        },
+        {
+            "imageUrl": "/assets/images/titles/10-things-i-hate-about-you/10thingsihateaboutyou1.jpg",
+            "urlTo": "/browse/film/10-things-i-hate-about-you",
+            "imageTitle": "10 Things I Hate About You"
+        },
+        {
+            "imageUrl": "/assets/images/titles/bring-it-on/bringiton1.jpg",
+            "urlTo": "/browse/film/bring-it-on",
+            "imageTitle": "Bring It On"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "Mean Girls",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "New student Cady Heron gets welcomed into the top of the social food chain by an elite group of popular girls called the Plastics, ruled by the conniving queen bee Regina George. However, when Cady makes the major misstep of falling for Regina's ex-boyfriend, she soon finds herself caught in their crosshairs.",
+                    "runningTime": "97 Min",
+                    "videoQuality": {
+                        "480p": "https://spacestorageunit.blob.core.windows.net/container-x/mean-girls/Mean.Girls.2024.480p.BluRay.x264-crept.studio.mkv",
+                        "720p": "https://spacestorageunit.blob.core.windows.net/container-x/mean-girls/Mean.Girls.2024.720p.BluRay.x264-crept.studio.mkv",
+                        "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/mean-girls/Mean.Girls.2024.1080p.BluRay.x264.DD+7.1-crept.studio.mkv",
+                        "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/mean-girls/Mean.Girls.2024.2160p.UHD.BluRay.x265.HDR.DV.DD+7.1-crept.studio.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/mean-girls/meangirls1.jpg",
+                        "poster": "../../assets/images/titles/mean-girls/meangirls2.jpg",
+                        "banner": "../../assets/images/titles/mean-girls/meangirls3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}

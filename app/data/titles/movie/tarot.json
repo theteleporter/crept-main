@@ -1,0 +1,89 @@
+{
+    "title": "Tarot",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Supernatural",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "When a group of friends recklessly violates the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death to escape the future foretold in their readings.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 94,
+    "rating": "13+", 
+    "url": "/browse/film/tarot",
+    "bannerImage": "/assets/images/titles/tarot/tarot1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Harriet Slater", "character": "Haley" },
+      { "name": "Adain Bradley", "character": "Grant" },
+      { "name": "Avantika", "character": "Paige" },
+      { "name": "Wolfgang Novogratz", "character": "Paxton" },
+      { "name": "Humberly González", "character": "Lupe" },
+      { "name": "Larsen Thompson", "character": "Ali" },
+      { "name": "Olwen Fouéré", "character": "The Astrologer" },
+      { "name": "Jacob Batalon", "character": "The Fool" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Tarot Image",
+        "url": "../../assets/images/titles/tarot/tarot1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/tarot/tarot2.jpg",
+            "trailerUrl": "https://www.youtube.com/embed/bvDArsKoTOE?si=P6uVCHI6O7sGFY7o"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/wish-upon/wishupon1.jpg",
+        "urlTo": "/browse/film/wish-upon",
+        "imageTitle": "Wish Upon"
+      },
+      {
+        "imageUrl": "/assets/images/titles/truth-or-dare/truthordare1.jpg",
+        "urlTo": "/browse/film/truth-or-dare",
+        "imageTitle": "Truth or Dare"
+      },
+      {
+        "imageUrl": "/assets/images/titles/final-destination/finaldestination1.jpg",
+        "urlTo": "/browse/film/final-destination",
+        "imageTitle": "Final Destination"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Tarot",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "When a group of friends recklessly violates the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death to escape the future foretold in their readings.",
+            "runningTime": "94 Min",
+            "videoQuality": {
+              "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Tarot.2024/Tarot.2024.720p.WEB-DL.YIFY.Dubbed.EBTV.mkv",
+              "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Tarot.2024/Tarot.2024.1080p.WEB-DL.6CH.YIFY.Dubbed.EBTV.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/tarot/tarot1.jpg",
+              "poster": "../../assets/images/titles/tarot/tarot2.jpg",
+              "banner": "../../assets/images/titles/tarot/tarot3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

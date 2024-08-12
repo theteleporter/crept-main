@@ -1,0 +1,88 @@
+{
+    "title": "Mystic Singer",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "Ayu, with Sarinten's spirit, expelled from Banyuwangi, embodies the mystical figure in Trenggalek's Watu Kandang.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 100, 
+    "rating": "17+", 
+    "url": "/browse/film/mystic-singer",
+    "bannerImage": "/assets/images/titles/mystic-singer/mysticsinger1.jpg",
+    "language": "Id", 
+    "country": "ID",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Sitha Marino", "character": "Ayu" },
+      { "name": "Cindy Nirmala", "character": "Tantri" },
+      { "name": "Shareefa Daanish", "character": "Arum" },
+      { "name": "Mawar Eva de Jongh", "character": "Nina" },
+      { "name": "Rafael Adwel", "character": "Dimas" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Mystic Singer Image",
+        "url": "../../assets/images/titles/mystic-singer/mysticsinger1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/mystic-singer/mysticsinger1.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=l9zb5NHV98M"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/ratu_ilmu_hitam/ratu1.jpg",
+        "urlTo": "/browse/film/ratu-ilmu-hitam",
+        "imageTitle": "Ratu Ilmu Hitam"
+      },
+      {
+        "imageUrl": "/assets/images/titles/pengabdi_setan_2_communion/pengabdisetan21.jpg",
+        "urlTo": "/browse/film/pengabdi-setan-2-communion",
+        "imageTitle": "Pengabdi Setan 2: Communion"
+      },
+      {
+        "imageUrl": "/assets/images/titles/kalian_pantas_mati/kalian1.jpg",
+        "urlTo": "/browse/film/kalian-pantas-mati",
+        "imageTitle": "Kalian Pantas Mati"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Mystic Singer",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "Ayu, with Sarinten's spirit, expelled from Banyuwangi, embodies the mystical figure in Trenggalek's Watu Kandang.",
+            "runningTime": "100 Min", 
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/mystic-singer/Sinden.Gaib.2024.480p.NF.WEB-DL.x264.400MB-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/mystic-singer/Sinden.Gaib.2024.720p.NF.WEB-DL.x264.800MB-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/mystic-singer/Sinden.Gaib.2024.1080p.NF.WEB-DL.x264.AAC5.1-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/mystic-singer/mysticsinger1.jpg",
+              "poster": "../../assets/images/titles/mystic-singer/mysticsinger2.jpg",
+              "banner": "../../assets/images/titles/mystic-singer/mysticsinger1.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
+  

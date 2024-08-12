@@ -1,0 +1,104 @@
+{
+    "title": "Bloodline Killer",
+    "genres": [
+        "Horror",
+        "Thriller",
+        "Slasher",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "After the murder of her family at the hands of her deranged cousin, a woman struggles to rebuild her shattered life while being relentlessly pursued by the killer.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 93,
+    "rating": "18+",
+    "url": "/browse/film/bloodline-killer",
+    "bannerImage": "/assets/images/titles/bloodline-killer/bloodlinekiller1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Shawnee Smith",
+            "character": "Moira Cole"
+        },
+        {
+            "name": "James Gaudioso",
+            "character": "Connor Cole"
+        },
+        {
+            "name": "Drew Moerlein",
+            "character": "The Skeleton"
+        },
+        {
+            "name": "Bruce Dern",
+            "character": "Dr. Carver"
+        },
+        {
+            "name": "Tyrese Gibson",
+            "character": "Detective Cyphers"
+        },
+        {
+            "name": "Taryn Manning",
+            "character": "Sam Merton"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Bloodline Killer",
+            "url": "/assets/images/titles/bloodline-killer/bloodlinekiller1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/bloodline-killer/bloodlinekiller2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/ok46QVymwkU?si=TZw9aTYur9Wuj9kv"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/halloween/halloween1.jpg",
+            "urlTo": "/browse/film/halloween",
+            "imageTitle": "Halloween"
+        },
+        {
+            "imageUrl": "/assets/images/titles/friday-the-13th/fridaythe13th-1.jpg",
+            "urlTo": "/browse/film/friday-the-13th",
+            "imageTitle": "Friday the 13th"
+        },
+        {
+            "imageUrl": "/assets/images/titles/scream/scream1.jpg",
+            "urlTo": "/browse/film/scream",
+            "imageTitle": "Scream"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Bloodline Killer",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "After the murder of her family at the hands of her deranged cousin, a woman struggles to rebuild her shattered life while being relentlessly pursued by the killer.",
+                    "runningTime": "93 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Bloodline.Killer.2024/Bloodline.Killer.2024.720p.WEB-DL.YIFY.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Bloodline.Killer.2024/Bloodline.Killer.2024.1080p.WEB-DL.YIFY.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/bloodline-killer/bloodlinekiller1.jpg",
+                        "poster": "/assets/images/titles/bloodline-killer/bloodlinekiller2.jpg",
+                        "banner": "/assets/images/titles/bloodline-killer/bloodlinekiller3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}

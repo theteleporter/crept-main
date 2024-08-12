@@ -1,0 +1,105 @@
+{
+    "title": "End of the Rope",
+    "genres": [
+        "Western",
+        "Drama",
+        "History",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "When a family mysteriously disappears from the town of Schafer, North Dakota, suspicion lands on a sociopathic farmhand. Based on the true story of the infamous Charles Bannon case of 1931.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 109,
+    "rating": "13+",
+    "url": "/browse/film/end-of-the-rope",
+    "bannerImage": "/assets/images/titles/end-of-the-rope/endoftherope1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Kevin Makely",
+            "character": "Charles Bannon"
+        },
+        {
+            "name": "John Schuck",
+            "character": "C.A. Jacobson"
+        },
+        {
+            "name": "David DeLuise",
+            "character": "Doc"
+        },
+        {
+            "name": "Jason Tobias",
+            "character": "Virgil Bannon"
+        },
+        {
+            "name": "Jennifer DeLuise",
+            "character": "Annie Jacobson"
+        },
+        {
+            "name": "Trace Adkins",
+            "character": "Judge"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "End of the Rope",
+            "url": "/assets/images/titles/end-of-the-rope/endoftherope1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/end-of-the-rope/endoftherope2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/k8f5kPkbkk4?si=XqSVlgRvxAQt0inn"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/3-10-to-yuma/310toyuma1.jpg",
+            "urlTo": "/browse/film/3-10-to-yuma",
+            "imageTitle": "3:10 to Yuma"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-assassination-of-jesse-james-by-the-coward-robert-ford/assassination1.jpg",
+            "urlTo": "/browse/film/the-assassination-of-jesse-james-by-the-coward-robert-ford",
+            "imageTitle": "The Assassination of Jesse James by the Coward Robert Ford"
+        },
+        {
+            "imageUrl": "/assets/images/titles/true-grit/truegrit1.jpg",
+            "urlTo": "/browse/film/true-grit",
+            "imageTitle": "True Grit"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "End of the Rope",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "When a family mysteriously disappears from the town of Schafer, North Dakota, suspicion lands on a sociopathic farmhand. Based on the true story of the infamous Charles Bannon case of 1931.",
+                    "runningTime": "109 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/End.Of.The.Rope.2023/End.Of.The.Rope.2023.720p.WEB-DL.YTS.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/End.Of.The.Rope.2023/End.Of.The.Rope.2023.1080p.WEB-DL.YTS.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/end-of-the-rope/endoftherope1.jpg",
+                        "poster": "/assets/images/titles/end-of-the-rope/endoftherope2.jpg",
+                        "banner": "/assets/images/titles/end-of-the-rope/endoftherope3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

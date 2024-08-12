@@ -1,0 +1,101 @@
+{
+    "title": "Bad Lands",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "A fraudster and her loose-cannon brother get their hands on a huge sum of money. Their unjustified wealth grabs attention and makes them the target of dangerous people.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 124, 
+    "age": "18+", 
+    "url": "/browse/film/bad-lands",
+    "bannerImage": "/assets/images/titles/bad-lands/badlands1.jpg",
+    "language": "Ja", 
+    "country": "JP",
+    "number_of_episodes": 1,
+    "cast": [
+      {
+        "name": "Sakura Ando",
+        "character": "Neri"
+      },
+      {
+        "name": "Ryosuke Yamada",
+        "character": "Jo"
+      },
+      {
+        "name": "Katsuhisa Namase",
+        "character": "Shirai"
+      },
+      {
+        "name": "Yoshihara Mitsuo",
+        "character": "Ishibashi"
+      },
+      {
+        "name": "Yasumasa Oba",
+        "character": "Masuda"
+      }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Bad Lands Image",
+        "url": "../../assets/images/titles/bad-lands/badlands1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Trailer",
+            "imageUrl": "../../assets/images/titles/bad-lands/badlands2.jpg",
+            "trailerUrl": "https://www.youtube.com/watch?v=l9zb5NHV98M"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/the_outlaws/theoutlaws1.jpg",
+        "urlTo": "/browse/film/the-outlaws",
+        "imageTitle": "The Outlaws"
+      },
+      {
+        "imageUrl": "/assets/images/titles/animal_kingdom/animalkingdom1.jpg",
+        "urlTo": "/browse/film/animal-kingdom",
+        "imageTitle": "Animal Kingdom"
+      },
+      {
+        "imageUrl": "/assets/images/titles/widows/widows1.jpg",
+        "urlTo": "/browse/film/widows",
+        "imageTitle": "Widows"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Bad Lands",
+        "episodes": [
+          {
+            "title": "Bad Lands",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "A fraudster and her loose-cannon brother get their hands on a huge sum of money. Their unjustified wealth grabs attention and makes them the target of dangerous people.",
+            "runningTime": "124 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/bad-lands/Bad.Lands.2023.480p.BluRay.x264-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/bad-lands/Bad.Lands.2023.720p.BluRay.x264-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/bad-lands/Bad.Lands.2023.1080p.BluRay.x264.DD+5.1-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/bad-lands/badlands1.jpg",
+              "poster": "../../assets/images/titles/bad-lands/badlands2.jpg",
+              "banner": "../../assets/images/titles/bad-lands/badlands2.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,85 @@
+{
+    "title": "The Watchers",
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Thriller",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "When Mina, a solitary woman living in the Irish countryside, discovers she's being watched by something unseen, she is drawn into a terrifying battle for survival with a mysterious predator.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 100, 
+    "rating": "18+", 
+    "url": "/browse/film/the-watchers",
+    "bannerImage": "/assets/images/titles/the-watchers/thewatchers1.jpg",
+    "language": "En",
+    "country": "IE, US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Dakota Fanning", "character": "Mina" },
+      { "name": "Olwen Fouéré", "character": "Maire" },
+      { "name": "Georgina Campbell", "character": "Ciara" },
+      { "name": "Oliver Finnegan", "character": "Daniel" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "The Watchers Image",
+        "url": "../../assets/images/titles/the-watchers/thewatchers1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/the-watchers/thewatchers2.jpg",
+            "trailerUrl": "https://www.youtube.com/embed/dYo91Fq9tKY?si=y6dt7RM3vai0x6Ab"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/predator/predator1.jpg",
+        "urlTo": "/browse/film/predator",
+        "imageTitle": "Predator"
+      },
+      {
+        "imageUrl": "/assets/images/titles/signs/signs1.jpg",
+        "urlTo": "/browse/film/signs",
+        "imageTitle": "Signs"
+      },
+      {
+        "imageUrl": "/assets/images/titles/the-descent/thedescent1.jpg",
+        "urlTo": "/browse/film/the-descent",
+        "imageTitle": "The Descent"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "The Watchers",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "When Mina, a solitary woman living in the Irish countryside, discovers she's being watched by something unseen, she is drawn into a terrifying battle for survival with a mysterious predator.",
+            "runningTime": "100 Min",
+            "videoQuality": {
+              "720p": "https://dl3.tabar.sbs/Dubbed/Movies/The.Watchers.2024/The.Watchers.2024.720p.WEB-DL.Pahe.Dubbed.EBTV.mkv",
+              "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/The.Watchers.2024/The.Watchers.2024.1080p.WEB-DL.Pahe.Dubbed.EBTV.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/the-watchers/thewatchers1.jpg",
+              "poster": "../../assets/images/titles/the-watchers/thewatchers2.jpg",
+              "banner": "../../assets/images/titles/the-watchers/thewatchers3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

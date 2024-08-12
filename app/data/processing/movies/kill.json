@@ -1,0 +1,110 @@
+{
+    "title": "Kill",
+    "genres": [
+        "Action",
+        "Thriller",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "During a train trip to New Delhi, a pair of commandos face an army of invading bandits.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 105,
+    "rating": "18+",
+    "url": "/browse/film/kill",
+    "bannerImage": "/assets/images/titles/kill/kill1.jpg",
+    "language": "Hi",
+    "country": "IN",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Lakshya",
+            "character": "Amrit"
+        },
+        {
+            "name": "Raghav Juyal",
+            "character": "Dev"
+        },
+        {
+            "name": "Tanya Maniktala",
+            "character": "Tulika"
+        },
+        {
+            "name": "Ashish Vidyarthi",
+            "character": "Bhavani"
+        },
+        {
+            "name": "Harsh Chhaya",
+            "character": "Tulika's Father"
+        },
+        {
+            "name": "Zoa Morani",
+            "character": "Zoya"
+        },
+        {
+            "name": "Yashpal Sharma",
+            "character": "Yashpal"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Kill",
+            "url": "/assets/images/titles/kill/kill1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/kill/kill2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/da7lKeeS67c?si=Ch6jgRvKrJrMH1QJ" 
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/the-raid-2/raid2-1.jpg",
+            "urlTo": "/browse/film/the-raid-2",
+            "imageTitle": "The Raid 2"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-night-comes-for-us/night-comes-for-us-1.jpg",
+            "urlTo": "/browse/film/the-night-comes-for-us",
+            "imageTitle": "The Night Comes for Us"
+        },
+        {
+            "imageUrl": "/assets/images/titles/rurouni-kenshin/kenshin1.jpg",
+            "urlTo": "/browse/film/rurouni-kenshin",
+            "imageTitle": "Rurouni Kenshin"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "Kill",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "During a train trip to New Delhi, a pair of commandos face an army of invading bandits.",
+                    "runningTime": "105 Min",
+                    "videoQuality": {
+                        "480p": "https://dl4.tabar.sbs/English/Movies/Kill.2023/SoftSub/Kill.2024.480p.WEB-DL.Pahe.SoftSub.EBTV.mkv",
+                        "720p": "https://dl4.tabar.sbs/English/Movies/Kill.2023/Kill.2023.720p.WEB-DL.YIFY.EBTV.mp4",
+                        "1080p": "https://dl4.tabar.sbs/English/Movies/Kill.2023/Kill.2023.1080p.WEB-DL.6CH.YIFY.EBTV.mp4",
+                        "2160p": ""
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/kill/kill1.jpg",
+                        "poster": "/assets/images/titles/kill/kill2.jpg",
+                        "banner": "/assets/images/titles/kill/kill3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

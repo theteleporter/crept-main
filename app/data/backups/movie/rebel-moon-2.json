@@ -1,0 +1,147 @@
+{
+    "title": "Rebel Moon: Part Two: The Scargiver",
+    "genres": [
+        "Drama",
+        "Action",
+        "Science Fiction",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description":  "The Rebel gears up for battle against the Motherworld as unbreakable bonds are forged, heroes emerge and legends are made.",
+    "release_year": "2024",
+    "seasons": 2,
+    "time": 123,
+    "rating": "15+",
+    "url": "/browse/film/rebel-moon-2",
+    "bannerImage": "/assets/images/titles/rebel-moon/9LMMuQSxTlbrgSr4oGY4BQMMIaR.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": "2",
+    "cast": [
+        {
+            "name": "Sofia Boutella",
+            "character": "Kora"
+          },
+          {
+            "name": "Michiel Huisman",
+            "character": "Gunnar"
+          },
+          {
+            "name": "Ed Skrein",
+            "character": "Atticus Noble"
+          },
+          {
+            "name": "Djimon Hounsou",
+            "character": "Titus"
+          },
+          {
+            "name": "Bae Doona",
+            "character": "Nemesis"
+          }
+
+    ],
+    "imagesUrl": [
+      {
+        "title": "Rebel Moon Image",
+        "url": "../../assets/images/titles/rebel-moon/58PlR5pIdgmEbRzP9yRaSskcmrW.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Part 2 Trailer",
+            "imageUrl": "../../assets/images/titles/rebel-moon/4x5gfBXlg2eTmXqBX59qlXJ7xTG.jpg",
+            "trailerUrl": "https://www.youtube.com/embed/DSikc6IuN4g?si=tYfvpQyiaUPGv5SD"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/rebel-moon/58PlR5pIdgmEbRzP9yRaSskcmrW.jpg",
+        "urlTo": "/browse/film/rebel-moon",
+        "imageTitle": "Rebel Moon: Part One: A Child of Fire"
+      },
+      {
+        "imageUrl": "/assets/images/titles/you/vbi27aCqd2NuHJoBiDqKYXOS2m5.jpg",
+        "urlTo": "/browse/title/you",
+        "imageTitle": "You"
+      },
+      {
+        "imageUrl": "/assets/images/titles/13reasonswhy/13reasonswhy1.jpg",
+        "urlTo": "/browse/title/13-reasons-why",
+        "imageTitle": "13 Reasons Why"
+      },
+      {
+        "imageUrl": "/assets/images/titles/charmed/charmed3.jpg",
+        "urlTo": "/browse/title/charmed",
+        "imageTitle": "Charmed"
+      },
+      {
+        "imageUrl": "/assets/images/titles/therecruit/therecruit1.jpg",
+        "urlTo": "/browse/title/the-recruit",
+        "imageTitle": "The Recruit"
+      },
+      {
+        "imageUrl": "/assets/images/titles/killingeve/killingeve1.jpg",
+        "urlTo": "/browse/title/killing-eve",
+        "imageTitle": "Killing Eve"
+      },
+      {
+        "imageUrl": "/assets/images/titles/dahmer/dahmer1.jpg",
+        "urlTo": "/browse/title/dahmer",
+        "imageTitle": "Dahmer"
+      },
+      {
+        "imageUrl": "/assets/images/titles/tellmelies/tellmelies1.jpg",
+        "urlTo": "/browse/title/tell-me-lies",
+        "imageTitle": "Tell Me Lies"
+      },
+      {
+        "imageUrl": "/assets/images/titles/thewitcher/thewitcher1.jpg",
+        "urlTo": "/browse/title/the-witcher",
+        "imageTitle": "The Witcher"
+      },
+      {
+        "imageUrl": "/assets/images/titles/prettylittleliarsoriginalsin/pLL1.jpg",
+        "urlTo": "/browse/title/pretty-little-liars-original-sin",
+        "imageTitle": "Pretty Little Liars: Original Sin"
+      },
+      {
+        "imageUrl": "/assets/images/titles/lupin/lupin1.jpg",
+        "urlTo": "/browse/title/lupin",
+        "imageTitle": "Lupin"
+      },
+      {
+        "imageUrl": "/assets/images/titles/moneyheist/moneyheist1.jpg",
+        "urlTo": "/browse/title/la-casa-de-papel",
+        "imageTitle": "La Casa De Papel"
+      }
+    ],    
+    "seasonsEpisode": [
+      {
+        "title": "Part 2",
+        "episodes": [
+          {
+            "title": "The Scargiver",
+            "season": 1,
+            "episodeNumber": 2,
+            "description":  "The Rebel gears up for battle against the Motherworld as unbreakable bonds are forged, heroes emerge and legends are made.",
+            "runningTime": "123 Min",
+            "videoQuality": {
+              "480p": "https://spacestorageunit.blob.core.windows.net/container-x/rebel-moon-part-2/Rebel.Moon.Part.Two.The.Scargiver.2024.480p.NF.WEB-DL.x264-crept.studio.mkv",
+              "720p": "https://spacestorageunit.blob.core.windows.net/container-x/rebel-moon-part-2/Rebel.Moon.Part.Two.The.Scargiver.2024.720p.NF.WEB-DL.x264-crept.studio.mkv",
+              "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/rebel-moon-part-2/Rebel.Moon.Part.Two.The.Scargiver.2024.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv",
+              "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/rebel-moon-part-2/Rebel.Moon.Part.Two.The.Scargiver.2024.2160p.NF.DV.HDR.WEB-DL.Hindi.DDPA5.1+English.DDPA5.1.H.265-crept.studio.mkv"
+            },
+            "images": {
+              "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+              "poster": "YOUR_POSTER_URL_HERE",
+              "banner": "../../assets/images/titles/rebel-moon/fSzqf4jtAVcb9lq5ShM8Ub34DI4.jpg"
+            }
+          }
+    ]
+  }]
+}

@@ -1,0 +1,143 @@
+{
+    "title": "Aquaman and the Lost Kingdom",
+    "genres": [
+        "Science Fiction",
+        "Action",
+        "Superhero",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "Arthur Curry, also known as Aquaman, joins forces with his half-brother Orm to prevent Black Manta from unleashing destruction using the Black Trident, a weapon imbued with dark magic.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 124,
+    "rating": "13+",
+    "url": "/browse/film/aquaman-and-the-lost-kingdom",
+    "bannerImage": "/assets/images/titles/aquaman-and-the-lost-kingdom/aquamanandthelostkingdom1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Jason Momoa",
+            "character": "Arthur Curry / Aquaman"
+        },
+        {
+            "name": "Patrick Wilson",
+            "character": "Orm Marius"
+        },
+        {
+            "name": "Amber Heard",
+            "character": "Mera"
+        },
+        {
+            "name": "Yahya Abdul-Mateen II",
+            "character": "David Kane / Black Manta"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Aquaman and the Lost Kingdom Image",
+            "url": "../../assets/images/titles/aquaman-and-the-lost-kingdom/aquamanandthelostkingdom3.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "../../assets/images/titles/aquaman-and-the-lost-kingdom/aquamanandthelostkingdom4.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/TRAILER_YOUTUBE_ID_HERE"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/justice-league/justiceleague1.jpg",
+            "urlTo": "/browse/film/justice-league",
+            "imageTitle": "Justice League"
+        },
+        {
+            "imageUrl": "/assets/images/titles/shazam/shazam1.jpg",
+            "urlTo": "/browse/film/shazam",
+            "imageTitle": "Shazam!"
+        },
+        {
+            "imageUrl": "/assets/images/titles/wonder-woman/wonderwoman1.jpg",
+            "urlTo": "/browse/film/wonder-woman",
+            "imageTitle": "Wonder Woman"
+        },
+        {
+            "imageUrl": "/assets/images/titles/batman-v-superman/batmanvsuperman1.jpg",
+            "urlTo": "/browse/film/batman-v-superman",
+            "imageTitle": "Batman v Superman: Dawn of Justice"
+        },
+        {
+            "imageUrl": "/assets/images/titles/man-of-steel/manofsteel1.jpg",
+            "urlTo": "/browse/film/man-of-steel",
+            "imageTitle": "Man of Steel"
+        },
+        {
+            "imageUrl": "/assets/images/titles/aquaman/aquaman1.jpg",
+            "urlTo": "/browse/film/aquaman",
+            "imageTitle": "Aquaman"
+        },
+        {
+            "imageUrl": "/assets/images/titles/black-adam/blackadam1.jpg",
+            "urlTo": "/browse/film/black-adam",
+            "imageTitle": "Black Adam"
+        },
+        {
+            "imageUrl": "/assets/images/titles/the-suicide-squad/thesuicidesquad1.jpg",
+            "urlTo": "/browse/film/the-suicide-squad",
+            "imageTitle": "The Suicide Squad"
+        },
+        {
+            "imageUrl": "/assets/images/titles/green-lantern/greenlantern1.jpg",
+            "urlTo": "/browse/film/green-lantern",
+            "imageTitle": "Green Lantern"
+        },
+        {
+            "imageUrl": "/assets/images/titles/flash/flash1.jpg",
+            "urlTo": "/browse/film/flash",
+            "imageTitle": "The Flash"
+        },
+        {
+            "imageUrl": "/assets/images/titles/cyborg/cyborg1.jpg",
+            "urlTo": "/browse/film/cyborg",
+            "imageTitle": "Cyborg"
+        },
+        {
+            "imageUrl": "/assets/images/titles/wonder-woman-1984/wonderwoman19841.jpg",
+            "urlTo": "/browse/film/wonder-woman-1984",
+            "imageTitle": "Wonder Woman 1984"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "Aquaman and the Lost Kingdom",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "Arthur Curry, also known as Aquaman, joins forces with his half-brother Orm to prevent Black Manta from unleashing destruction using the Black Trident, a weapon imbued with dark magic.",
+                    "runningTime": "124 Min",
+                    "videoQuality": {
+                        "480p": "https://spacestorageunit.blob.core.windows.net/container-x/aquaman-and-the-lost-kingdom/Aquaman.and.the.Lost.Kingdom.2023.480p.BluRay.x264-crept.studio.mkv",
+                        "720p": "https://spacestorageunit.blob.core.windows.net/container-x/aquaman-and-the-lost-kingdom/Aquaman.and.the.Lost.Kingdom.2023.720p.BluRay.x264-crept.studio.mkv",
+                        "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/aquaman-and-the-lost-kingdom/Aquaman.and.the.Lost.Kingdom.2023.1080p.BluRay.x264.DD+7.1-crept.studio.mkv",
+                        "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/aquaman-and-the-lost-kingdom/Aquaman.and.the.Lost.Kingdom.2023.2160p.UHD.BluRay.x265.HDR.DV.DD+7.1-crept.studio.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/aquaman-and-the-lost-kingdom/thumbnail1.jpg",
+                        "poster": "../../assets/images/titles/aquaman-and-the-lost-kingdom/poster1.jpg",
+                        "banner": "../../assets/images/titles/aquaman-and-the-lost-kingdom/aquamanandthelostkingdom3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Trigger Warning",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Movie",
+      "Films",
+      "All"
+    ],
+    "description": "A skilled Special Forces commando takes ownership of her father's bar after he suddenly dies and soon finds herself at odds with a violent gang running rampant in her hometown.",
+    "release_year": "2024",
+    "seasons": 1,
+    "time": 106,
+    "rating": "18+", 
+    "url": "/browse/film/trigger-warning",
+    "bannerImage": "/assets/images/titles/trigger-warning/triggerwarning1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+      { "name": "Jessica Alba", "character": "Parker" },
+      { "name": "Mark Webber", "character": "Shawn" },
+      { "name": "Anthony Michael Hall", "character": "Deputy Standish" },
+      { "name": "Tone Bell", "character": "Calvin" },
+      { "name": "Jake Weary", "character": "Bartender" },
+      { "name": "Gabriel Basso", "character": "Nevada" },
+      { "name": "Alejandro De Hoyos", "character": "Diego" },
+      { "name": "Reiley McClendon", "character": "Mother of 3" },
+      { "name": "Sarah Minnich", "character": "Sara" },
+      { "name": "Drew Starkey", "character": "JC" }
+    ],
+    "imagesUrl": [
+      {
+        "title": "Trigger Warning Image",
+        "url": "../../assets/images/titles/trigger-warning/triggerwarning1.jpg"
+      }
+    ],
+    "trailers": [
+      {
+        "season": [
+          {
+            "title": "Official Trailer",
+            "imageUrl": "../../assets/images/titles/trigger-warning/triggerwarning2.jpg",
+            "trailerUrl": "https://www.youtube.com/embed/MnHTLh6ruW0?si=1EY2W9XS44H7lDaU"
+          }
+        ]
+      }
+    ],
+    "more-like": [
+      {
+        "imageUrl": "/assets/images/titles/the-raid-2/theraid2_1.jpg",
+        "urlTo": "/browse/film/the-raid-2",
+        "imageTitle": "The Raid 2"
+      },
+      {
+        "imageUrl": "/assets/images/titles/peppermint/peppermint1.jpg",
+        "urlTo": "/browse/film/peppermint",
+        "imageTitle": "Peppermint"
+      },
+      {
+        "imageUrl": "/assets/images/titles/john-wick/johnwick1.jpg",
+        "urlTo": "/browse/film/john-wick",
+        "imageTitle": "John Wick"
+      }
+    ],
+    "seasonsEpisode": [
+      {
+        "title": "Part 1",
+        "episodes": [
+          {
+            "title": "Trigger Warning",
+            "season": 1,
+            "episodeNumber": 1,
+            "description": "A skilled Special Forces commando takes ownership of her father's bar after he suddenly dies and soon finds herself at odds with a violent gang running rampant in her hometown.",
+            "runningTime": "106 Min",
+            "videoQuality": {
+              "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Trigger.Warning.2024/Trigger.Warning.2024.720p.WEB-DL.Pahe.Dubbed.EBTV.mkv",
+              "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Trigger.Warning.2024/Trigger.Warning.2024.1080p.WEB-DL.Pahe.Dubbed.EBTV.mkv"
+            },
+            "images": {
+              "thumbnail": "../../assets/images/titles/trigger-warning/triggerwarning1.jpg",
+              "poster": "../../assets/images/titles/trigger-warning/triggerwarning2.jpg",
+              "banner": "../../assets/images/titles/trigger-warning/triggerwarning3.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

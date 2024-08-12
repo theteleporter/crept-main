@@ -1,0 +1,112 @@
+{
+    "title": "Breakwater",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "A young ex-con risks his newfound freedom to track down the estranged daughter of a fellow inmate, and unknowingly brings a devil from her past straight to her doorstep.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 105,
+    "rating": "18+",
+    "url": "/browse/film/breakwater",
+    "bannerImage": "/assets/images/titles/breakwater/breakwater1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Dermot Mulroney",
+            "character": "Ray Childress"
+        },
+        {
+            "name": "Darren Mann",
+            "character": "Dovey"
+        },
+        {
+            "name": "Holliday Grainger",
+            "character": "Jessica"
+        },
+        {
+            "name": "David Eigenberg",
+            "character": "Skinny"
+        },
+        {
+            "name": "Jonathan Schaech",
+            "character": "Terry"
+        },
+        {
+            "name": "Lyndon Smith",
+            "character": "Detective Forester"
+        },
+        {
+            "name": "Donna Duplantier",
+            "character": "Louise"
+        },
+        {
+            "name": "Ash Santos",
+            "character": "Ashley"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Breakwater",
+            "url": "/assets/images/titles/breakwater/breakwater1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "/assets/images/titles/breakwater/breakwater2.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/6vGgzbIejUM?si=BfOYRdE7_JxOlaHe"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/shot-caller/shotcaller1.jpg",
+            "urlTo": "/browse/film/shot-caller",
+            "imageTitle": "Shot Caller"
+        },
+        {
+            "imageUrl": "/assets/images/titles/starred-up/starredup1.jpg",
+            "urlTo": "/browse/film/starred-up",
+            "imageTitle": "Starred Up"
+        },
+        {
+            "imageUrl": "/assets/images/titles/felon/felon1.jpg",
+            "urlTo": "/browse/film/felon",
+            "imageTitle": "Felon"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Breakwater",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "A young ex-con risks his newfound freedom to track down the estranged daughter of a fellow inmate, and unknowingly brings a devil from her past straight to her doorstep.",
+                    "runningTime": "105 Min",
+                    "videoQuality": {
+                        "720p": "https://dl3.tabar.sbs/Dubbed/Movies/Breakwater.2023/Breakwater.2023.720p.WEB-DL.YIFY.Dubbed.EBTV.mkv",
+                        "1080p": "https://dl3.tabar.sbs/Dubbed/Movies/Breakwater.2023/Breakwater.2023.1080p.WEB-DL.YIFY.Dubbed.EBTV.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "/assets/images/titles/breakwater/breakwater1.jpg",
+                        "poster": "/assets/images/titles/breakwater/breakwater2.jpg",
+                        "banner": "/assets/images/titles/breakwater/breakwater3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}

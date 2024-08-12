@@ -1,0 +1,122 @@
+{
+    "title": "Killers of the Flower Moon",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "Members of the Osage tribe in the United States are murdered under mysterious circumstances in the 1920s, sparking a major FBI investigation involving J. Edgar Hoover.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 206,
+    "rating": "18+",
+    "url": "/browse/film/killers-of-the-flower-moon",
+    "bannerImage": "/assets/images/titles/killers-of-the-flower-moon/killersoftheflowermoon1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Leonardo DiCaprio",
+            "character": "Ernest Burkhart"
+        },
+        {
+            "name": "Robert De Niro",
+            "character": "William Hale"
+        },
+        {
+            "name": "Lily Gladstone",
+            "character": "Mollie Burkhart"
+        },
+        {
+            "name": "Jesse Plemons",
+            "character": "Tom White"
+        },
+        {
+            "name": "Brendan Fraser",
+            "character": "W.S. Hamilton"
+        },
+        {
+            "name": "John Lithgow",
+            "character": "Prosecutor Leaward"
+        },
+        {
+            "name": "Tantoo Cardinal",
+            "character": "Lizzie Q"
+        },
+        {
+            "name": "Cara Jade Myers",
+            "character": "Anna Kyle Brown"
+        },
+        {
+            "name": "Jillian Dion",
+            "character": "Minnie Smith"
+        },
+        {
+            "name": "William Belleau",
+            "character": "Henry Roan"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Killers of the Flower Moon Image",
+            "url": "../../assets/images/titles/killers-of-the-flower-moon/killersoftheflowermoon1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "../../assets/images/titles/killers-of-the-flower-moon/killersoftheflowermoon2.jpg",
+                    "trailerUrl": "https://www.youtube.com/watch?v=EGWlJEXz1Iw"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/the-departed/thedeparted1.jpg",
+            "urlTo": "/browse/film/the-departed",
+            "imageTitle": "The Departed"
+        },
+        {
+            "imageUrl": "/assets/images/titles/goodfellas/goodfellas1.jpg",
+            "urlTo": "/browse/film/goodfellas",
+            "imageTitle": "Goodfellas"
+        },
+        {
+            "imageUrl": "/assets/images/titles/casino/casino1.jpg",
+            "urlTo": "/browse/film/casino",
+            "imageTitle": "Casino"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "Killers of the Flower Moon",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "Members of the Osage tribe in the United States are murdered under mysterious circumstances in the 1920s, sparking a major FBI investigation involving J. Edgar Hoover.",
+                    "runningTime": "206 Min",
+                    "videoQuality": {
+                        "480p": "https://spacestorageunit.blob.core.windows.net/container-x/killers-of-the-flower-moon/Killers.of.the.Flower.Moon.2023.480p.BluRay.x264-crept.studio.mkv",
+                        "720p": "https://spacestorageunit.blob.core.windows.net/container-x/killers-of-the-flower-moon/Killers.of.the.Flower.Moon.2023.720p.BluRay.x264-crept.studio.mkv",
+                        "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/killers-of-the-flower-moon/Killers.of.the.Flower.Moon.2023.1080p.BluRay.x264.DD+5.1-crept.studio.mkv",
+                        "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/killers-of-the-flower-moon/Killers.of.the.Flower.Moon.2023.2160p.UHD.BluRay.x265.HDR.DV.DD+5.1-crept.studio.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/killers-of-the-flower-moon/killersoftheflowermoon1.jpg",
+                        "poster": "../../assets/images/titles/killers-of-the-flower-moon/killersoftheflowermoon2.jpg",
+                        "banner": "../../assets/images/titles/killers-of-the-flower-moon/killersoftheflowermoon3.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+

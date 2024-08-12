@@ -1,0 +1,143 @@
+{
+    "title": "Madame Web",
+    "genres": [
+        "Science Fiction",
+        "Action",
+        "Superhero",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "A woman discovers she has psychic sensory powers that allow her to see into the spider world itself.",
+    "release_year": "2024",
+    "seasons": 1, 
+    "time": 124,
+    "rating": "13+", 
+    "url": "/browse/film/madame-web", 
+    "bannerImage": "/assets/images/titles/madameweb/madameweb8.jpg", 
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1, 
+    "cast": [
+        {
+            "name": "Dakota Johnson",
+            "character": "Madame Web"
+        },
+        {
+            "name": "Sydney Sweeney",
+            "character": "Julia Carpenter / Spider-Woman"
+        },
+        {
+            "name": "Celeste O'Connor",
+            "character": "Mattie Franklin / Spider-Woman"
+        },
+        {
+            "name": "Isabela Merced",
+            "character": "Anya Corazon / Spider-Girl"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "Madame Web Image",
+            "url": "../../assets/images/titles/madame-web/madameweb2.jpg" 
+        }
+    ],
+    "trailers": [
+        {
+            "season": [ 
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "../../assets/images/titles/madameweb/madameweb3.jpg",
+                    "trailerUrl": "https://www.youtube.com/embed/TRAILER_YOUTUBE_ID_HERE"
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/spider-man-into-the-spider-verse/poster.jpg",
+            "urlTo": "/browse/film/spider-man-into-the-spider-verse",
+            "imageTitle": "Spider-Man: Into the Spider-Verse"
+        },
+        {
+            "imageUrl": "/assets/images/titles/venom/venom1.jpg",
+            "urlTo": "/browse/film/venom",
+            "imageTitle": "Venom"
+        },
+        {
+            "imageUrl": "/assets/images/titles/morbius/poster.jpg",
+            "urlTo": "/browse/film/morbius",
+            "imageTitle": "Morbius"
+        },
+        {
+            "imageUrl": "/assets/images/titles/doctorstrangemultiverse/doctorstrangemultiverse1.jpg",
+            "urlTo": "/browse/film/doctor-strange-in-the-multiverse-of-madness",
+            "imageTitle": "Doctor Strange In The Multiverse Of Madness"
+        },
+        {
+            "imageUrl": "/assets/images/titles/eternals/poster.jpg",
+            "urlTo": "/browse/film/eternals",
+            "imageTitle": "Eternals"
+        },
+        {
+            "imageUrl": "/assets/images/titles/shang-chi/poster.jpg",
+            "urlTo": "/browse/film/shang-chi",
+            "imageTitle": "Shang-Chi and the Legend of the Ten Rings"
+        },
+        {
+            "imageUrl": "/assets/images/titles/black-widow/poster.jpg",
+            "urlTo": "/browse/film/black-widow",
+            "imageTitle": "Black Widow"
+        },
+        {
+            "imageUrl": "/assets/images/titles/captain-marvel/poster.jpg",
+            "urlTo": "/browse/film/captain-marvel",
+            "imageTitle": "Captain Marvel"
+        },
+        {
+            "imageUrl": "/assets/images/titles/ant-man/poster.jpg",
+            "urlTo": "/browse/film/ant-man",
+            "imageTitle": "Ant-Man"
+        },
+        {
+            "imageUrl": "/assets/images/titles/guardians-of-the-galaxy/poster.jpg",
+            "urlTo": "/browse/film/guardians-of-the-galaxy",
+            "imageTitle": "Guardians of the Galaxy"
+        },
+        {
+            "imageUrl": "/assets/images/titles/thor-ragnarok/poster.jpg",
+            "urlTo": "/browse/film/thor-ragnarok",
+            "imageTitle": "Thor: Ragnarok"
+        },
+        {
+            "imageUrl": "/assets/images/titles/black-panther/poster.jpg",
+            "urlTo": "/browse/film/black-panther",
+            "imageTitle": "Black Panther"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1", 
+            "episodes": [
+                {
+                    "title": "Madame Web", 
+                    "season": 1, 
+                    "episodeNumber": 1, 
+                    "description":  "A woman discovers she has psychic sensory powers that allow her to see into the spider world itself.",
+                    "runningTime": "124 Min",
+                    "videoQuality": {
+                        "480p": "https://spacestorageunit.blob.core.windows.net/container-x/madame-web/Madame.Web.2024.480p.BluRay.x264-crept.studio.mkv",
+                        "720p": "https://spacestorageunit.blob.core.windows.net/container-x/madame-web/Madame.Web.2024.720p.BluRay.x264-crept.studio.mkv",
+                        "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/madame-web/Madame.Web.2024.1080p.BluRay.x264.DD+7.1-crept.studio.mkv",
+                        "2160p": "https://spacestorageunit.blob.core.windows.net/container-x/madame-web/Madame.Web.2024.2160p.UHD.BluRay.x265.HDR10P.DV.DD+5.1.Atmos-crept.studio.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/madame-web/thumbnail.jpg",
+                        "poster": "../../assets/images/titles/madame-web/poster.jpg",
+                        "banner": "../../assets/images/titles/madameweb/madameweb9.jpg" 
+                    }
+                }
+            ]
+        }
+    ]
+}

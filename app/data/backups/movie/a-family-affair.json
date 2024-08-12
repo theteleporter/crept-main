@@ -1,0 +1,120 @@
+{
+    "title": "A Family Affair",
+    "genres": [
+        "Romantic Comedy",
+        "Drama",
+        "Movie",
+        "Films",
+        "All"
+    ],
+    "description": "A pop star's unexpected romance with her assistant's mom sparks a whirlwind of complications, forcing them to confront the age gap and navigate the fallout from their secret affair.",
+    "release_year": "2023",
+    "seasons": 1,
+    "time": 119, 
+    "rating": "18+",
+    "url": "/browse/film/a-family-affair",
+    "bannerImage": "/assets/images/titles/a-family-affair/afamilyaffair1.jpg",
+    "language": "En",
+    "country": "US",
+    "number_of_episodes": 1,
+    "cast": [
+        {
+            "name": "Nicole Kidman",
+            "character": "Catherine McKay"
+        },
+        {
+            "name": "Zac Efron",
+            "character": "Chris Cole"
+        },
+        {
+            "name": "Joey King",
+            "character": "Zara Young"
+        },
+        {
+            "name": "Kathy Bates",
+            "character": "Noni McKay"
+        },
+        {
+            "name": "Liza Koshy",
+            "character": "Megan"
+        },
+        {
+            "name": "Stephen Guarino",
+            "character": "Corey"
+        },
+        {
+            "name": "Becky Ann Baker",
+            "character": "Mary"
+        },
+        {
+            "name": "Sarah Hyland",
+            "character": "Ashley"
+        },
+        {
+            "name": "Nicole Ari Parker",
+            "character": "Chenille"
+        },
+        {
+            "name": "Camille Chen",
+            "character": "Sophie"
+        }
+    ],
+    "imagesUrl": [
+        {
+            "title": "A Family Affair Image",
+            "url": "../../assets/images/titles/a-family-affair/afamilyaffair1.jpg"
+        }
+    ],
+    "trailers": [
+        {
+            "season": [
+                {
+                    "title": "Official Trailer",
+                    "imageUrl": "../../assets/images/titles/a-family-affair/afamilyaffair2.jpg",
+                    "trailerUrl": "https://www.youtube.com/watch?v=l9zb5NHV98M" 
+                }
+            ]
+        }
+    ],
+    "more-like": [
+        {
+            "imageUrl": "/assets/images/titles/the-proposal/theproposal1.jpg",
+            "urlTo": "/browse/film/the-proposal",
+            "imageTitle": "The Proposal"
+        },
+        {
+            "imageUrl": "/assets/images/titles/how-to-lose-a-guy-in-10-days/howtoloseaguyin10days1.jpg",
+            "urlTo": "/browse/film/how-to-lose-a-guy-in-10-days",
+            "imageTitle": "How to Lose a Guy in 10 Days"
+        },
+        {
+            "imageUrl": "/assets/images/titles/27-dresses/27dresses1.jpg",
+            "urlTo": "/browse/film/27-dresses",
+            "imageTitle": "27 Dresses"
+        }
+    ],
+    "seasonsEpisode": [
+        {
+            "title": "Part 1",
+            "episodes": [
+                {
+                    "title": "A Family Affair",
+                    "season": 1,
+                    "episodeNumber": 1,
+                    "description": "A pop star's unexpected romance with her assistant's mom sparks a whirlwind of complications, forcing them to confront the age gap and navigate the fallout from their secret affair.",
+                    "runningTime": "119 Min",
+                    "videoQuality": {
+                        "480p": "https://spacestorageunit.blob.core.windows.net/container-x/a-family-affair/A.Family.Affair.2024.480p.NF.WEB-DL.x264-crept.studio.mkv",
+                        "720p": "https://spacestorageunit.blob.core.windows.net/container-x/a-family-affair/A.Family.Affair.2024.720p.NF.WEB-DL.x264-crept.studio.mkv",
+                        "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/a-family-affair/A.Family.Affair.2024.1080p.NF.WEB-DL.x264.6CH-crept.studio.mkv"
+                    },
+                    "images": {
+                        "thumbnail": "../../assets/images/titles/a-family-affair/afamilyaffair1.jpg",
+                        "poster": "../../assets/images/titles/a-family-affair/afamilyaffair2.jpg",
+                        "banner": "../../assets/images/titles/a-family-affair/afamilyaffair5.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+  "title": "Asphalt City",
+  "genres": ["Drama", "Thriller", "Movie", "Films", "All"],
+  "description": "An emergency medical technician in New York City struggles with PTSD and substance abuse while navigating the high-stress demands of his job.",
+  "release_year": "2024",
+  "seasons": 1,
+  "time": 114,
+  "rating": "18+",
+  "url": "/browse/film/asphalt-city",
+  "bannerImage": "/assets/images/titles/asphalt-city/asphaltcity1.jpg",
+  "language": "En",
+  "country": "US",
+  "number_of_episodes": 1,
+  "cast": [
+    { "name": "Tye Sheridan", "character": "Ollie Cross" },
+    { "name": "Sean Penn", "character": "Gene Rutkovsky" },
+    { "name": "Gbenga Akinnagbe", "character": "Verdis" },
+    { "name": "Michael Pitt", "character": "Lafontaine" },
+    { "name": "Katherine Waterston", "character": "Nancy" },
+    { "name": "Mike Tyson", "character": "Chief Burroughs" },
+    { "name": "Raquel Nave", "character": "Clara" },
+    { "name": "Kali Reis", "character": "Nia Brown" },
+    { "name": "Onie Maceo Watlington", "character": "Sylvie" },
+    { "name": "Alisa Mironova", "character": "Russian Wife" },
+    { "name": "Robert Oppel", "character": "Shelter Medic" },
+    { "name": "Donna Glaesener", "character": "Shelter Nurse" }
+  ],
+  "imagesUrl": [
+    {
+      "title": "Asphalt City Image",
+      "url": "../../assets/images/titles/asphalt-city/asphaltcity1.jpg"
+    }
+  ],
+  "trailers": [
+    {
+      "season": [
+        {
+          "title": "Official Trailer",
+          "imageUrl": "../../assets/images/titles/asphalt-city/asphaltcity2.jpg",
+          "trailerUrl": "https://www.youtube.com/watch?v=l9zb5NHV98M"
+        }
+      ]
+    }
+  ],
+  "more-like": [
+    {
+      "imageUrl": "/assets/images/titles/bringing-out-the-dead/bringingoutthedead1.jpg",
+      "urlTo": "/browse/film/bringing-out-the-dead",
+      "imageTitle": "Bringing Out the Dead"
+    },
+    {
+      "imageUrl": "/assets/images/titles/ambulance/ambulance1.jpg",
+      "urlTo": "/browse/film/ambulance",
+      "imageTitle": "Ambulance"
+    },
+    {
+      "imageUrl": "/assets/images/titles/crash/crash1.jpg",
+      "urlTo": "/browse/film/crash",
+      "imageTitle": "Crash"
+    }
+  ],
+  "seasonsEpisode": [
+    {
+      "title": "Part 1",
+      "episodes": [
+        {
+          "title": "Asphalt City",
+          "season": 1,
+          "episodeNumber": 1,
+          "description": "An emergency medical technician in New York City struggles with PTSD and substance abuse while navigating the high-stress demands of his job.",
+          "runningTime": "114 Min",
+          "videoQuality": {
+            "480p": "https://spacestorageunit.blob.core.windows.net/container-x/asphalt-city/Asphalt.City.2024.480p.BluRay.x264-crept.studio.mkv",
+            "720p": "https://spacestorageunit.blob.core.windows.net/container-x/asphalt-city/Asphalt.City.2024.720p.BluRay.x264-crept.studio.mkv",
+            "1080p": "https://spacestorageunit.blob.core.windows.net/container-x/asphalt-city/Asphalt.City.2024.1080p.BluRay.x264.DD+5.1-crept.studio.mkv"
+          },
+          "images": {
+            "thumbnail": "../../assets/images/titles/asphalt-city/asphaltcity1.jpg",
+            "poster": "../../assets/images/titles/asphalt-city/asphaltcity2.jpg",
+            "banner": "../../assets/images/titles/asphalt-city/asphaltcity3.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}
